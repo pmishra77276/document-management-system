@@ -1,0 +1,43 @@
+Subdomains:
+	1. Ownership and Title Documents: (Documents that establish and evidence ownership of real property)
+	    1.1 Ownership and Title Documents Categories:
+		(i) Title Deeds/Sale Deeds: The primary legal document that transfers ownership of property from the seller to the buyer.
+		(ii) Property Tax Records: Official records maintained by government authorities detailing the assessment and payment of taxes on a property, often used as secondary evidence of ownership.
+		(iii) Certificates of Occupancy: Documents issued by local authorities certifying that a building or property is fit for habitation or use.
+		(iv) Land Survey Documents: Official maps and reports prepared by licensed surveyors that define the boundaries and dimensions of a property.
+		(v) Mutation Records: Government records that document the transfer of title or ownership of a property from one person to another.
+
+	2. Transactional Documents (Buying, Selling, Leasing): (Documents related to the transfer or use of property)
+	    2.1 Sale and Purchase Agreement Documents:
+		(i) Agreement to Sell/Purchase: A preliminary contract outlining the terms and conditions of a property sale before the final transfer.
+		(ii) Sale Deed/Conveyance Deed: The final legal document that transfers ownership of a property from the seller to the buyer.
+		2.2 Lease Agreement Documents:
+		(i) Residential Lease Agreements: Contracts between a landlord and a tenant for the rental of a residential property.
+		(ii) Commercial Lease Agreements: Contracts between a landlord and a business for the rental of commercial space.
+		(iii) Sublease Agreements: Agreements where a tenant leases a property they are renting to another party.
+		2.3 Other Transactional Documents:
+		(i) Gift Deeds: Legal documents used to transfer ownership of property as a gift.
+		(ii) Exchange Deeds: Legal documents used to transfer ownership of property through an exchange between two parties.
+
+	3. Financing Documents: (Documents related to obtaining funds for real estate transactions)
+	    3.1 Financing Documents Categories:
+		(i) Mortgage Deeds: Legal documents that create a lien on a property as security for a loan.
+		(ii) Loan Agreements (Real Estate Specific): Contracts outlining the terms and conditions of a loan used to purchase real estate.
+		(iii) Promissory Notes: Written promises to repay a specific sum of money with interest within a specified timeframe, often associated with mortgage loans.
+		(iv) Refinancing Agreements: Agreements to replace an existing mortgage with a new one, often with different terms.
+
+	4. Development and Land Use Documents: (Documents related to the development, planning, and use of real property)
+	    4.1 Development and Land Use Documents Categories:
+		(i) Zoning Regulations and Maps: Local government rules that dictate how land can be used in different areas.
+		(ii) Building Permits: Authorizations granted by local authorities to commence construction or renovation work on a property.
+		(iii) Development Agreements: Contracts between a developer and a local government outlining the terms and conditions for a development project.
+		(iv) Land Use Plans: Comprehensive plans prepared by local authorities that guide future development and land use within their jurisdiction.
+		(v) Environmental Impact Assessments (EIAs) (Related to Property Development): Reports assessing the potential environmental consequences of a proposed real estate development project.
+
+	5. Property Dispute Documents: (Documents related to legal conflicts involving real property)
+	    5.1 Property Dispute Documents Categories:
+		(i) Notices of Trespass: Formal notices informing individuals that they are prohibited from entering or remaining on a property.
+		(ii) Eviction Notices: Legal notices served by a landlord to a tenant demanding that they vacate the property by a certain date.
+		(iii) Property Line Dispute Documents: Surveys, legal filings, and correspondence related to disagreements over the boundaries of adjacent properties.
+		(iv) Easement Dispute Documents: Legal documents and correspondence related to disagreements over the right to use another person's property for a specific purpose.
+		(v) Partition Suit Documents: Legal filings in a lawsuit to divide jointly owned property among the co-owners.

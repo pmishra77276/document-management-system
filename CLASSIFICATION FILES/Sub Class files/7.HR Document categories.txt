@@ -1,0 +1,47 @@
+Subdomains:
+	1. Recruitment and Hiring Documents: (Documents related to the process of attracting and hiring employees)
+	    1.1 Recruitment and Hiring Documents Categories:
+		(i) Job Descriptions: Documents outlining the responsibilities, duties, and qualifications for a specific job role.
+		(ii) Employment Applications: Forms used by candidates to provide their personal and professional information when applying for a job.
+		(iii) Offer Letters: Formal letters from an employer to a candidate offering them a position of employment, outlining key terms and conditions.
+		(iv) Background Check Authorizations: Documents signed by candidates giving permission for the employer to conduct background checks.
+		(v) Non-Discrimination Policies (related to Hiring): Company policies that prohibit discrimination in the hiring process based on protected characteristics.
+
+	2. Employment Relationship Documents: (Documents that define the terms and conditions of employment)
+	    2.1 Employment Relationship Documents Categories:
+		(i) Employment Contracts (Individual): Formal agreements between an employer and an individual employee outlining the terms and conditions of their employment.
+		(ii) Collective Bargaining Agreements: Contracts between an employer and a labor union representing a group of employees, setting forth the terms and conditions of employment for those employees.
+		(iii) Employee Handbooks: Comprehensive documents outlining company policies, procedures, and employee rights and responsibilities.
+		(iv) Confidentiality Agreements (Employment Specific): Agreements signed by employees promising to keep certain company information confidential.
+		(v) Non-Compete Agreements: Agreements that may restrict an employee's ability to work for a competitor after leaving the company (enforceability varies by jurisdiction).
+
+	3. Compensation and Benefits Documents: (Documents related to employee pay and benefits)
+	    3.1 Compensation and Benefits Documents Categories:
+		(i) Payroll Records: Documents detailing employees' wages, deductions, and net pay.
+		(ii) Salary and Wage Agreements: Specific agreements outlining an employee's rate of pay.
+		(iii) Bonus Agreements: Agreements specifying the terms and conditions under which an employee may receive a bonus.
+		(iv) Benefits Enrollment Forms: Documents used by employees to sign up for company-sponsored benefits (e.g., health insurance, retirement plans).
+		(v) Stock Option Agreements (Employment Related): Agreements granting employees the right to purchase company stock at a specified price.
+
+	4. Employee Conduct and Discipline Documents: (Documents related to workplace rules and disciplinary actions)
+	    4.1 Employee Conduct and Discipline Documents Categories:
+		(i) Code of Conduct: A set of rules outlining acceptable behavior and ethical standards for employees in the workplace.
+		(ii) Performance Evaluation Forms: Documents used to assess an employee's job performance.
+		(iii) Disciplinary Action Notices: Formal written notices issued to employees regarding warnings, suspensions, or other disciplinary measures.
+		(iv) Workplace Harassment Policies: Company policies prohibiting harassment and outlining procedures for reporting and investigating such incidents.
+		(v) Grievance Procedures: Formal processes outlined by the company for employees to raise and resolve workplace complaints.
+
+	5. Termination of Employment Documents: (Documents related to the end of the employment relationship)
+	    5.1 Termination of Employment Documents Categories:
+		(i) Resignation Letters: Formal written notices from an employee informing the employer of their decision to leave their job.
+		(ii) Termination Letters: Formal written notices from an employer informing an employee that their employment is being terminated.
+		(iii) Severance Agreements: Agreements outlining the terms and conditions of an employee's separation from the company, often including severance pay and benefits.
+		(iv) Release Agreements: Legal documents where an employee agrees to release the employer from certain potential claims in exchange for agreed-upon terms (often part of a severance agreement).
+
+	6. HR Compliance and Policy Documents: (Documents related to legal compliance in HR practices)
+	    6.1 HR Compliance and Policy Documents Categories:
+		(i) Equal Employment Opportunity (EEO) Policies: Company policies affirming its commitment to equal opportunities in employment.
+		(ii) Workplace Safety Policies (HR Related): Policies outlining safety procedures and practices in the workplace.
+		(iii) Leave Policies: Documents detailing the company's policies on various types of leave (e.g., sick leave, vacation, family leave).
+		(iv) HR Audit Reports: Internal or external reviews of HR practices to ensure compliance with laws and regulations.
+		(v) Immigration Compliance Documents (e.g., I-9 Forms): Documents used to verify the eligibility of individuals for employment in a particular country (e.g., the U.S. Form I-9).

@@ -1,0 +1,60 @@
+Subdomains:
+	1. Patents: (Legal rights granted for an invention)
+	    1.1 Patent Legal Documents:
+		(i) Patent Applications: Documents filed to seek patent protection for an invention (including Provisional and Non-Provisional applications).
+		(ii) Patent Grants/Certificates: Official documents issued by a patent office granting patent rights.
+		(iii) Patent Assignment Agreements: Agreements transferring the ownership of a patent from one party to another.
+		(iv) Patent License Agreements: Agreements granting permission to another party to use a patented invention under specific terms and conditions.
+		(v) Patent Maintenance Documents: Records related to the payment of renewal fees and other requirements to keep a patent in force.
+
+	2. Trademarks: (Symbols, designs, or phrases legally registered to represent a company or product)
+	    2.1 Trademark Legal Documents:
+		(i) Trademark Applications: Documents filed to register a trademark with a trademark office.
+		(ii) Trademark Registrations/Certificates: Official documents issued by a trademark office confirming the registration of a trademark.
+		(iii) Trademark Assignment Agreements: Agreements transferring the ownership of a trademark from one party to another.
+		(iv) Trademark License Agreements: Agreements granting permission to another party to use a trademark under specific terms and conditions.
+		(v) Trademark Renewal Documents: Records related to the renewal of a trademark registration.
+		(vi) Notice of Opposition: Documents filed to oppose the registration of a trademark.
+
+	3. Copyrights: (Legal rights granted to the creator of original works of authorship)
+		3.1 Copyright Legal Documents:
+		(i) Copyright Registration Certificates: Official documents issued by a copyright office registering a copyright.
+		(ii) Copyright Assignment Agreements: Agreements transferring the ownership of a copyright from one party to another.
+		(iii) Copyright License Agreements: Agreements granting permission to another party to use a copyrighted work under specific terms and conditions.
+		(iv) Copyright Transfer Agreements: Similar to assignment agreements, documenting the transfer of copyright.
+		(v) Digital Millennium Copyright Act (DMCA) Notices: Legal notices issued to online service providers regarding copyright infringement.
+
+	4. Trade Secrets: (Confidential information that gives a business a competitive edge)
+	    4.1 Trade Secret Legal Documents:
+		(i) Non-Disclosure Agreements (NDAs): Agreements used to protect the confidentiality of trade secrets shared with other parties.
+		(ii) Confidentiality Clauses in Employment Agreements: Provisions in employment contracts that require employees to maintain the confidentiality of trade secrets.
+		(iii) Trade Secret Misappropriation Lawsuit Filings: Legal documents filed in court alleging the unlawful acquisition or use of trade secrets.
+
+	5. Industrial Designs (or Design Patents): (Protect the ornamental or aesthetic aspects of an article)
+	    5.1 Industrial Design Legal Documents:
+		(i) Industrial Design Applications: Documents filed to seek protection for the visual design of an article.
+		(ii) Industrial Design Registrations/Certificates: Official documents granting protection for the aesthetic appearance of a product.
+		(iii) Industrial Design Assignment Agreements: Agreements transferring the ownership of an industrial design registration.
+		(iv) Industrial Design License Agreements: Agreements granting permission to another party to use a registered industrial design.
+
+	6. Geographical Indications (GIs): (Identify a product as originating from a specific geographical location and having qualities, reputation, or characteristics essentially attributable to that origin)
+	    6.1 Geographical Indication Legal Documents:
+		(i) Applications for Registration of Geographical Indications: Documents filed to register a GI for specific products from a particular region.
+		(ii) Certificates of Registration of Geographical Indications: Official documents confirming the registration of a GI.
+		(iii) Regulations Governing the Use of Geographical Indications: Rules and guidelines specifying how a registered GI can be used.
+		(iv) Licensing Agreements for the Use of Geographical Indications: Agreements granting permission to producers within the specified region to use the GI.
+
+	7. Plant Breeders' Rights (PBRs) or Plant Variety Protection (PVP): (Grant breeders exclusive rights over new varieties of plants)
+	    7.1 Plant Breeders' Rights Legal Documents:
+		(i) Applications for Plant Breeders' Rights: Documents filed to seek protection for a new plant variety.
+		(ii) Certificates of Plant Breeders' Rights: Official documents granting exclusive rights to the breeder of a new plant variety.
+		(iii) Licensing Agreements for Plant Variety Protection: Agreements granting permission to others to produce or reproduce the protected plant variety.
+
+	8. Layout-Designs (Topographies) of Integrated Circuits: (Protect the three-dimensional arrangement of elements in an integrated circuit)
+	    8.1 Layout-Designs of Integrated Circuits Legal Documents:
+		(i) Applications for Registration of Layout-Designs: Documents filed to register the specific layout of an integrated circuit.
+		(ii) Certificates of Registration of Layout-Designs: Official documents granting protection for the topography of an integrated circuit.
+		(iii) Assignment Agreements for Layout-Designs: Agreements transferring the ownership of the registered layout-design.
+		(iv) Licensing Agreements for Layout-Designs: Agreements granting permission to another party to use the protected layout-design.
+		
+		

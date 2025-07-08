@@ -1,0 +1,64 @@
+Subdomains:
+	1. Pre-Litigation Documents: (Documents generated before a formal lawsuit is initiated)
+	    1.1 Pre-Litigation Documents Categories:
+		(i) Demand Letters: Formal letters sent by one party to another demanding a specific action or remedy to avoid litigation.
+		(ii) Cease and Desist Letters: Formal letters demanding that a party stop a particular activity that the sender believes is unlawful or infringing on their rights.
+		(iii) Settlement Negotiation Correspondence: Letters, emails, or other written communications exchanged between parties in an attempt to resolve a dispute before filing a lawsuit.
+		(iv) Pre-Action Protocols: Documents and steps required in some jurisdictions before commencing certain types of litigation, aimed at encouraging early settlement.
+
+	2. Pleadings: (Formal documents filed with the court to initiate and define the issues in a lawsuit)
+	    2.1 Pleadings Categories:
+		(i) Complaint/Petition: The initial document filed by the plaintiff (the party bringing the lawsuit) to start the litigation, outlining the claims and requested relief.
+		(ii) Answer/Response: The defendant's (the party being sued) formal response to the complaint, addressing the plaintiff's allegations and raising any defenses.
+		(iii) Counterclaims: Claims brought by the defendant against the plaintiff within the same lawsuit.
+		(iv) Crossclaims: Claims brought by one defendant against another defendant in the same lawsuit.
+		(v) Third-Party Complaints: Documents filed by a defendant to bring a new party into the lawsuit who may be liable for the plaintiff's damages.
+		(vi) Reply to Counterclaim: The plaintiff's response to any counterclaims asserted by the defendant.
+
+	3. Discovery Documents: (Documents and information exchanged between parties to gather evidence relevant to the lawsuit)
+	    3.1 Discovery Documents Categories:
+		(i) Interrogatories: Written questions served by one party on another that must be answered under oath.
+		(ii) Requests for Production of Documents: Formal requests to the opposing party to provide specific documents or tangible items for inspection and copying.
+		(iii) Requests for Admission: Formal requests to the opposing party to admit or deny the truth of certain facts or the genuineness of certain documents.
+		(iv) Deposition Transcripts: Written records of oral testimony given by a witness under oath, taken outside of court.
+		(v) Subpoenas: Legal documents compelling a witness to appear for a deposition or at trial, or to produce documents.
+
+	4. Motion Practice Documents: (Documents filed with the court seeking a specific order or ruling before or during trial)
+	    4.1 Motion Practice Documents Categories:
+		(i) Motions to Dismiss: Requests by the defendant to have the lawsuit dismissed for reasons such as lack of jurisdiction or failure to state a valid claim.
+		(ii) Motions for Summary Judgment: Requests by a party to have the court rule in their favor without a full trial because there is no genuine dispute of material fact.
+		(iii) Motions to Compel Discovery: Requests to the court to order the opposing party to comply with discovery requests.
+		(iv) Motions in Limine: Requests to the court to exclude certain evidence from being presented at trial.
+		(v) Other Procedural Motions: Various other motions related to the conduct of the litigation, such as motions for extensions of time, motions to amend pleadings, etc.
+
+	5. Trial Documents: (Documents related to the proceedings during a trial)
+	    5.1 Trial Documents Categories:
+		(i) Witness Lists: Lists of individuals who will testify at trial, provided by each party.
+		(ii) Exhibit Lists: Lists of documents and other evidence that each party intends to present at trial.
+		(iii) Trial Briefs: Written legal arguments submitted to the court before or during trial, outlining a party's case and the relevant law.
+		(iv) Jury Instructions: Proposed instructions on the law that the parties suggest the judge should give to the jury (in jury trials).
+		(v) Verdict Forms: Forms provided to the jury to record their findings of fact and verdict.
+		(vi) Court Orders and Rulings issued during trial: Orders made by the judge on various matters that arise during the trial.
+
+	6. Post-Trial Documents: (Documents filed after a trial has concluded)
+	    6.1 Post-Trial Documents Categories:
+		(i) Judgments/Orders: The final decision of the court resolving the lawsuit.
+		(ii) Motions for New Trial: Requests by a losing party to have the court order a new trial due to errors or irregularities in the original trial.
+		(iii) Motions for Judgment Notwithstanding the Verdict (JNOV): Requests by a losing party to have the court enter a judgment in their favor, even if the jury reached a different verdict.
+
+	7. Appellate Documents: (Documents filed in an appellate court to review the decision of a lower court)
+	    7.1 Appellate Documents Categories:
+		(i) Notice of Appeal: The formal document filed to initiate the appeal process.
+		(ii) Appellate Briefs: Written legal arguments submitted to the appellate court by each party, arguing why the lower court's decision should be affirmed or reversed.
+		(iii) Record on Appeal: The documents and transcripts from the lower court proceedings that are submitted to the appellate court for review.
+		(iv) Appellate Court Decisions/Opinions: The written decision of the appellate court, explaining its reasoning and whether it affirms, reverses, or modifies the lower court's decision.
+
+	8. Alternative Dispute Resolution (ADR) Documents: (Documents related to resolving disputes outside of traditional court litigation)
+	    8.1 Alternative Dispute Resolution (ADR) Documents Categories:
+		(i) Mediation Briefs: Documents submitted to the mediator outlining a party's position and the issues in dispute.
+		(ii) Mediator's Proposals: Suggestions made by the mediator to help the parties reach a settlement.
+		(iii) Arbitration Demands/Submissions: Formal documents initiating arbitration proceedings and outlining the issues to be decided by the arbitrator.
+		(iv) Responses to Arbitration Demands/Submissions: The responding party's formal answer to the arbitration claim.
+		(v) Arbitrator Selection Documents: Documents related to the process of choosing an arbitrator.
+		(vi) Witness Statements and Exhibits for Arbitration: Evidence presented by the parties in an arbitration proceeding.
+		(vii) Arbitration Awards: The final decision issued by the arbitrator resolving the dispute.

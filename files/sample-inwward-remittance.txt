@@ -1,0 +1,440 @@
+﻿Inward Remittance for Advance Payment against Exports and Others 
+
+ 
+
+Sr.   Mandatory Page 
+
+No. Particulars of Documents / Optional No. 
+
+1. Disposal Instruction M 2-4 
+
+2. Copy of Sales Contract / Proforma Invoice M 5 
+
+    
+
+Pre Checks 
+
+1. Purpose of the remittance received to be confirmed. 
+
+Commonly used Purpose Code 
+
+P0103 (Advance against export of goods)  P1006 (Business and Management         
+
+consultancy and public relation services 
+
+P0807 (Advance against export of  P0012 (Long and medium term loan with                
+
+Software) original maturity of 1 year or more) 
+
+P0802 (Software consultancy /       P0006 (Foreign Direct Investment) 
+
+implementation) other than those covers 
+
+in SOFTEX forms 
+ 
+
+1. Sales Contract / Proforma Invoice should be countersigned by both the parties. 
+
+2. ICICI Bank does not handle any transaction involving any counterparties / 
+
+countries /shipping lines /ship flags /ports /shore listed under OFAC/UN 
+
+sanctions list. 
+
+3. Advance remittance received towards exports Import Export Code (IEC) 
+
+allotted by DGFT is mandatory. 
+
+4. Inward Remittance received towards software exports, exporter to be 
+
+registered party in STPI. 
+
+5. Inward Remittance received in advance towards Merchant Trade before import 
+
+leg payment, the fund would be earmarked for Outward Payment of import leg. 
+
+6. Inward Remittance received towards FDI, the remittance will be settled upon 
+
+receiving of KYC form foreign bank via SWIFT. 
+
+7. RBI/FEMA guideline will be applicable from time to time. 
+
+8. Depending on the nature of transaction ICICI Bank may ask for additional 
+
+documents as and when required. 
+
+ 
+
+Post Transaction Compliance 
+
+1. Export to be made within 1 year of Advance Remittance received. 
+
+2. Export documents to be submitted within 21 days from the date of shipment. 
+
+3. Direct dispatch of export documents to overseas party is permitted provided a) 
+
+The exporter is Status Holder or b) Payment received in advance of full value. 
+
+4. Inward Remittance received against FDI, ARF filing to be done within 30 days of 
+
+credit of remittance and FCGPR filing within 6 months. 
+
+5. Inward Remittance received against ECB, Form 83 and ECB2 Return to be filed 
+
+monthly. 
+
+1 | P a g e  
+ 
+
+
+
+ 
+
+Indicative format of Disposal Instructions (DI) for inward remittance 
+
+ (To be submitted by the client who has not given Standing Settlement Instruction)   
+
+<Month DD, YYYY> 
+
+ 
+
+                                                                                                                      
+
+Ref. No.: <Abcd/1234> 
+
+ 
+
+ 
+
+The Branch Manager, 
+
+ICICI Bank Limited, 
+
+____________ Branch. 
+
+<Address Line 1> 
+
+<Address Line 2> 
+
+<City - PIN Code> 
+
+ 
+
+ 
+
+Dear Sir/Madam, 
+
+ 
+
+Disposal Instructions for the inward remittance. 
+
+With reference to your e-mail and/or telephonic intimation dated <Month DD, YYYY>, the 
+
+desired information for disposal of the inward remittance is furnished below. 
+
+ 
+
+1. Details of Inward Remittance: 
+
+ 
+
+   
+
+1 Foreign Currency & Amount 
+
+   
+
+2 Name & Address of Remitter 
+
+3 Value Date  
+
+  Details Code 
+
+4 Purpose (Tick √  as applicable) 
+
+                                                                                                             
+
+(a) {  } Expoprt other than advance  
+
+payment (give bill no) 
+
+   
+
+  {  } Shipment to be made within 
+
+  12 months of receipt. ( EG-SAPE) 
+
+ {  }Advance Payment against Exports 
+ 
+
+(b) (APE)  ( Tick √  as applicable) 
+{   } Manufacture &shipment to be 
+
+made after 12 month of receipt. 
+
+(EG-MAPE) 
+
+ 
+
+{  } Long term advance up to 10 
+
+years (EG-LAPE) 
+
+2 | P a g e  
+ 
+
+
+
+ 
+
+ 
+
+{   } Merchant Trade Export leg       
+
+( EG- MTTE) 
+
+(c) {    } Capital account receipts   
+
+(d) {  } Other Receipts ( Not covered in   
+
+above) 
+
+   
+
+Note: Where the purpose of Inward remittance is as per the above para 4 (b) to (d), 
+
+additional documents required if any, in consultation with the branch should also be 
+
+submitted. 
+
+ 
+
+ 
+
+ 
+
+2. Where the shipment of goods is to be made within one year from the date of receipt 
+
+of advance payment, we hereby confirm and undertake that; 
+
+(a) The shipment of goods will be made within one year from the date of receipt of 
+
+the advance payment and shipping documents will be routed/submitted to the 
+
+Bank within 21 days of the date of shipment;  
+
+(b) The rate of interest, if any, payable on the advance payment does not exceed 
+
+London Inter-Bank Offered Rate (LIBOR) + 100 basis points; 
+
+(c) In the event of our inability to make the shipment, partly or fully, within one year 
+
+from the date of receipt of advance payment, no remittance towards refund of 
+
+unutilised portion of advance payment or towards payment of interest, shall be 
+
+made after the expiry of the said period of one year, without the prior approval 
+
+of the Reserve Bank. 
+
+(d) The export advance will not be used for repayment of loans availed from Indian 
+
+Banks. 
+
+3.  Please arrange to credit the said inward remittance in the following manner. 
+
+ 
+
+Sr. No Particulars Currency Amount 
+
+(a) Adjust EPC No._______________________if any   
+
+(b) Credit to EEFC or Foreign Currency account   
+
+no.______________________ 
+
+(c ) Credit the balance and /or full amount to operative account   
+
+No.________________________ at the exchange rate, if 
+
+already contracted and given in para 4 bellow 
+
+ 
+
+Note: Any one  or two or three of the above options may be applicable .                        
+
+Please complete accordingly 
+
+ 
+
+ 
+
+ 
+
+ 
+
+3 | P a g e  
+ 
+
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+4. Details of Exchange Rate Contract, if any. 
+
+ 
+
+Sr. Particulars Exchange Currency Amount 
+
+No Rate 
+
+(a) Deal ID No.__________________         booked        
+
+on _______________ 
+
+(b) Utilisation of  Forward / Option Contract    
+
+No._____________________ booked on 
+
+__________ 
+
+(c ) Balance amount / full amount (if no deal /    
+
+forward contract booked) be taken at prevailing -XXX- 
+
+exchange rate 
+
+Note: Any one or Two or all of the three options given herein above may be applicable. 
+
+Please complete accordingly 
+
+ 
+
+We shall supply the additional information/ documents required if any, in the matter upon 
+
+hearing from you. Your charges may be debited to our account ______________ with you. 
+
+ 
+
+Yours faithfully, 
+
+ 
+
+Authorised Signatory / (ies) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+4 | P a g e  
+ 
+
+
+
+ 
+
+ 
+
+ 
+
+PROFORMA INVOICE 
+
+Exporter and Beneficiary:- Invoice No. and date: ABC123 01/012020 
+
+Name and Address of Exporter / Seller  
+
+  
+
+Buyer:- Notify Party:- 
+
+Name and address of Buyer Name and Address  of the Other Party Involved other than 
+
+ Buyer 
+
+ 
+
+Terms and Delivery of Payment  
+
+Payment Terms: 100% Advance / 30 % Advance Balance on copy of BL  
+
+Delivery Terms: CIF/FOB 
+
+Shipping Packaging Description of Goods Quantity-  Unit Price / Amount 
+
+Marks (Can Details (Can  Rate  
+
+modify as per modify as per MT/ Cartoons/No.  USD/EURO/GBP 
+
+requirement) requirement) of Pieces  USD, EURO, 
+
+GBP/ Unit 
+
+      
+
+    
+
+ 
+
+Total in (Words) -  US Dollar forty thousand  
+
+Bank Details Signature 
+
+ICICI Bank Limited 
+
+<Address Line 1><Address Line 2> 
+
+<City - PIN Code> 
+
+ 
+
+Account No. - 999905009999 
+
+SWIFT- ICICINBBCTS                  
+
+ 
+
+5 | P a g e

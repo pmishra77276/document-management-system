@@ -1,0 +1,48 @@
+1. Sector-Specific Regulatory Compliance: (Focuses on regulations specific to different industries or sectors)
+
+    Financial Regulatory Compliance: Documents related to laws and regulations governing the financial industry (e.g., banking, securities, insurance).
+        Compliance Policies (e.g., Anti-Money Laundering (AML), Know Your Customer (KYC))
+        Regulatory Filings (e.g., reports to financial regulatory bodies)
+        Audit Reports (focused on financial regulatory compliance)
+        Data Security and Privacy Policies (specific to financial data)
+    Healthcare Regulatory Compliance: Documents related to laws and regulations governing the healthcare industry.
+        HIPAA Compliance Documentation (in the US)
+        Data Privacy and Security Policies (for patient health information)
+        Clinical Trial Regulations Documentation
+        Licensing and Accreditation Documents for healthcare providers
+    Environmental Regulatory Compliance: Documents related to laws and regulations protecting the environment.
+        Environmental Impact Assessments (EIAs)
+        Permits and Licenses (e.g., emissions, discharge, waste management)
+        Compliance Reports (e.g., environmental audits)
+        Waste Management Plans
+    Telecommunications Regulatory Compliance: Documents related to laws and regulations governing the telecommunications industry.
+        Licensing Agreements with regulatory authorities
+        Interconnection Agreements
+        Compliance Filings with telecommunications regulators
+    Energy Regulatory Compliance: Documents related to laws and regulations governing the energy sector.
+        Permits and Approvals for energy projects
+        Compliance Reports on energy production and distribution
+        Environmental Compliance related to energy activities
+
+2. Cross-Sector Regulatory Compliance: (Focuses on regulations that apply across various industries)
+
+    Data Protection and Privacy Compliance: Documents related to laws and regulations governing the collection, use, and storage of personal data.
+        Privacy Policies
+        Data Processing Agreements
+        Consent Forms
+        Data Breach Notification Documents
+    Labor and Employment Law Compliance: Documents related to laws and regulations governing the employer-employee relationship (while you have a separate "Employment and Human Resources" category, this focuses on the regulatory aspect).
+        Compliance with Fair Labor Standards
+        Workplace Safety Regulations (e.g., OSHA compliance)
+        Non-Discrimination and Equal Opportunity Policies
+    Anti-Corruption and Bribery Compliance: Documents related to laws and regulations prohibiting bribery and corruption.
+        Anti-Bribery and Anti-Corruption Policies
+        Due Diligence Documentation for third parties
+        Training Materials on anti-corruption laws
+
+3. Internal Regulatory and Compliance Documents: (Focuses on documents created within an organization to ensure compliance)
+
+    Code of Conduct and Ethics Policies: Documents outlining expected ethical behavior and compliance standards for employees.
+    Internal Audit Reports (Compliance Focused): Reports assessing the organization's adherence to relevant laws and regulations.
+    Compliance Training Materials: Documents used to educate employees on regulatory requirements.
+    Whistleblower Policies and Procedures: Documents outlining how employees can report potential violations.

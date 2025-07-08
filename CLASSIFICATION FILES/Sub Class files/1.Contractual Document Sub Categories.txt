@@ -1,0 +1,35 @@
+Subdomains:
+	1. General Commercial Contracts: (Focuses on the exchange of goods or services in a business context, without falling into specific categories like Finance or Real Estate)
+	    1.1 General Commercial Contracts categories:-
+		(i)Sales Agreements (for Goods): Agreements for the transfer of ownership of tangible items.
+		(ii)Service Agreements: Agreements for the provision of services (excluding employment).
+		(iii)Supply Agreements: Agreements for the ongoing provision of goods or services.
+		(iV)Distribution Agreements: Agreements granting the right to sell or distribute goods in a specific territory.
+		(V)Agency Agreements: Agreements where one party acts on behalf of another.
+		(Vi)Consulting Agreements: Agreements for expert advice and guidance.
+
+	2. Project Specific Agreements: (Contracts related to specific undertakings oVprojects
+	    2.1 Project Specific Agreements Categories:- 
+		(i)Project Management Agreements: Agreements outlining the management of a specific project.
+		(ii)Construction Contracts: Agreements for building or infrastructure projects (while related to Property, the focus here is the contractual obligation to build).
+		(iii)Development Agreements: Agreements for the development of products, software, etc.
+
+	3. Business Relationship Agreements: (Contracts defining the relationship between different business entities or individuals for a specific purpose, distinct from formal corporate structures)
+	    3.1 Business Relationship Agreements Categories:-
+		(i)Partnership Agreements: Agreements outlining the terms of a business partnership.
+		(ii)Joint Venture Agreements: Agreements between two or more parties to collaborate on a specific project or business undertaking.
+		(iii)Collaboration Agreements: Agreements for parties to work together on a specific initiative.
+
+	4. Agreements Related to Confidentiality and Intellectual Property (with careful distinction from "Intellectual Property Rights"):
+	    4.1 Agreements Related to Confidentiality and Intellectual Property categories:
+		(i)Confidentiality Agreements (NDAs): Agreements to protect sensitive information shared between parties. (While related to IPR, the NDA itself is a contractual obligation to maintain secrecy).
+		(ii)Material Transfer Agreements: Agreements governing the transfer of research materials. (Can involve IP but the core is the contractual terms of the transfer).
+
+	5. Dispute Resolution and Settlement Agreements: (Agreements to resolve disagreements outside of formal litigation)
+	    5.1 Dispute Resolution and Settlement Agreements categories:
+		(i)Settlement Agreements: Agreements to resolve existing disputes between parties.
+		(ii)Mediation Agreements: Agreements reached through the process of mediation.
+		(iii)Arbitration Agreements: Agreements to submit future disputes to arbitration.
+		
+
+

@@ -1,0 +1,41 @@
+Subdomains:
+	1. Lending and Credit Documents: (Documents related to borrowing and lending money)
+	    1.1 Lending and Credit Documents Categories:
+		(i) Loan Agreements: Formal contracts outlining the terms and conditions of a loan between a lender and a borrower (including personal loans, commercial loans, syndicated loans).
+		(ii) Mortgage Agreements: Legal documents that create a lien on real property as security for a loan.
+		(iii) Credit Card Agreements: Contracts between a financial institution and a cardholder governing the use of a credit card.
+		(iv) Promissory Notes: Written promises to repay a specific sum of money with interest within a specified timeframe.
+		(v) Guarantees: Agreements where one party promises to pay the debt of another if they default.
+		(vi) Security Agreements: Contracts that create a security interest in specific property to secure the repayment of a loan.
+
+	2. Investment and Securities Documents: (Documents related to investing in financial instruments)
+	    2.1 Investment and Securities Documents Categories:
+		(i) Subscription Agreements (Securities): Agreements to purchase shares or other securities in a company or fund.
+		(ii) Prospectuses: Documents providing detailed information about a company or investment fund offering securities to the public.
+		(iii) Investment Management Agreements: Contracts between an investor and a financial institution outlining the terms for managing the investor's assets.
+		(iv) Brokerage Agreements: Contracts between an investor and a brokerage firm allowing the firm to execute trades on the investor's behalf.
+		(v) Underwriting Agreements: Contracts between an issuer of securities and an underwriter who agrees to sell the securities to the public.
+
+	3. Banking Operation Documents: (Documents related to the day-to-day operations of banks)
+	    3.1 Banking Operation Documents Categories:
+		(i) Account Opening Forms: Applications and agreements required to open various types of bank accounts (e.g., savings, checking, current).
+		(ii) Deposit Slips: Forms used to record the details of funds deposited into a bank account.
+		(iii) Withdrawal Forms: Forms used to request the withdrawal of funds from a bank account.
+		(iv) Bank Guarantees: Promises by a bank to pay a certain sum to a beneficiary if a third party fails to fulfill their obligation.
+		(v) Letters of Credit: Financial instruments issued by a bank on behalf of a buyer, guaranteeing payment to a seller upon fulfillment of certain conditions.
+
+	4. Financial Regulatory Compliance Documents: (Documents related to laws and regulations governing the finance and banking sector)
+	    4.1 Financial Regulatory Compliance Documents Categories:
+		(i) Compliance Policies (e.g., Anti-Money Laundering (AML), Know Your Customer (KYC)): Internal policies and procedures designed to comply with financial regulations.
+		(ii) Regulatory Filings: Reports and documents submitted to financial regulatory authorities as required by law.
+		(iii) Audit Reports (Financial Regulatory Focus): Reports assessing a financial institution's compliance with relevant financial regulations.
+		(iv) Data Privacy Policies (for Financial Data): Policies outlining how a financial institution collects, uses, and protects customer financial data in compliance with privacy laws.
+
+	5. Payment System Documents: (Documents related to the systems and processes for making payments)
+	    5.1 Payment System Documents Categories:
+		(i) Payment Gateway Agreements: Contracts between a merchant and a payment gateway service provider to process online payments.
+		(ii) Merchant Agreements: Contracts between a merchant and a bank or payment processor allowing the merchant to accept credit and debit card payments.
+		(iii) Electronic Funds Transfer (EFT) Agreements: Agreements governing the electronic transfer of funds between accounts.
+		(iv) Letters of Undertaking for Payments: Formal promises to make a payment under specific conditions.
+		
+		

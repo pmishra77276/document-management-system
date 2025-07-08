@@ -1,0 +1,1151 @@
+﻿Ani Media Pvt. Ltd. vs Wikimedia Foundation Inc & Ors. on 2 April, 2025
+
+Ani Media Pvt. Ltd. vs Wikimedia Foundation Inc & Ors. on 2
+April, 2025
+
+Author: Subramonium Prasad
+
+Bench: Subramonium Prasad
+
+                          *      IN THE HIGH COURT OF DELHI AT NEW DELHI
+                                                                     Date of decision: 2nd APRIL, 2025
+                                 IN THE MATTER OF:
+                          +      CS(OS) 524/2024
+                                 ANI MEDIA PVT. LTD.                                      .....Plaintiff
+                                                     Through:    Mr. Sidhant Kumar, Mr. Om Batra,
+                                                                 Mr. Akshit Mago and Ms. Anshika
+                                                                 Saxena, Advocates
+
+                                                     versus
+
+                                 WIKIMEDIA FOUNDATION INC & ORS                      ......Defendants
+                                                     Through:    Mr. Jayant Mehta, Sr. Advocate with
+                                                                 Ms. Tine Abraham, Mr. Nikhil
+                                                                 Narendran, Mr. Vijayendra Pratap
+                                                                 Singh, Mr. Abhijnan Jha, Ms. Shivani
+                                                                 Rawat, Mr. Thomas J. Vallianeth, Mr.
+                                                                 Aayush Marwah, Ms. Shubhangni
+                                                                 Jain, Mr. Abhi Udai Singh Gautam,
+                                                                 Mr. Bakhshind Singh, Mr. Pranav
+                                                                 Tomar, Ms. Jasleen Virk, Ms. Diva
+                                                                 Saigal, Advocates for Defendant No.1
+                                 CORAM:
+                                 HON'BLE MR. JUSTICE SUBRAMONIUM PRASAD
+                                                     JUDGMENT
+
+1. The present Application has been filed by the Plaintiff under Order XXXIX Rule 1 & 2 against the
+Defendants seeking the following prayers -
+
+a. Pass an order against the Defendants, restraining them from posting, publishing, uploading,
+writing, speaking, distributing and/ or republishing any false, misleading and defamatory content
+against the Plaintiff on any platform, including the Platform maintained by Defendant No. 1;
+
+b. Pass an injunction against the Defendant No. 1 or its agents or any person acting on its behalf of
+or under its authority, directing it to remove all false, misleading and defamatory content against
+the Plaintiff available on its Platform which can tarnish the reputation of the Plaintiff and further
+restrain its users and administrators from publishing anything defamatory against the Plaintiff on
+its Platform;
+
+Indian Kanoon - http://indiankanoon.org/doc/21429162/ 1
+
+
+
+Ani Media Pvt. Ltd. vs Wikimedia Foundation Inc & Ors. on 2 April, 2025
+
+c. Pass an order directing the Defendant No. 1, or its agents or any person acting on its behalf of or
+under its authority, to remove the protection status imposed on the ANI Page;
+
+d. Pass an order directing the Defendant No. 1 to disclose the identity of the Defendant Nos. 2 to 4,
+by providing their name, contact and other relevant details; and e. Pass any such other and further
+orders as this Hon'ble Court deems fit.
+
+2. The Plaintiff is India's leading multimedia news agency providing syndicated news feed with over
+one hundred bureaus across the globe under the name "Asian News International" and "ANI". The
+Plaintiff has been managing and operating this business for over five decades, since the year 1971.
+
+3. The Defendant No. 1 is a non-profit and charitable organisation incorporated under the laws of
+the United States of America. It is stated that the Defendant No. 1 has been set up to provide the
+necessary infrastructure to make knowledge available to the public free of charge. Defendant No. 1
+hosts the English Wikipedia (hereinafter referred to as "Platform"), stated to be a free encyclopedia
+that currently contains over 6.8 million articles online in the English language.
+
+4. The Defendants No. 2 to 4 are stated to be administrators of Defendant No. 1's Platform. It is
+stated that the administrators are vested with specialised rights and editing tools and can edit,
+block/unblock articles and pages on Wikipedia.
+
+5. Shorn of unnecessary details, the facts in brief leading to the present application are as under:
+
+i. In the year 2006, a page pertaining to the Plaintiff was created on the Platform of
+Defendant No. 1. It is stated that the framework of the Platform is as such that any
+user can edit the Plaintiff's page. ii. It is stated that when the page was launched, it
+contained comments about the Plaintiff which was sourced through trusted websites.
+It is stated that this position continued up till 26.02.2019, and according to the
+Plaintiff, the said page encompassed neutral information about the Plaintiff. The
+Plaintiff's page as on 26.02.2019 is reproduced and reads as under-
+
+Signing Date:03.04.2025 21:20:01 iii. It is stated that thereafter, the Defendants No. 2 to 4 edited
+the page pertaining to the Plaintiff to include allegedly false, misleading and defamatory
+remarks/content against the Plaintiff. It is stated that the remarks and statements against the
+Plaintiff forms a substantial portion of the Plaintiff's Page, which is accessible to users and
+non-users of the Platform. The Plaintiff's page as on 22.04.2024 is reproduced as under:-
+
+Signing Date:03.04.2025 21:20:01 Signing Date:03.04.2025 21:20:01 iv. It is stated
+that in April 2024, several edits were made on the page pertaining to the Plaintiff to
+discredit the alleged defamatory remarks on the Plaintiff's page. According to the
+Plaintiff the edits were made relying upon trusted sources like The BBC Network. The
+edits made on the page pertaining to the Plaintiff are as under:-
+
+Indian Kanoon - http://indiankanoon.org/doc/21429162/ 2
+
+
+
+Ani Media Pvt. Ltd. vs Wikimedia Foundation Inc & Ors. on 2 April, 2025
+
+Signing Date:03.04.2025 21:20:01 Signing Date:03.04.2025 21:20:01 v. It is alleged
+that May 2024, Defendants No. 2 to 4 reversed the aforesaid edits and reinstated the
+alleged false and defamatory remarks, which are stated to exist on the Plaintiff's page
+till date. The Plaintiff's page as on 22.05.2024 is reproduced as under:-
+
+Signing Date:03.04.2025 21:20:01 Signing Date:03.04.2025 21:20:01 vi. It is stated
+that on 27.05.2024, Defendant No. 2 imposed protection status on the Plaintiff's
+page, thereby, restraining ordinary users from editing, moving and creating any
+content on that article for an indefinite period. vii. On 13.06.2024, the Plaintiff issued
+a cease-and-desist notice to the Defendants to refrain them from disseminating,
+publishing false, misleading and defamatory content pertaining to the Plaintiff. The
+notice also called upon the Defendants to perform its obligations as an intermediary
+in accordance with the Information Technology (Intermediary Guidelines and Digital
+Media Ethics Code) Rules, 2021 and take down the alleged false and misleading
+information available on the Plaintiff's page.
+
+viii. The imputations against the Plaintiff can be summarized as:-
+
+a. Plaintiff consistently acts at the behest of the Government of India and the
+Bhartiya Janta Party;
+
+b. Plaintiff is a 'propaganda tool' and a 'mouthpiece' for the Government of India and
+the Bhartiya Janta Party; c. Plaintiff is engaged in 'low quality journalism' that led to
+news organizations ceasing their subscription with the Plaintiff; d. Plaintiff is
+engaged in the spread of fake news or false news; and e. Plaintiff mistreats its
+employees and staff. ix. The Plaintiff's Page on the date of filing of the instant
+application is:-
+
+Signing Date:03.04.2025 21:20:01 Signing Date:03.04.2025 21:20:01 x. A perusal of
+the page discloses that the nature of allegations have not changed.
+
+xi. The present suit has therefore been filed seeking the following reliefs:-
+
+"a. Pass a Decree of Permanent and Mandatory Injunction against the Defendants,
+restraining them from posting, publishing, uploading, writing, speaking, distributing
+and/ or republishing any false, misleading and defamatory content against the
+Plaintiff on any platform, including the Platform maintained by Defendant No. 1;
+
+b. Pass a Decree of Permanent and Mandatory Injunction against the Defendant No. 1
+or its agents or any person acting on its behalf of or under its authority, directing it to
+remove all false, misleading and defamatory content against the Plaintiff available on
+its Platform which can tarnish the reputation of the Plaintiff and further restrain its
+users and administrators from publishing anything defamatory against the Plaintiff
+on its Platform;
+
+Indian Kanoon - http://indiankanoon.org/doc/21429162/ 3
+
+
+
+Ani Media Pvt. Ltd. vs Wikimedia Foundation Inc & Ors. on 2 April, 2025
+
+c. Pass a Decree of Permanent and Mandatory Injunction against the Defendant No. 1
+or its agents or any person acting on its behalf of or under its authority, directing it to
+reinstate the ANI Page as it was available as on 26 February 2019, which can be
+accessed  a t  ht tps ://en.wik ipedia .org/w/index .php?t i t le=Asian  News
+International&oldid= 885186405;
+
+d. Direct Defendant No. 1, or its agents or any person acting on its behalf of or under
+its authority, to comply with its obligations under the Intermediary Guidelines and
+restrain any user or administrator from publishing false, misleading and defamatory
+content against the Plaintiff on the ANI Page or the Platform;
+
+e. Pass an order directing the Defendants to issue a retraction and an apology to the
+Plaintiff for damaging the reputation of the Plaintiff;
+
+f. Pass a Decree for damages against the Defendants, directing them to pay an
+amount of INR 2,10,00,000/- (Rupees Two Crores and Ten Lakhs Only) to the
+Plaintiff, however, the Plaintiff reserves its right to enhance this amount in future;
+
+g. Cost of this Suit and consequent litigation be awarded to the Plaintiff; and h. Any
+other relief which this Hon'ble Court deems fit and proper, against the Defendants
+and in favour of the Plaintiff."
+
+6. The learned Counsel for the Plaintiff states that the impugned statements are ex-facie defamatory.
+He contended that it is well settled that the right to professional reputation is a right guaranteed
+under Article 21 of the Constitution of India and that the allegations that the Plaintiff is acting as a
+mouth piece of the government cannot be tolerated by any independent news agency. For the
+allegations regarding the working of the Plaintiff, treatment towards employees etc., are far from the
+truth and is based on materials which have not been verified by the Defendants.
+
+7. The Learned Counsel for the Plaintiff further contends that the onus to prove that the impugned
+statements made are truthful and not defamatory is on the makers of such statements i.e.,
+Defendants No. 2 to 4. It is stated that the Impugned statements have been published by Defendants
+No. 2 to 4.
+
+Vide Order dated 11.11.2024, Division Bench of this Court in FAO (OS) 146/2024 had directed the
+Defendant No. 1 to serve Defendants No. 2 to 4. In Order dated 16.12.2024 it has been recorded that
+Defendants No. 2 to 4 have been served and an affidavit of service has been filed in this Court in a
+sealed cover. It is stated that despite service, the Defendants No. 2 to 4 have chosen not to appear
+and that they have not filed any pleading to justify their stand either. It is stated that as there is no
+material on record to justify the impugned statements, they must be presumed as defamatory. It is
+stated that the Defendant No. 1 has no locus to resist the reliefs as prayed for by the Plaintiff through
+this application as Defendant No. 1 has asserted its status as an intermediary under the Information
+Technology Act, 2000.
+
+Indian Kanoon - http://indiankanoon.org/doc/21429162/ 4
+
+
+
+Ani Media Pvt. Ltd. vs Wikimedia Foundation Inc & Ors. on 2 April, 2025
+
+8. The learned Counsel for the Plaintiff supplements his contentions by stating that the test of
+defamation is that the impugned statements must bring down the reputation of the Plaintiff in the
+eyes of a reasonable member of the public. It is further stated that the Defendant No. 1 holds itself to
+be an encyclopedia and a repository of facts which attracts around 979 million unique device visitors
+each month. It is stated that a reasonable member of the public will perceive the impugned
+statements as a verifiable fact appearing in an encyclopedia.
+
+9. It was stated by the learned Counsel for the Plaintiff that the Single Publication Rule will not
+apply in this case. It is the contention of the Plaintiff that the material on the page pertaining to the
+Plaintiff is not the verbatim reproduction of the articles which have been cited as sources. The
+submission was primarily made to rebut the preliminary contention that since the Plaintiff has not
+challenged the articles which are the source articles and are available on the internet since 2019, the
+present challenge is not maintainable.
+
+10. Per contra, the learned Senior Counsel for Defendant No. 1 submits that the Plaintiff has limited
+its submissions to the Removal Relief. It is further stated the present application of the Plaintiff is
+based on an incorrect understanding of the Defendant No. 1's Platform. It is stated that the
+Defendant No. 1 does not edit, create, upload or improve the encyclopedic content on the Platform,
+including the Plaintiff's page, rather, the content is continually and collectively created, uploaded
+and reviewed by third-party users of the Platform. It is further stated that the content on the
+Platform is dynamic and continually edited and updated by the Platform's members. Therefore, any
+injunction against Defendants No. 2 to 4 will not be able to ensure that the impugned statements on
+the Plaintiff's page continues to remain absent without reappearing on the Platform as long as
+relevant, reliable and verifiable information is available in public domain. It is submitted that other
+users of the Platform can always reference such information to post/repost similar content on the
+Plaintiff's page.
+
+11. The learned Senior Counsel further contends that any injunction granted to the Plaintiff will have
+the effect of censuring/punishing the model on which the Platform operates. It is stated that the
+content published on the Platform is based on secondary, reliable and verifiable sources and the
+content is also verified by the Platform's community in terms of the Platform's policies. It is
+contended that if any reliefs as prayed for by the Plaintiff are granted by this Court, it will have the
+effect of punishing/censuring the right to free speech and expression of the Platform's users and
+obstructing their access to the Platform. It is further stated that such reliefs will restrain the
+Platform's users from freely publishing and editing the content of the Platform and would further
+discourage the users from posting content that may not align with the preferences of individuals or
+entities like the Plaintiff.
+
+12. Furthermore, the learned senior counsel states that there is no urgency to grant any interim
+relief to the Plaintiff, which in any event are barred by limitation as the impugned statements have
+been present on the Plaintiff's page since 2024 but have been present in various secondary sources
+since 2019. Therefore, the cause of action would not arise afresh from 2024 but would have arisen
+when such statements were first published. It is submitted that looking at the position that the
+impugned statements are present on various domains since 2019, there is no irreparable injury or
+
+Indian Kanoon - http://indiankanoon.org/doc/21429162/ 5
+
+
+
+Ani Media Pvt. Ltd. vs Wikimedia Foundation Inc & Ors. on 2 April, 2025
+
+balance of convenience in favour of the Plaintiff that necessitates any interim orders at this stage. It
+is also stated that the inordinate delay in impugning the alleged defamatory content has disentitled
+the Plaintiff from seeking Interim Reliefs as evidently the Plaintiff has suffered no demonstrable
+prejudice or undue hardship since 2019. It is further contended that this Court ought to consider the
+issue of limitation before deciding to grant interim reliefs. It is stated that the Plaintiff is trying to
+revive its cause of action and circumvent the limitation period for filing the present suit by
+coalescing the deletion of proposed edits and the rejection of the deletions on the Plaintiff's page. It
+is also contended that the mere act of maintaining or reverting edits does not constitute a fresh
+publication nor a fresh cause of action.
+
+13. The learned Senior Counsel also submits that the removal relief and the restraint relief are
+identical to the final reliefs as sought for in the Suit filed by the Plaintiff; the Plaintiff is seeking an
+Order from this Court to partly decree the suit at the interim stage itself, which is not maintainable.
+It is also stated that if such interim reliefs are granted, it would impose unreasonable obligations on
+the Defendant No. 1 to continually adjudicate on the alleged defamatory content on the Plaintiff's
+page on the Platform to ensure that impugned statements or content similar to it remains absent
+from the Plaintiff's page and by doing so, the Defendant No. 1 will not be able to perform its duties
+as an intermediary under the Information Technology Act, 2000.
+
+14. Heard learned Counsels for the parties and perused the material on record.
+
+15. It is the case of the Defendant No. 1 that it is an intermediary under the Information Technology
+Act, 2000 and therefore, has no role with respect to the impugned statements made by Defendants
+No. 2 to 4 on the Plaintiff's page. Hence, this Court is of the opinion that Defendant No. 1, being an
+intermediary has some fiduciary responsibilities and obligations to prevent acts of defamation. The
+Hon'ble Supreme Court in Google India Private Limited v. Visaka Industries, (2020) 4 SCC 162 has
+held as under:-
+
+"50. At this juncture, it is apposite that we take a deeper look at what the Government
+of India has to say about Section 79.
+
+51. Section 79 is a safe harbour provision. Internet intermediaries give access to host,
+disseminate and index content, products and services originated by third parties on
+the internet. There are different kinds of intermediaries. They include:
+
+(i) Internet Access and Service Provider (ISP).
+
+Examples are given in this category of Airtel, Vodafone, BSNL among others;
+
+(ii) Data Processing and Web Hosting Providers. Examples include GoDaddy and BigRock;
+
+(iii) Internet Search Engines and Portals like Google, Yahoo and Binge;
+
+(iv) Email hosts like Gmail (Google) and Yahoo!Mail;
+
+Indian Kanoon - http://indiankanoon.org/doc/21429162/ 6
+
+
+
+Ani Media Pvt. Ltd. vs Wikimedia Foundation Inc & Ors. on 2 April, 2025
+
+(v) Then there are instant messaging platforms such as WhatsApp, Facebook Messenger, Skype,
+etc.;
+
+(vi) E-commerce intermediaries where the platforms do not take title to the goods being sold like
+Amazon India, Flipkart, etc.;
+
+(vii) Internet Payment Systems and Mobile Wallets like Paytm, etc.;
+
+(viii) There are also participative internet platforms. This extract is taken from Google India (P) Ltd.
+v. Visaka Industries, (2020) 4 SCC 162 : (2020) 2 SCC (Cri) 502 : 2019 SCC OnLine SC 1587 at page
+188
+
+52. The 2008 Amendment introduced Chapter XII to the Information Technology Act. The
+amendment was in the background of the decision of the Delhi High Court in Avnish Bajaj v. State
+(NCT of Delhi) [Avnish Bajaj v. State (NCT of Delhi), 2004 SCC OnLine Del 1160 : (2005) 116 DLT
+427] .
+
+53. Intermediaries stand on a different footing being only facilitators of exchanges of information or
+sales. Prior to the amendment, the exemption provision under Section 79 did not exist and,
+therefore, an intermediary would have been liable for any third-party information or data made
+available by him as seen in Baazee [Ed. :
+
+The reference seems to be to Avnish Bajaj v. State, 2008 SCC OnLine Del 688 which
+has been reversed in Aneeta Hada v. Godfather Travels & Tours (P) Ltd., (2012) 5
+SCC 661. Avnish Bajaj case involved an action against the Directors of Bazee.com.] .
+After the amendment, intermediary is not liable under any Act if it satisfied certain
+requirements as detailed in Section
+
+54. After referring to the decision in Shreya Singhal [Shreya Singhal v. Union of India, (2015) 5 SCC
+1 :
+
+(2015) 2 SCC (Cri) 449] , the Government of India has understood the position at law
+to be that Section 79 stands read down to mean that an intermediary would need to
+takedown information only upon receiving actual knowledge that a court order has
+been passed to remove or disable certain material and not otherwise.
+
+The further stand of the Government of India is thus there is a recognition that intermediaries and
+neutral platforms are only facilitating information. It is further pointed out on behalf of the
+Government of India that the interpretation placed by this Court in Shreya Singhal [Shreya Singhal
+v. Union of India, (2015) 5 SCC 1 : (2015) 2 SCC (Cri) 449] was not available to the High Court when
+it passed the impugned order in this case. Shreya Singhal [Shreya Singhal v. Union of India, (2015) 5
+SCC 1 : (2015) 2 SCC (Cri) 449] makes it clear that an intermediary's liability will not arise unless it
+failed to takedown material upon there being actual knowledge by court order or government
+communication. This safeguard has been put in place to avoid chilling effect on free speech. The
+
+Indian Kanoon - http://indiankanoon.org/doc/21429162/ 7
+
+
+
+Ani Media Pvt. Ltd. vs Wikimedia Foundation Inc & Ors. on 2 April, 2025
+
+intermediaries would, if a contrary view is taken, stand elevated to the status of super censors and
+denude the internet of its unique feature of a democratic medium for all to publish, access and read
+any and all kinds of information.
+
+55. Owing to the special unique characteristic of the internet, intermediaries are not in a position to
+know about a content which is posted on its platforms by itself and, therefore, the strict liability
+principle cannot be made applicable to internet intermediaries. It is the specific stand of the
+Government of India that even pre-amendment, an intermediary could not know the contents of
+what is posted on its website and, therefore, be held liable in the absence of a takedown order by a
+court or governmental agency.
+
+56. The Government of India, it is also noticed, has perceived a distinction between blocking under
+Section 69-A of the Information Technology Act and takedown under Section 79 of the Information
+Technology Act. Section 69-A reads as follows:
+
+"69-A. Power to issue directions for blocking for public access of any information
+through any computer resource.--(1) Where the Central Government or any of its
+officers specially authorised by it in this behalf is satisfied that it is necessary or
+expedient so to do in the interest of sovereignty and integrity of India, defence of
+India, security of the State, friendly relations with foreign States or public order or for
+preventing incitement to the commission of any cognizable offence relating to above,
+it may subject to the provisions of sub-section (2), for reasons to be recorded in
+writing, by order, direct any agency of the Government or intermediary to block for
+access by the public or cause to be blocked for access by the public any information
+generated, transmitted, received, stored or hosted in any computer resource.
+
+(2) The procedure and safeguards subject to which such blocking for access by the
+public may be carried out, shall be such as may be prescribed.
+
+(3) The intermediary who fails to comply with the direction issued under sub-section
+(1) shall be punished with an imprisonment for a term which may extend to seven
+years and shall also be liable to fine."
+
+57. It is pointed out that the grounds under which the Government issues directions for blocking
+information are limited and confined to matters relating to national security, public order and the
+like. The power does not expand to blocking any case of defamation, contempt of court, etc. A
+blocking order under Section 69-A cannot be passed for criminal defamation as it does not fall
+under the scope of Section 69-A. Therefore, if a party is aggrieved by posting of a defamatory
+content on website, he must seek recourse to the court process for adjudication. The matter can be
+directed to be removed or access disabled under Section 79(3) of the Information Technology Act.
+Since, the court process can be long drawn, the aggrieved party may seek an interim order before a
+competent court.
+
+Indian Kanoon - http://indiankanoon.org/doc/21429162/ 8
+
+
+
+Ani Media Pvt. Ltd. vs Wikimedia Foundation Inc & Ors. on 2 April, 2025
+
+58. In fact, the learned Senior Counsel for the appellant did not, as such, canvass the matter on the
+basis of Section 79 before it was substituted. However, we deem it proper to delineate its scope in
+view of the fact that if there is an express legal bar to attach criminal liability upon the appellant
+under the Act, it would become a matter of jurisdiction. It is also the stand taken by the Government
+of India that there be no liability on the intermediary under Section 79 of the Act prior to the
+substitution as we have set out hereinbefore.
+
+59. It must be noted that stand of the appellant primarily has been that the appellant is not the
+intermediary in this case and the intermediary in this case is Google LLC. The arguments have been
+otherwise addressed by the appellant on the basis though that even proceeding on the basis that the
+appellant is treated as an intermediary, the complaint against the appellant, cannot be allowed to
+proceed.
+
+60. On the question as to whether Section 79, as it stood prior to the substitution, would provide a
+shield to an intermediary, we would enter the following findings.
+
+61. In our view, Section 79, before its substitution, exempted the network service provider, which is
+defined as an intermediary, from liability under the Act, Rules or Regulations made thereunder in
+regard to any third-party information or data made available by him provided the service provider:
+
+1. Proves that the offence or contravention was committed without his knowledge;
+
+2. The service provider proves that he had exercised all due diligence to prevent the
+commissioning of such offences or contraventions.
+
+62. This provision may be contrasted with the later avtar of Section 79 of the Act consequent upon
+substitution with effect from 27-10-2009. Sub-section (1) of Section 79, in unambiguous words,
+declares by way of a non obstante clause that in spite of anything contained in any law which is in
+force, though subject to the provisions of sub-sections (2) and (3), an intermediary would not be
+liable for any third-party information, data or communication link hosted by him. The conditions
+are set out in sub-section (2).
+
+63. As we have noticed, the scope of Section 79, before its substitution, was confined to confer
+immunity from liability in regard to an offence under the Act or the Rules or Regulations qua
+third-party action or data made available. In this regard, it must be noticed that Chapter XI of the
+Act deals with the offences. Sections 65 to 67-B deal with various offences under the Act. This is
+besides Sections 71, 72-A, 73 and 74 of the Act. Section 79 falls under Chapter XII. Therefore, the
+scheme of the Act would also indicate that Section 79, as it was prior to the substitution, was indeed
+confined to the liability of the network service provider arising out of the provisions of the Act
+besides, no doubt, Rules and Regulations, and it was not, in short, a bar to the complaint under
+Section 500 IPC being launched or prosecuted.
+
+64. The complaint relates, in short, to a period, much prior to the substitution of Section 79 of the
+Act, which ultimately took place only with effect from 27-10-2009. The Court, in Shreya Singhal
+
+Indian Kanoon - http://indiankanoon.org/doc/21429162/ 9
+
+
+
+Ani Media Pvt. Ltd. vs Wikimedia Foundation Inc & Ors. on 2 April, 2025
+
+[Shreya Singhal v. Union of India, (2015) 5 SCC 1 : (2015) 2 SCC (Cri) 449] , was not considering the
+provisions of Section 79 as it stood before the substitution on 27-10-2009 which is what the High
+Court has focussed on to find that it was not open to the appellant to seek shelter under Section
+
+79. No doubt, there are certain observations which have been made by the High Court regarding
+notice to the petitioner, which we will dwell upon.
+
+65. We may, in fact, notice another aspect of the matter. Even, proceeding on the basis that Section
+79 should engage us any further, we cannot be oblivious to an integral feature of Section 79 prior to
+its substitution. As we have noted, the lawgiver has given protection from liability not
+unconditionally. It is for the service provider to prove that the offence or contravention was
+committed without his knowledge. He is also to prove that he has exercised all due diligence to
+prevent the commission of such offence or contravention. We will, for the purpose of argument,
+assume that the offence or contravention could relate to even Section 500 IPC.
+
+Even then, for the protection given by the provisions, as it stood at the time when the offence alleged
+against the appellant was allegedly committed by it, to apply, it would become incumbent upon the
+appellant to prove that the offence or the contravention was committed without its knowledge and
+that it had taken all due diligence to prevent the commission of such offence or contravention. It
+may be at once noticed that in reality the scope of Section 79 of the Act, prior to the substitution,
+was limited to granting exemption to the network service provider from any liability under the Act,
+Rules or Regulations made thereunder, no doubt, in regard to third-party information or data
+available by him. The commission of an offence under Section 500 IPC, would not be a liability
+under the Act or Rules, or Regulations made under the Act. However, it is undoubtedly true that the
+scope of the protection afforded to the intermediary stands remarkably expanded with the
+substituted provisions of Section 79 coming into force, no doubt, subject to the conditions attached
+thereunder and as explained by this Court in Shreya Singhal [Shreya Singhal v. Union of India,
+(2015) 5 SCC 1 : (2015) 2 SCC (Cri) 449] .
+
+66. The Government of India, no doubt, has contended that the High Court did not have the benefit
+of judgment of this Court in Shreya Singhal [Shreya Singhal v. Union of India, (2015) 5 SCC 1 :
+(2015) 2 SCC (Cri) 449] . We may notice that what is considered in Shreya Singhal [Shreya Singhal
+v. Union of India, (2015) 5 SCC 1 : (2015) 2 SCC (Cri) 449] was Section 79 after substitution. There
+was a challenge mounted to the constitutionality of Section 79. This Court held as follows, inter alia :
+(SCC pp. 180-81, paras 120-24) "120. One of the petitioners' counsel also assailed Section 79(3)(b)
+to the extent that it makes the intermediary exercise its own judgment upon receiving actual
+knowledge that any information is being used to commit unlawful acts. Further, the expression
+"unlawful acts" also goes way beyond the specified subjects delineated in Article 19(2).
+
+121. It must first be appreciated that Section 79 is an exemption provision. Being an exemption
+provision, it is closely related to provisions which provide for offences including Section 69-A. We
+have seen how under Section 69-A blocking can take place only by a reasoned order after complying
+with several procedural safeguards including a hearing to the originator and intermediary. We have
+also seen how there are only two ways in which a blocking order can be passed-- one by the
+
+Indian Kanoon - http://indiankanoon.org/doc/21429162/ 10
+
+
+
+Ani Media Pvt. Ltd. vs Wikimedia Foundation Inc & Ors. on 2 April, 2025
+
+Designated Officer after complying with the 2009 Rules and the other by the Designated Officer
+when he has to follow an order passed by a competent court. The intermediary applying its own
+mind to whether information should or should not be blocked is noticeably absent in Section 69-A
+read with the 2009 Rules.
+
+122. Section 79(3)(b) has to be read down to mean that the intermediary upon receiving actual
+knowledge that a court order has been passed asking it to expeditiously remove or disable access to
+certain material must then fail to expeditiously remove or disable access to that material. This is for
+the reason that otherwise it would be very difficult for intermediaries like Google, Facebook, etc. to
+act when millions of requests are made and the intermediary is then to judge as to which of such
+requests are legitimate and which are not. We have been informed that in other countries worldwide
+this view has gained acceptance, Argentina being in the forefront. Also, the Court order and/or the
+notification by the appropriate Government or its agency must strictly conform to the
+subject-matters laid down in Article 19(2). Unlawful acts beyond what is laid down in Article 19(2)
+obviously cannot form any part of Section 79. With these two caveats, we refrain from striking down
+Section 79(3)(b).
+
+123. The learned Additional Solicitor General informed us that it is a common practice worldwide
+for intermediaries to have user agreements containing what is stated in Rule 3(2). However, Rule
+3(4) needs to be read down in the same manner as Section 79(3)(b). The knowledge spoken of in the
+said sub-rule must only be through the medium of a court order. Subject to this, the Information
+Technology (Intermediaries Guidelines) Rules, 2011 are valid.
+
+*** 124.3. Section 79 is valid subject to Section 79(3)(b) being read down to mean that an
+intermediary upon receiving actual knowledge from a court order or on being notified by the
+appropriate Government or its agency that unlawful acts relatable to Article 19(2) are going to be
+committed then fails to expeditiously remove or disable access to such material. Similarly, the
+Information Technology (Intermediaries Guidelines) Rules, 2011 are valid subject to Rule 3 sub-rule
+(4) being read down in the same manner as indicated in the judgment."
+
+67. The Court also was considering the challenge to the provisions of the Information Technology
+(Intermediaries Guidelines) Rules, 2011 (hereinafter referred to as "the Rules", for short). The Rules
+were brought into force after 2011. It was made under Section 87 of the Act. Rule 3 provides for due
+diligence to be observed by the intermediary. It is obliged to publish the Rules and Regulations and
+the Privacy Policy and User Agreement. The intermediary is to intimate the user not to use certain
+matter which include defamatory matter. Rule 3(3) of the Rules provided that the intermediary was
+not to knowingly host or publish any information, inter alia, contained, as specified in sub-rule (2).
+Thus, under the Rules, the intermediary could not knowingly host or publish information which
+was, inter alia, defamatory. Rule 3(4) of the Rules, read as follows:
+
+"3. Due diligence to be observed by intermediary.-- The intermediary shall observe
+following due diligence while discharging his duties, namely--
+
+Indian Kanoon - http://indiankanoon.org/doc/21429162/ 11
+
+
+
+Ani Media Pvt. Ltd. vs Wikimedia Foundation Inc & Ors. on 2 April, 2025
+
+*** (4) The intermediary, on whose computer system the information is stored or
+hosted or published, upon obtaining knowledge by itself or been brought to actual
+knowledge by an affected person in writing or through email signed with electronic
+signature about any such information as mentioned in sub-rule (2) above, shall act
+within thirty-six hours and where applicable, work with user or owner of such
+information to disable such information that is in contravention of sub-rule (2).
+
+Further the intermediary shall preserve such information and associated records for at least ninety
+days for investigation purposes.""
+
+16. Defendant No.1, therefore, cannot completely wash its hands of the contents of
+the article on the ground that it is only an intermediary and cannot be held
+responsible for the statement that is published on its platform. Defendant No.1
+professes itself to be an encyclopedia and people at large have a tendency to accept
+the statements made on the web pages of Defendant No.1 as gospel truth. The
+responsibility, therefore, of Defendant No.1 is higher. This Court is not dwelling
+further on this aspect while considering the present application.
+
+17. Before dwelling into the issues in the present application, this Court is inclined to
+reiterate the settled positions of law with regards to pre-trial ad interim injunctions
+with respect to a defamation suit.
+
+18. The Apex Court in Bloomberg Television Production Services India Private
+Limited and Other v. Zee Entertainment Enterprises Limited, (2025) 1 SCC 741, has
+held as under:-
+
+"4. The threefold test of establishing : (i) a prima facie case, (ii) balance of
+convenience, and (iii) irreparable loss or harm, for the grant of interim relief, is well-
+established in the jurisprudence of this Court. This test is equally applicable to the
+grant of interim injunctions in defamation suits. However, this threefold test must
+not be applied mechanically [DDA v. Skipper Construction Co. (P) Ltd., (1996) 4 SCC
+622, para 38 : (1997) 89 Comp Cas 362.] , to the detriment of the other party and in
+the case of injunctions against journalistic pieces, often to the detriment of the public.
+
+While granting interim relief, the court must provide detailed reasons and analyse how the threefold
+test is satisfied. A cursory reproduction of the submissions and precedents before the court is not
+sufficient. The court must explain how the test is satisfied and how the precedents cited apply to the
+facts of the case.
+
+5. In addition to this oft-repeated test, there are also additional factors, which must weigh with
+courts while granting an ex parte ad interim injunction. Some of these factors were elucidated by a
+three-Judge Bench of this Court in Morgan Stanley Mutual Fund v. Kartick Das [Morgan Stanley
+Mutual Fund v. Kartick Das, (1994) 4 SCC 225 : (1994) 81 Comp Cas 318] , in the following terms :
+(SCC pp. 241-42, para 36) "36. As a principle, ex parte injunction could be granted only under
+
+Indian Kanoon - http://indiankanoon.org/doc/21429162/ 12
+
+
+
+Ani Media Pvt. Ltd. vs Wikimedia Foundation Inc & Ors. on 2 April, 2025
+
+exceptional circumstances. The factors which should weigh with the court in the grant of ex parte
+injunction are--
+
+(a) whether irreparable or serious mischief will ensue to the plaintiff;
+
+(b) whether the refusal of ex parte injunction would involve greater injustice than the grant of it
+would involve;
+
+(c) the court will also consider the time at which the plaintiff first had notice of the act complained
+so that the making of improper order against a party in his absence is prevented;
+
+(d) the court will consider whether the plaintiff had acquiesced for some time and in such
+circumstances it will not grant ex parte injunction;
+
+(e) the court would expect a party applying for ex parte injunction to show utmost good faith in
+making the application.
+
+(f) even if granted, the ex parte injunction would be for a limited period of time.
+
+(g) General principles like prima facie case, balance of convenience and irreparable loss would also
+be considered by the court."
+
+6. Significantly, in suits concerning defamation by media platforms and/or journalists, an additional
+consideration of balancing the fundamental right to free speech with the right to reputation and
+privacy must be borne in mind [R. Rajagopal v. State of T.N., (1994) 6 SCC 632] . The constitutional
+mandate of protecting journalistic expression cannot be understated, and courts must tread
+cautiously while granting pre-trial interim injunctions. The standard to be followed may be
+borrowed from the decision in Bonnard v. Perryman [Bonnard v. Perryman, (1891) 2 Ch 269 (CA)] .
+This standard, christened the "Bonnard standard", laid down by the Court of Appeal (England and
+Wales), has acquired the status of a common law principle for the grant of interim injunctions in
+defamation suits [Holley v. Smyth, 1998 QB 726 (CA)] . The Court of Appeal in Bonnard [Bonnard v.
+
+Perryman, (1891) 2 Ch 269 (CA)] held as follows : (Ch p. 284) "... But it is obvious that the
+subject-matter of an action for defamation is so special as to require exceptional caution in
+exercising the jurisdiction to interfere by injunction before the trial of an action to prevent an
+anticipated wrong. The right of free speech is one which it is for the public interest that individuals
+should possess, and, indeed, that they should exercise without impediment, so long as no wrongful
+act is done; and, unless an alleged libel is untrue, there is no wrong committed; but, on the contrary,
+often a very wholesome act is performed in the publication and repetition of an alleged libel. Until it
+is clear that an alleged libel is untrue, it is not clear that any right at all has been infringed; and the
+importance of leaving free speech unfettered is a strong reason in cases of libel for dealing most
+cautiously and warily with the granting of interim injunctions."
+
+(emphasis supplied)
+
+Indian Kanoon - http://indiankanoon.org/doc/21429162/ 13
+
+
+
+Ani Media Pvt. Ltd. vs Wikimedia Foundation Inc & Ors. on 2 April, 2025
+
+7. In Fraser v. Evans [Fraser v. Evans, (1969) 1 QB 349 : (1968) 3 WLR 1172 (CA)] , the Court of
+Appeal followed the Bonnard principle and held as follows :
+
+(QB p. 360) "... insofar as the article will be defamatory of Mr Fraser, it is clear he
+cannot get an injunction. The Court will not restrain the publication of an article,
+even though it is defamatory, when the defendant says he intends to justify it or to
+make fair comment on a matter of public interest. That has been established for
+many years ever since (Bonnard v. Perryman [Bonnard v. Perryman, (1891) 2 Ch 269
+(CA)] ). The reason some times given is that the defences of justification and fair
+comment are for the jury, which is the constitutional tribunal, and not for a Judge.
+But a better reason is the importance in the public interest that the truth should out.
+..."
+
+(emphasis supplied)
+
+8. In essence, the grant of a pre-trial injunction against the publication of an article
+may have severe ramifications on the right to freedom of speech of the author and the
+public's right to know. An injunction, particularly ex parte, should not be granted
+without establishing that the content sought to be restricted is "malicious" or
+"palpably false". Granting interim injunctions, before the trial commences, in a
+cavalier manner results in the stifling of public debate. In other words, courts should
+not grant ex parte injunctions except in exceptional cases where the defence
+advanced by the respondent would undoubtedly fail at trial. In all other cases,
+injunctions against the publication of material should be granted only after a
+full-fledged trial is conducted or in exceptional cases, after the respondent is given a
+chance to make their submissions.
+
+9. Increasingly, across various jurisdictions, the concept of "Slapp suits" has been
+recognised either by statute or by courts. The term "Slapp" stands for "Strategic
+Litigation against Public Participation" and is an umbrella term used to refer to
+litigation predominantly initiated by entities that wield immense economic power
+against members of the media or civil society, to prevent the public from knowing
+about or participating in important affairs in the public interest [ Donson, F.J.L.,
+Legal Intimidation : A Slapp in the Face of Democracy (London, New York : Free
+Association Books, 2000).] . We must be cognizant of the realities of prolonged trials.
+The grant of an interim injunction, before the trial commences, often acts as a "death
+sentence" to the material sought to be published, well before the allegations have
+been proven. While granting ad interim injunctions in defamation suits, the potential
+of using prolonged litigation to prevent free speech and public participation must
+also be kept in mind by courts.
+
+XXX
+
+Indian Kanoon - http://indiankanoon.org/doc/21429162/ 14
+
+
+
+Ani Media Pvt. Ltd. vs Wikimedia Foundation Inc & Ors. on 2 April, 2025
+
+11. Undoubtedly, the grant of an interim injunction is an exercise of discretionary power and the
+appellate court (in this case, the High Court) will usually not interfere with the grant of interim
+relief. However, in a line of precedent, this Court has held that appellate courts must interfere with
+the grant of interim relief if the discretion has been exercised "arbitrarily, capriciously, perversely,
+or where the court has ignored settled principles of law regulating the grant or refusal of
+interlocutory injunctions". [Ramdev Food Products (P) Ltd. v. Arvindbhai Rambhai Patel, (2006) 8
+SCC 726, paras 126 & 128; Shyam Sel & Power Ltd. v. Shyam Steel Industries Ltd., (2023) 1 SCC
+634, para 37 : (2023) 1 SCC (Civ) 301.] The grant of an ex parte interim injunction by way of an
+unreasoned order, definitely falls within the above formulation, necessitating interference by the
+High Court. This being a case of an injunction granted in defamation proceedings against a media
+platform, the impact of the injunction on the constitutionally protected right of free speech further
+warranted intervention."
+
+19. In view of the abovementioned judgment, this court must consider the following for the grant of
+interim injunction in a defamation case - a Prima facie case, balance of convenience, and irreparable
+loss.
+
+20. Material on record indicates that the Defendants No. 2 to 4 stand served. Despite service,
+Defendants No. 2 to 4 have chosen not to appear, no pleadings or reply have been filed by
+Defendants No. 2 to 4.
+
+21. To adjudicate on the issue as to whether the impugned statements are taken from the cited
+sources on which they have relied upon and whether the impugned statements on the Plaintiff's
+page are in terms of the publishing policy of the Defendant No. 1's Platform, this Court has gone
+through the policy of Defendant No.1 and also the sources relied on by Defendants No.2 to 4. The
+policy as laid down by Defendant No. 1 is as under:-
+
+Signing Date:03.04.2025 21:20:01
+
+22. After going through the policy of the Defendant No. 1 regarding neutral point of view which
+states that any encyclopedic content on Wikipedia must be written from a neutral point of view,
+without any editorial bias. On perusal of the page pertaining to the Plaintiff, it appears that the
+statements on the page pertaining to the Plaintiff are all sourced from articles which are nothing but
+editorials and opinionated pages. Defendant No.1 which is following the policy to avoid stating
+opinions as facts and also professing it to be an encyclopedia has to also see as to whether the
+opinions are actually based on the source articles or not so that neutral policy of Defendant No.1 is
+not violated.
+
+23. To deal with the contentions of the learned Senior Counsel for Defendant No.1 that the Single
+Publication Rule is applicable to the present case or not, this Court finds it appropriate to reiterate
+the law as laid down by this Court with regards to Single Publication Rule. This Court in Khawar
+Butt v. Asif Nazir Mir, 2013 SCC OnLine Del 4474, has held as under:-
+
+"14. I first proceed on to determine the legal issue :
+
+Indian Kanoon - http://indiankanoon.org/doc/21429162/ 15
+
+
+
+Ani Media Pvt. Ltd. vs Wikimedia Foundation Inc & Ors. on 2 April, 2025
+
+Whether, the leaving of the allegedly defamatory material on the internet/facebook
+page gives rise to a fresh cause of action every moment the said offending material is
+so left on the webpage-which can be viewed by others at any time, or whether the
+cause of action arises only when the offending material is first posted on the
+webpage/internet.
+
+15. Learned counsel for the plaintiff has not substantiated his aforesaid submission
+with any case law or other academic discussion on the subject. I have, therefore,
+endeavored to examine the issue on my own. I have not come across any Indian case
+law on the subject, vis-a-vis internet publications. I have, therefore, proceeded to go
+beyond the Indian boundaries to see as to how this issue has been dealt with in other
+jurisdictions. In a nutshell, there are two conflicting legal positions, one being
+followed in U.K. till recently-and this is still followed in Australia, Canada and
+Germany, and the other in U.S.A., France and, now the U.K. The earlier U.K. view
+was based on a long standing rule in defamation cases-that every time an article or
+statement is published or republished, it creates an individual, discrete, actionable,
+defamatory statement upon which one can sue, generally known as the "multiple
+publication rule".
+
+16. The multiple publication rule was first developed in England in the case of Duke
+of Brunswick v. Harmer, (1849) 14 QB 185. In 1847, the Duke was given a copy of the
+newspaper that contained material defamatory of him which had been published 17
+years earlier.
+
+While upholding the claim for damages as being within limitation, the Court held that the limitation
+period of 6 years re-started when Duke viewed the publication. In Godfrey v. Demon Internet
+Limited, (2001) QB 201, the same rule was applied to the internet. Moorland J observed:
+
+"In my judgment the defendants, whenever they transmit and whenever there is
+transmitted from the storage of their news server a defamatory posting, publish that
+posting to any subscriber to their ISP who accesses the newsgroup containing that
+posting."
+
+17. The U.K. Government in a consultation paper-(the Multiple Publication Rule CP 20/09)
+describes the multiple publication rule as follows:
+
+"The effect of the multiple publication rule in relation to online material is that each
+"hit" on a webpage creates a new publication, potentially giving rise to a separate
+cause of action, should it contain defamatory material. Each cause of action has its
+own limitation period that runs from the time at which the material is accessed. As a
+result, publishers are potentially liable for any defamatory material published by
+them and accessed via their online archive, however long after the initial publication
+the material is accessed, and whether or not proceedings have already been brought
+in relation to the initial publication."
+
+Indian Kanoon - http://indiankanoon.org/doc/21429162/ 16
+
+
+
+Ani Media Pvt. Ltd. vs Wikimedia Foundation Inc & Ors. on 2 April, 2025
+
+18. The effect of the Multiple Publication Rule is that the limitation period runs from the date of the
+last publication of the defamatory statement, allowing the affected party to sue many years after the
+statement was first made. In the case of archived materials, an action could follow decades after the
+original publication of the material.
+
+19. The Multiple Publication Rule has been followed by the Australian Courts in Dow Jones & Co.
+Inc v. Gutnick, (2002) HCA 56. The High Court of Australia explicitly rejected calls to abolish the
+said rule in favour of the Single Publication Rule. The court rejected the argument that the Single
+Publication Rule be adopted for policy reasons, as it would be impossible for a publisher on the
+internet to protect itself against all the laws in every jurisdiction of the world. The High Court held
+that defamation proceedings sought to strike a balance between both- the rights of the publisher and
+the person who is the subject of the publication and whose rights would be severely constrained by
+the Single Publication Rule advocated by the applicant Dow Jones & Co. Inc.
+
+20. There were several occasions when the English courts rejected the call to abandon the Multiple
+Publication Rule. Reference may be made to Berezovsky v. Michaels, (2000) 1 WLR 1004 and
+Loutchansky v. Times Newspapers Ltd., (2002) QB 783. Lord Philips of Worth Matravers MR, while
+delivering the court's judgment observed:
+
+"We do not accept that the rule in the Duke of Brunswick imposes a restriction on the
+readiness to maintain and provide access to archives that amounts to a
+disproportionate restriction on freedom of expression. We accept that the
+maintenance of archives, whether in hard copy or on the Internet, has a social utility,
+but consider that the maintenance of archives is a comparatively insignificant aspect
+of freedom of expression. Archive material is stale news and its publication cannot
+rank in importance with the dissemination of contemporary material. Nor do we
+believe that the law of defamation need inhibit the responsible maintenance of
+archives. Where it is known that archive material is or may be defamatory, the
+attachment of an appropriate notice warning against treating it as the truth will
+normally remove any sting from the material."
+
+Leave to appeal to the House of Lords was rejected.
+
+21. An appeal was then preferred before the European Court of Human Rights (ECHR), seeking to
+enforce the newspapers right to freedom of expression under Article 10 of the European Convention
+of Human Rights (reported as Times Newspapers Ltd.-(Nos. 1 and
+
+2) v. United Kingdom, (2009) EMLR 14). While recognizing the importance of the press in
+disseminating information and acting as a public watchdog, the ECHR observed that the press also
+had the responsibility to protect the rights and reputations of the private individuals about whom it
+wrote. It was held that the interference with the rights of the press, in the facts of that case, was not
+disproportionate. It was held that the newspapers could have continued to maintain its archive
+without fear of litigation, had they placed a notice with the archived material thereby indicating that
+it was the subject of litigation, or had been found to contain defamatory comments-a solution
+
+Indian Kanoon - http://indiankanoon.org/doc/21429162/ 17
+
+
+
+Ani Media Pvt. Ltd. vs Wikimedia Foundation Inc & Ors. on 2 April, 2025
+
+offered by the Court of Appeal in that case. Since the action had been initiated within 18 months of
+the publication taking place, it was held that the defendant had not been required to defend an
+action many decades after the first publication had been made. Significantly, the court held:
+
+"The Court would, however, emphasise that while an aggrieved applicant must be
+afforded a real opportunity to vindicate his right to reputation, libel proceedings
+brought against a newspaper after a significant lapse of time may well, in the absence
+of exceptional circumstances, give rise to a disproportionate interference with press
+freedom under Article 70."
+
+22. Therefore, even though the ECHR did not interfere with the decision of the English Court in the
+facts of the case, it did indicate that if the action was brought after a significant lapse of time, the
+situation could well have been different.
+
+23. The Canadian Courts have also followed the earlier British Multiple Publication Rule. In Carter
+v. B.C. Federation of Foster Parents Association, 2005 BCCA 398, the court of appeal for British
+Columbia preferred to follow the then prevailing English legal position over the American view by
+observing:
+
+"7... Although it is difficult to find an express statement in the Canadian cases about
+the single publication rule, the clear tendency of the authorities in my view is in
+favour of the English and the Australian position and not in favour of the American
+position".
+
+Send Mail
+
+24. I may also refer to the decision of the Court of Appeal for Ontario in Shatif v. Toronto Life
+Publishing Co. Ltd., (2013) ONCA 405. While considering the issue, section 6 of the Libel and
+Slander Act, R.S. 01990 c.L. 12 was considered by the court, which reads as follows:
+
+„An action for a libel in a newspaper or in a broadcast shall be commenced within
+three months after the libel has come to the knowledge of the person defamed, but,
+where such an action is brought within that period, the action may include a claim for
+any other libel against the plaintiff by the defendant in the same newspaper or the
+same broadcasting station within a period of one year before the commencement of
+the action", (emphasis supplied)
+
+25. The court rejected the Single Publication Rule- applied by the American Courts, with the
+following observation:
+
+"[31] However, the single publication rule has been rejected in England : see
+Berezovsky v. Michaels, [2000] 2 All E.R. 986 (H.L.); Loutchansky v. Times
+Newspapers Ltd., [2002] Q.B. 783 (C.A.); in Australia : see Dow Jones and Co. Inc. v.
+Gutnick, [2002] H.CA 56, 2010 C.L.R. 575; and by the British Columbia Court of
+
+Indian Kanoon - http://indiankanoon.org/doc/21429162/ 18
+
+
+
+Ani Media Pvt. Ltd. vs Wikimedia Foundation Inc & Ors. on 2 April, 2025
+
+Appeal : see Carter v. B.C. Federation of Foster Parents Assn., 2005 BCCA
+398(CanLII), 2005 BCCA 398, 257 D.L.R. (4th) 133. And the motion judge refused to
+apply the rule in this case.
+
+[32] I, too, would not apply the single publication rule for three reasons. First, the
+rule does not fit comfortably with the words of s. 6 of the Act. The single publication
+rule is based on publication of an alleged libel. Successive publications are considered
+a single publication and the date of the first publication triggers the running of the
+limitation period. Under s. 6 of Ontario's Act, the date when the libel first came to the
+plaintiffs' knowledge, not the date of publication, triggers the running of the
+limitation period.
+
+[33] Moreover, the recapture provision in s. 6 is inconsistent with a single publication
+rule. A simple example will illustrate the inconsistency. Take a case where the same
+libel is published and later republished, and the plaintiff sues for damages for the
+republished libel. Section 6 would allow the plaintiff to recapture the earlier libel. In
+effect, s. 6 recognizes two separate libels; the single publication rule recognizes only
+one.
+
+[34] Second, the jurisprudence of this court has, implicitly at least, rejected the single
+publication rule. In Weiss v. Sawyer, (2002) 61 O.R. (3d) 526 (C.A.), at para. 28,
+Armstrong J.A. affirmed the traditional English rule:"Every republication of a libel is
+a new libel.
+
+[35] Third, even if we were to consider a single publication rule in Ontario, I would
+not apply it across different mediums of communication. In my opinion, it would be
+unfair to plaintiffs to apply the rule to publications that are intended for different
+groups or that may reach different audiences. Even in American-
+
+states that apply the single publication rule, at least one state, California, has rejected
+its" application for reprinting or republication in a different form : see Kanarek v.
+Bugliosi, (1980) 108 Cal. App. 3d 327. Also, the Restatement of the Law, Second :
+Torts (American Law Institute, 1977) states that the single publication rule does not
+include separate aggregate productions on different occasions. If the publication
+reaches a new group, the repetition justifies a new cause of action. See s. 57 7A.
+
+[36] Applying the single publication rule where, as in this case, the original
+publication is in print and the republication is on the internet could create a serious
+injustice for persons whose reputations are damaged by defamatory material. A
+plaintiff may not want to expend the time and resources to sue for an alleged libel in a
+magazine, which has a limited circulation and a limited lifespan. The plaintiff may
+consider the magazine's circulation insufficient to warrant a lawsuit.
+
+Indian Kanoon - http://indiankanoon.org/doc/21429162/ 19
+
+
+
+Ani Media Pvt. Ltd. vs Wikimedia Foundation Inc & Ors. on 2 April, 2025
+
+[37] However, a plaintiff may well want to spend the time and money to sue if the
+alleged libel is on the magazine's website and accessible on the internet. Unless the
+article is removed from the website, its circulation is vast, its lifespan is unlimited,
+and its potential to damage a person's reputation is enormous. Yet, if a single
+publication rule is applied, the plaintiffs claim may be statute barred before real
+damage to reputation has occurred".
+
+26. At this stage, I may note that the decision in this case was, inter alia, based on, firstly, the
+express language of section 6 of the Libel and Slander Act, as set out herein above, as also the fact
+that after the original publication had been made in print, the same was re-published on the
+internet. The re-publication of the same article on the internet would constitute a fresh publication,
+as it was directed towards a different set of people than those covered by the first publication in
+print media.
+
+27. In Ireland, the Multiple Publication Rule was abolished by the introduction of the Defamation
+Act, 2009. The Government appointed legal advisory group of defamation, 2003 advocated, inter
+alia, introduction of the Single Publication Rule. Section 38(1)(b) of the Defamation Act, after
+amendment, reads as follows:
+
+"For the purposes of bringing a defamation action within the meaning of the
+Defamation Act, 2009, the date of accrual of the cause of action shall be the date
+upon which the defamatory statement is first published and, where the statement is
+published through the medium of the internet, the date on which it is first capable of
+being viewed or listened to through that medium".
+
+28. Recently, in the United Kingdom, the law has changed with the enactment of the Defamation
+Act, 2013. Section 8 has introduced the Single Publication Rule, which reads as follows:
+
+"8. Single publication rule (1) This section applies if a person--
+
+(a) publishes a statement to the public ("the first publication"), and
+
+(b) subsequently publishes (whether or not to the public) that statement or a
+statement which is substantially the same.
+
+(2) In subsection (1) "publication to the public"
+
+includes publication to a section of the public.
+
+(3) For the purposes of section 4A of the Limitation Act, 1980 (time limit for actions for defamation
+etc) any cause of action against the person for defamation in respect of the subsequent publication is
+to be treated as having accrued on the date of the first publication.
+
+Indian Kanoon - http://indiankanoon.org/doc/21429162/ 20
+
+
+
+Ani Media Pvt. Ltd. vs Wikimedia Foundation Inc & Ors. on 2 April, 2025
+
+(4) This section does not apply in relation to the subsequent publication if the manner of that
+publication is materially different from the manner of the first publication.
+
+(5) In determining whether the manner of a subsequent publication is materially different from the
+manner of the first publication, the matters to which the court may have regard include (amongst
+other matters)--
+
+(a) the level of prominence that a statement is given;
+
+(b) the extent of the subsequent publication.
+
+(6) Where this section applies--
+
+(a) it does not affect the court's discretion under section 32A of the Limitation Act, 1980
+(discretionary exclusion of time limit for actions for defamation etc), and
+
+(b) the reference in subsection (1)(a) of that section to the operation of section 4A of that Act is a
+reference to the operation of section 4A together with this section".
+
+29. Therefore, the Multiple Publication Rule followed in the United Kingdom by the courts since
+Duke of Brunswick (supra), has statutorily been overruled. It would be interesting to observe the
+course of developments that may now take place in other commonwealth jurisdictions like Australia
+and Canada, post the aforesaid development in the United Kingdom.
+
+30. As noticed above, the second principle is what the American Courts call the "Single Publication
+Rule". It states that the publication of a book, periodical or newspaper containing defamatory
+material gives rise to only one cause of action for defamation, which implies, that the limitation
+period starts to run at the time the first publication is made, even if copies continue to be sold
+several years later. The rule has a long history. It was first developed in 1938 in respect of
+newspapers, in Wolfson v. Syracuse Newspapers, Inc, (1939) 279 NY 716. Then it was applied to
+books in 1948 in the case of Gregoire v. G.P. Putnam's Sons, (1948) 298 NY 119. The facts of this
+case were that a book was originally put on sale in 1941. It had been reprinted seven times, and was
+still being sold from stock in 1946. The New York Court of Appeals held that the limitation period
+started to run in 1941, when the book was first put on sale.
+
+31. In Gregoire (supra), the New York Court did not accept the rule as set out in Duke of Brunswick
+(supra), as it had its origin in an era which long antedated the modem process of mass publication.
+The said rule, it was held, was no longer suited to modem conditions. The court held that under such
+a rule, the period of limitation would never expire so long as a copy of the published material
+remained in stock and is made by the publisher, the subject of a sale or inspection by the public.
+Such a rule would thwart the purpose of the legislature which is to bar completely and forever all
+actions which overpass the prescribed limitation period.
+
+Indian Kanoon - http://indiankanoon.org/doc/21429162/ 21
+
+
+
+Ani Media Pvt. Ltd. vs Wikimedia Foundation Inc & Ors. on 2 April, 2025
+
+32. The Single Publication Rule is encapsulated in the American Law Institutes Uniform Single
+Publication Act, 1952. It is set out in Article 577A of the 2nd Restatement of Torts (197) as follows:
+
+"(1) Except as stated in subsections (2) and (3), each of several communications to a
+third person by the same defamer is a separate publication.
+
+„(2) A single communication heard at the same time by two or more third persons is a single
+publication.
+
+„(3) Any one edition of a book or newspaper, or any one radio or television broadcast, exhibition of a
+motion picture or similar aggregate communication is a single publication.
+
+„(4) As to any single publication, (a) only one action for damages can be maintained; (b) all damages
+suffered in all jurisdictions can be recovered in the one action; and a judgment for or against the
+plaintiff upon the merits of any action for damages bars any other action for damages between the
+same parties in all jurisdictions."
+
+33. In 2002, the New York Court of Appeals, applied the single publication rule to a website
+publication in Firth v. State of New York, (2002) NY int 88. This appeal presented the first occasion
+for that court to determine how the defamation jurisprudence, developed in connection with
+t r a d i t i o n a l  m a s s  m e d i a  c o m m u n i c a t i o n s ,  a p p l i e s  t o  c o m m u n i c a t i o n s  i n  a  n e w
+medium-cyberspace-in the modem information age. In this case a report had been published at a
+press conference on 16.12.1996, and placed on the internet on the same day. The Claimant, however,
+did not file a claim for over a year. The Court found that the limitation period started when the
+information was first placed on the website, and not from each "hit" received. Levine, J. observed
+that"/+ addition to increasing the exposure of publishers to stale claims, applying the multiple
+publication rule to a communication distributed via mass media would permit a multiplicity of
+actions, leading to potential harassment and excessive liability, and draining of judicial resources
+(see Keeton v. Hustler Mag., Inc., 465 US 770, 777 [1984])". The court further held that the policies
+impelling the original adoption of the single publication rule "are even more cogent when
+considered in connection with the exponential growth of the instantaneous, worldwide ability to
+communicate through the internet." The alternative would give "even greater potential for endless
+retriggering of the statute of limitations, multiplicity of suits and harassment of defendants." The
+court further observed that if the single publication rule is. not upheld with regard to internet
+publications, then "Inevitably, there would be a serious inhibitory effect on the open, pervasive
+dissemination of information and ideas over the internet, which is, of course, its greatest beneficial
+promise."
+
+Send Mail
+
+34. The court also rejected the argument that re- publication re-triggered the period of limitation.
+The court observed that re-publication occurs:
+
+Indian Kanoon - http://indiankanoon.org/doc/21429162/ 22
+
+
+
+Ani Media Pvt. Ltd. vs Wikimedia Foundation Inc & Ors. on 2 April, 2025
+
+"upon a separate aggregate publication from the original, on a different occasion,
+which is not merely "a delayed circulation of the original edition" (Rinaldi v. Viking
+Penguin, Inc., 52 NY2d at 435; Restatement [Second] of Torts „577A, Comment d, at
+210, supra). The justification for this exception to the single publication rule is that
+the subsequent publication is intended to and actually reaches a new audience (see
+Rinaldi, 52 NY2d at 433 [Citing Cook v. Conners, 215 NY 175 (1915)]; Restatement,
+Comment d). Thus, for example, repeti tion of a defamatory statement in a later
+edition of a book, magazine or newspaper may give rise to a new cause of action (see
+Rinaldi, 52 NY2d at 433-435 [hard-cover and paperback editions of the same book];
+see also Cook v. Conners, 215 NY at 179 [morning and afternoon editions of
+newspapers owned and published by the same individual]).
+
+The mere addition of unrelated information to a Web site cannot be equated with the
+repetition of defamatory matter in a separately published edition of a book or
+newspaper, as in Rinaldi and Cook. The justification for the republication exception
+has no application at all to the addition of unrelated material on a Web site, for it is
+not reasonably inferable that the addition was made either with the intent or the
+result of communicating the earlier and separate defamatory information to a new
+audience."
+
+24. According to the aforementioned decision of this Court, 'Single Publication Rule' only applies
+when the second publication is a verbatim reproduction of the first publication. After perusing the
+Articles which were being cited by Defendants No. 2 to 4 while making the impugned statements,
+this Court opines that the impugned statements on the Plaintiff's page are not verbatim
+reproduction of such articles, and these impugned statements are written in such a way which is
+totally contradictory to the intent with which these Articles were written and the impugned
+statements on the page pertaining to the Plaintiff on the Platform of Defendant No. 1 are devoid of
+the context of the Articles. Therefore, in the opinion of this Court, the impugned statements are
+ex-facie defamatory and tarnishes the professional reputation of the Plaintiff.
+
+25. In view of the fact that Defendant No.2 to 4 have chosen not to appear despite service and this
+Court having perused the articles which are the source of this opinion, this Court finds that the
+opinion of Defendants No.2 to 4 do not represent the true picture of the articles and have been
+twisted by Defendants No.2 to 4. Further, this Court finds merit in the allegation of the Plaintiff that
+Defendant No.1 has ensured that the articles cannot be edited by anybody else, thereby putting
+Plaintiff in a disadvantage to rebut what is given in the page. Therefore, the present application is
+allowed in terms of prayer (b) and (c) of the application.
+
+26. The application is disposed of.
+
+SUBRAMONIUM PRASAD, J APRIL 02, 2025 RJ/y.chugh
+
+Indian Kanoon - http://indiankanoon.org/doc/21429162/ 23

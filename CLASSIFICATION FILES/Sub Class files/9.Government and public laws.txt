@@ -1,0 +1,76 @@
+Subdomains:
+	1. Legislative Documents: (Documents created by legislative bodies such as parliaments, congresses, and state legislatures)
+	    1.1 Legislative Documents Categories:
+		(i) Statutes/Acts of Parliament/Laws: Formal written laws enacted by a legislative body at the national, state, or local level.
+		(ii) Bills: Proposed legislation introduced in a legislative body that has not yet been enacted into law.
+		(iii) Legislative Records: Official transcripts and records of the proceedings of legislative sessions (e.g., Hansard, Congressional Record).
+		(iv) Amendments to Legislation: Formal changes or additions made to existing statutes or laws.
+		(v) Ordinances: Laws passed by local government bodies such as cities or municipalities.
+
+	2. Executive Orders and Regulations: (Documents issued by the executive branch of government and its agencies)
+	    2.1 Executive Orders and Regulations Categories:
+		(i) Executive Orders: Directives issued by the head of the executive branch (e.g., President, Governor) that have the force of law.
+		(ii) Presidential Proclamations: Formal announcements issued by the President on matters of national significance.
+		(iii) Administrative Regulations: Rules and regulations promulgated by government agencies to implement and enforce statutes.
+		(iv) Regulatory Guidance Documents: Interpretations and guidelines issued by government agencies to provide clarity on how to comply with regulations.
+		(v) Policy Directives from Government Agencies: Official instructions or guidelines issued by government agencies to their staff and the public.
+
+	3. Judicial Decisions on Public Law: (Decisions made by courts interpreting and applying laws related to the government and public matters)
+	    3.1 Judicial Decisions on Public Law Categories:
+		(i) Constitutional Court Judgments: Decisions by the highest court in a jurisdiction regarding the interpretation and application of the constitution.
+		(ii) Supreme Court Opinions (on Public Law Matters): Decisions by the highest appellate court in a jurisdiction on cases involving government, public rights, and constitutional issues.
+		(iii) High Court/Appellate Court Decisions (on Administrative Law, etc.): Decisions by appellate courts reviewing the actions of administrative agencies or interpreting public law statutes.
+		(iv) Landmark Cases in Public Law: Significant court decisions that have established important legal precedents in areas of public law.
+
+	4. Administrative Law Documents: (Documents related to the powers, procedures, and actions of administrative agencies)
+	    4.1 Administrative Law Documents Categories:
+		(i) Agency Rules and Regulations: Formal rules adopted by administrative agencies to govern their procedures and the behavior of those subject to their authority.
+		(ii) Administrative Decisions and Orders: Rulings made by administrative agencies in adjudicative proceedings.
+		(iii) Notices of Proposed Rulemaking: Public announcements by government agencies indicating their intention to issue new regulations or amend existing ones.
+		(iv) Agency Interpretations and Guidelines: Official interpretations of statutes and regulations issued by administrative agencies.
+		(v) Permits and Licenses Issued by Government Agencies: Authorizations granted by government agencies to individuals or entities to engage in specific activities.
+
+	5. Specific Areas of Public Law Documents: (Documents related to particular fields of public law)
+	    5.1 Constitutional Law Documents:
+		(i) Constitutional Amendments: Formal changes to a nation's constitution.
+		(ii) Landmark Constitutional Cases: Significant court decisions interpreting the constitution.
+	    5.2 Criminal Law Documents:
+		(i) Criminal Statutes: Laws defining criminal offenses and their penalties.
+		(ii) Indictments: Formal accusations issued by a grand jury charging a person with a crime.
+		(iii) Arrest Warrants: Legal documents issued by a judge authorizing the arrest of an individual.
+	    5.3 Immigration Law Documents:
+		(i) Immigration Statutes: Laws governing the entry, stay, and departure of foreign nationals.
+		(ii) Visa Applications: Forms and documents submitted by individuals seeking permission to enter a country.
+		(iii) Deportation Orders: Legal documents ordering the removal of a foreign national from a country.
+	    5.4 Tax Law Documents:
+		(i) Tax Codes/Statutes: Laws governing the imposition and collection of taxes.
+		(ii) Tax Regulations: Rules issued by tax authorities to interpret and implement tax laws.
+		(iii) Tax Court Decisions: Rulings made by courts specializing in tax disputes.
+	    5.5 Environmental Law Documents:**
+		(i) Environmental Protection Statutes: Laws aimed at protecting the environment.
+		(ii) Regulations on Pollution Control: Rules issued by government agencies to control pollution.
+		(iii) Permits for Environmental Activities: Authorizations required for activities that may impact the environment.
+	    5.6 Human Rights Law Documents:
+		(i) National Human Rights Legislation: Laws enacted to protect human rights within a country.
+		(ii) International Human Rights Treaties: Agreements between nations aimed at protecting human rights (ratified by the specific nation).
+	    5.7 International Law Documents (as it pertains to a nation's public law):
+		(i) Treaties and Conventions: Formal agreements between countries.
+		(ii) International Agreements: Less formal agreements between countries or international organizations.
+	    5.8 Election Law Documents:
+		(i) Statutes Governing Elections: Laws outlining the rules and procedures for elections.
+		(ii) Campaign Finance Regulations: Rules governing how political campaigns are funded.
+	    5.9 Administrative Law Documents (as a subject area):
+		(i) Statutes Governing Administrative Agencies: Laws that define the powers and procedures of government agencies.
+		(ii) Rules of Procedure for Administrative Hearings: Regulations outlining how administrative hearings are conducted.
+	    5.10 Labor Law Documents (Public Sector):
+		(i) Statutes Governing Public Sector Employment: Laws specific to the employment of government employees.
+		(ii) Collective Bargaining Agreements (Public Sector): Contracts between government employers and public sector unions.
+	    5.11 Education Law Documents (Public):
+		(i) Statutes Governing Public Education: Laws related to the establishment and operation of public schools and universities.
+		(ii) Regulations Issued by Education Authorities: Rules set by government education departments.
+	    5.12 Healthcare Law Documents (Public):
+		(i) Statutes Governing Public Healthcare Systems: Laws related to government-funded healthcare.
+		(ii) Regulations Issued by Health Authorities: Rules set by government health departments.
+	    5.13 Social Security/Welfare Law Documents:
+		(i) Statutes Governing Social Security Programs: Laws establishing and regulating social security and welfare benefits.
+		(ii) Regulations Issued by Social Security/Welfare Agencies: Rules set by government agencies administering these programs.

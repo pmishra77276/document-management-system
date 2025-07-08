@@ -1,0 +1,69 @@
+Subdomains:
+	1.1 Family Law Documents:
+	    (i) Marriage and Relationships:
+		(a) Marriage Certificates: Official documents certifying a marriage.
+		(b) Prenuptial Agreements: Contracts entered into by prospective spouses outlining their rights regarding assets and property in the event of divorce or death.
+		(c) Cohabitation Agreements: Agreements between unmarried couples living together that outline their rights and responsibilities.
+	    (ii) Divorce and Separation:
+		(a) Divorce Decrees/Judgments: Official court orders dissolving a marriage.
+		(b) Separation Agreements: Legally binding agreements between spouses who have separated but are not yet divorced, outlining terms such as property division, child custody, and support.
+	    (iii) Child-Related Matters:
+		(a) Child Custody Agreements: Agreements between parents outlining the care and control of their children after separation or divorce.
+		(b) Child Support Orders: Court orders mandating the financial support of children by one or both parents.
+		(c) Adoption Papers: Legal documents finalizing the adoption of a child.
+
+	1.2 Estate Planning Documents:
+	    (i) Wills and Testaments:
+		(a) Last Will and Testament: A legal document outlining how a person's assets should be distributed after their death.
+		(b) Codicils: Legal documents that amend or add to an existing will.
+	    (ii) Trusts:
+		(a) Living Trusts: Legal arrangements established during a person's lifetime to hold and manage assets for beneficiaries.
+		(b) Testamentary Trusts: Trusts created through a will that come into effect after the person's death.
+	    (iii) Powers of Attorney:
+		(a) Financial Power of Attorney: A legal document authorizing another person to manage one's financial affairs.
+		(b) Healthcare Power of Attorney: A legal document authorizing another person to make healthcare decisions on one's behalf if they become incapacitated.
+	    (iv) Advance Healthcare Directives:**
+		(a) Living Wills: Legal documents outlining a person's wishes regarding medical treatment in the event they are unable to communicate their decisions.
+		(b) Do-Not-Resuscitate (DNR) Orders: Legal orders instructing healthcare providers not to perform CPR if a person's heart stops or they stop breathing.
+
+	1.3 Personal Healthcare Documents:
+	    (i) Medical Records:
+		(a) Patient Medical History: Records of a person's past and present health conditions.
+		(b) Treatment Records: Documentation of medical treatments and procedures received.
+		(c) Consent Forms for Medical Procedures: Documents signed by patients giving their informed consent to medical treatments.
+	    (ii) Healthcare Insurance Documents:**
+		(a) Health Insurance Policies: Contracts outlining the terms and coverage of a person's health insurance plan.
+		(b) Explanation of Benefits (EOBs): Statements from insurance companies detailing the costs of healthcare services and what was covered.
+
+	1.4 Consumer-Related Documents:
+	    (i) Purchase of Goods and Services (Personal):
+		(a) Receipts and Invoices for Personal Purchases: Documentation of personal transactions.
+		(b) Warranty Documents: Written guarantees provided by sellers or manufacturers regarding the quality or performance of goods.
+	    (ii) Consumer Rights:**
+		(a) Consumer Complaint Letters: Formal letters expressing dissatisfaction with goods or services.
+		(b) Documentation related to Consumer Protection Laws: Information and records related to laws designed to protect consumers.
+
+	1.5 Housing and Tenancy Documents (Personal):
+	    (i) Residential Leases:**
+		(a) Residential Lease Agreements: Contracts between a landlord and a tenant for the rental of a residential property.
+		(b) Lease Renewal Agreements: Agreements to extend the term of an existing lease.
+	    (ii) Landlord-Tenant Issues:**
+		(a) Eviction Notices: Formal notices from a landlord to a tenant to vacate a property.
+		(b) Security Deposit Agreements: Agreements outlining the terms for a tenant's security deposit.
+
+	1.6 Personal Financial Documents:
+	    (i) Banking and Accounts:
+		(a) Bank Account Statements: Records of transactions in a person's bank accounts.
+		(b) Loan Documents (Personal Loans, Auto Loans): Contracts for personal loans or loans to purchase vehicles.
+	    (ii) Investments (Personal):
+		(a) Brokerage Account Statements: Records of transactions in a person's investment accounts.
+		(b) Investment Agreements (non-commercial): Agreements related to personal investments.
+
+	1.7 Other Personal Legal Documents:
+	    (i) Identification and Status:
+		(a) Birth Certificates: Official records of a person's birth.
+		(b) Passports: Official documents issued by a government that identify the holder as a citizen of that country and allow them to travel internationally.
+		(c) Driver's Licenses: Official documents authorizing a person to operate a motor vehicle.
+	    (ii) Affidavits and Declarations:**
+		(a) Affidavits: Sworn written statements made under oath or affirmation.
+		(b) Statutory Declarations: Formal statements made in accordance with statutory

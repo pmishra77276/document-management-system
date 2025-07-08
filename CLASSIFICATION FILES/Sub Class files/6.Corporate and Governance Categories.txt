@@ -1,0 +1,46 @@
+Subdomains:
+	1. Formation and Registration Documents: (Documents required to establish a legal corporate entity)
+	    1.1 Formation and Registration Documents Categories:
+		(i) Articles of Incorporation/Certificate of Incorporation: The foundational legal document filed with the government to create a corporation.
+		(ii) Bylaws: The internal rules and regulations that govern the management and operation of the corporation.
+		(iii) Organizational Minutes: The initial written record of the first meeting of the incorporators or directors, outlining the initial organizational decisions.
+		(iv) Subscription Agreements: Agreements between the corporation and initial shareholders for the purchase of shares.
+
+	2. Internal Governance Documents: (Documents that define the internal rules and management structure of the corporation)
+	    2.1 Internal Governance Documents Categories:
+		(i) Amended and Restated Bylaws: Updated versions of the corporation's internal rules.
+		(ii) Board Meeting Minutes: Official records of the discussions and decisions made during meetings of the board of directors.
+		(iii) Shareholder Meeting Minutes: Official records of the discussions and decisions made during meetings of the corporation's shareholders.
+		(iv) Board Resolutions: Formal written statements adopted by the board of directors that authorize specific actions.
+		(v) Committee Charters: Documents outlining the purpose, responsibilities, and procedures of various committees of the board (e.g., Audit Committee, Compensation Committee).
+
+	3. Shareholder and Equity Documents: (Documents related to the ownership and equity structure of the corporation)
+	    3.1 Shareholder and Equity Documents Categories:
+		(i) Stock Certificates: Documents representing ownership of shares in the corporation.
+		(ii) Shareholder Agreements: Agreements among shareholders regarding the management, voting, and transfer of shares.
+		(iii) Equity Incentive Plans: Plans that provide employees or other stakeholders with the opportunity to acquire shares or stock options in the company.
+		(iv) Stock Option Agreements: Contracts granting the right to purchase shares of the company's stock at a specified price within a certain period.
+		(v) Voting Agreements: Agreements among shareholders on how they will vote their shares on certain matters.
+		(vi) Rights Agreements (Poison Pills): Defensive measures a company can take to prevent or discourage a hostile takeover.
+
+	4. Corporate Compliance Documents: (Documents related to regulatory compliance specific to corporations)
+	    4.1 Corporate Compliance Documents Categories:
+		(i) Annual Reports: Comprehensive reports issued by the corporation to its shareholders and regulatory bodies, detailing its performance and financial status.
+		(ii) Proxy Statements: Documents sent to shareholders before a shareholder meeting, providing information on matters to be voted upon.
+		(iii) Conflict of Interest Policies: Guidelines outlining how to identify and manage potential conflicts of interest for directors, officers, and employees.
+		(iv) Insider Trading Policies: Rules prohibiting the trading of a company's stock based on non-public, material information.
+		(v) Compliance Certificates: Documents certifying the corporation's adherence to specific laws, regulations, or standards.
+
+	5. Mergers, Acquisitions, and Restructuring Documents: (Documents involved in significant corporate transactions)
+	    5.1 Mergers, Acquisitions, and Restructuring Documents Categories:
+		(i) Merger Agreements: Contracts outlining the terms and conditions of a merger between two or more companies.
+		(ii) Acquisition Agreements: Contracts for one company to acquire another company, which can take the form of a Stock Purchase Agreement or an Asset Purchase Agreement.
+		(iii) Plan of Reorganization: A document outlining the steps involved in a corporate restructuring, often used in bankruptcy proceedings.
+		(iv) Due Diligence Reports: Reports summarizing the findings of the investigation conducted before a merger or acquisition to assess the target company's assets, liabilities, and overall condition.
+
+	6. Dissolution and Liquidation Documents: (Documents related to the termination of a corporation's existence)
+	    6.1 Dissolution and Liquidation Documents Categories:
+		(i) Plan of Dissolution: A document outlining the process for winding up the corporation's affairs.
+		(ii) Articles of Dissolution: The legal document filed with the government to formally terminate the corporation's existence.
+		(iii) Liquidation Agreements: Agreements related to the sale of the corporation's assets and the distribution of proceeds to creditors and shareholders.
+		(iv) Dissolution Notices: Public announcements of the corporation's intent to dissolve.

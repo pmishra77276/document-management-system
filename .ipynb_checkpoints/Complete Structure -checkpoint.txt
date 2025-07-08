@@ -1,0 +1,506 @@
+1.Contractual Documents
+
+    1.1. General Commercial Contracts: (Focuses on the exchange of goods or services in a business context, without falling into specific categories like Finance or Real Estate)
+        1.1.1 General Commercial Contracts categories:-
+            (i)Sales Agreements (for Goods): Agreements for the transfer of ownership of tangible items.
+            (ii)Service Agreements: Agreements for the provision of services (excluding employment).
+            (iii)Supply Agreements: Agreements for the ongoing provision of goods or services.
+            (iV)Distribution Agreements: Agreements granting the right to sell or distribute goods in a specific territory.
+            (V)Agency Agreements: Agreements where one party acts on behalf of another.
+            (Vi)Consulting Agreements: Agreements for expert advice and guidance.
+    
+    1.2. Project Specific Agreements: (Contracts related to specific undertakings projects
+        1.2.1 Project Specific Agreements Categories:- 
+            (i)Project Management Agreements: Agreements outlining the management of a specific project.
+            (ii)Construction Contracts: Agreements for building or infrastructure projects (while related to Property, the focus here is the contractual obligation to build).
+            (iii)Development Agreements: Agreements for the development of products, software, etc.
+    
+    1.3. Business Relationship Agreements: (Contracts defining the relationship between different business entities or individuals for a specific purpose, distinct from formal corporate structures)
+        1.3.1 Business Relationship Agreements Categories:-
+            (i)Partnership Agreements: Agreements outlining the terms of a business partnership.
+            (ii)Joint Venture Agreements: Agreements between two or more parties to collaborate on a specific project or business undertaking.
+            (iii)Collaboration Agreements: Agreements for parties to work together on a specific initiative.
+    
+    1.4. Agreements Related to Confidentiality and Intellectual Property (with careful distinction from "Intellectual Property Rights"):
+        1.4.1 Agreements Related to Confidentiality and Intellectual Property categories:
+            (i)Confidentiality Agreements (NDAs): Agreements to protect sensitive information shared between parties. (While related to IPR, the NDA itself is a contractual obligation to maintain secrecy).
+            (ii)Material Transfer Agreements: Agreements governing the transfer of research materials. (Can involve IP but the core is the contractual terms of the transfer).
+    
+    1.5. Dispute Resolution and Settlement Agreements: (Agreements to resolve disagreements outside of formal litigation)
+        1.5.1 Dispute Resolution and Settlement Agreements categories:
+            (i)Settlement Agreements: Agreements to resolve existing disputes between parties.
+            (ii)Mediation Agreements: Agreements reached through the process of mediation.
+            (iii)Arbitration Agreements: Agreements to submit future disputes to arbitration.
+
+2. Regulatory and Compliance:
+
+    2.1. General Commercial Contracts: (Focuses on the exchange of goods or services in a business context, without falling into specific categories like Finance or Real Estate)
+        2.1.1 General Commercial Contracts categories:
+            (i)Sales Agreements (for Goods): Agreements for the transfer of ownership of tangible items.
+            (ii)Service Agreements: Agreements for the provision of services (excluding employment).
+            (iii)Supply Agreements: Agreements for the ongoing provision of goods or services.
+            (iv)Distribution Agreements: Agreements granting the right to sell or distribute goods in a specific territory.
+            (v)Agency Agreements: Agreements where one party acts on behalf of another.
+            (vi)Consulting Agreements: Agreements for expert advice and guidance.
+    
+    2.2. Project-Specific Agreements: (Contracts related to specific undertakings or projects)
+        2.2.1 Project-Specific Agreements categories:
+            (i)Project Management Agreements: Agreements outlining the management of a specific project.
+            (ii)Construction Contracts: Agreements for building or infrastructure projects (while related to Property, the focus here is the contractual obligation to build).
+            (iii)Development Agreements: Agreements for the development of products, software, etc.
+    
+    2.3. Business Relationship Agreements: (Contracts defining the relationship between different business entities or individuals for a specific purpose, distinct from formal corporate structures)
+        2.3.1 Business Relationship Agreements categories:
+        (i)Partnership Agreements: Agreements outlining the terms of a business partnership.
+        (ii)Joint Venture Agreements: Agreements between two or more parties to collaborate on a specific project or business undertaking.
+        (iii)Collaboration Agreements: Agreements for parties to work together on a specific initiative.
+    
+    2.4. Agreements Related to Confidentiality and Intellectual Property (with careful distinction from "Intellectual Property Rights"):
+        2.4.1 Agreements Related to Confidentiality and Intellectual Property categories:
+            (i) Confidentiality Agreements (NDAs): Agreements to protect sensitive information shared between parties. (While related to IPR, the NDA itself is a contractual obligation to maintain secrecy).
+            (ii) Material Transfer Agreements: Agreements governing the transfer of research materials. (Can involve IP but the core is the contractual terms of the transfer).
+    
+    2.5. Dispute Resolution and Settlement Agreements: (Agreements to resolve disagreements outside of formal litigation)
+        2.5.1 Dispute Resolution and Settlement Agreements categories:
+            (i) Settlement Agreements: Agreements to resolve existing disputes between parties.
+            (ii) Mediation Agreements: Agreements reached through the process of mediation.
+            (iii) Arbitration Agreements: Agreements to submit future disputes to arbitration.
+
+3. Intellectual Property Rights (IPR)
+    3.1. Patents: (Legal rights granted for an invention)
+        3.1.1 Patent Legal Documents:
+            (i) Patent Applications: Documents filed to seek patent protection for an invention (including Provisional and Non-Provisional applications).
+            (ii) Patent Grants/Certificates: Official documents issued by a patent office granting patent rights.
+            (iii) Patent Assignment Agreements: Agreements transferring the ownership of a patent from one party to another.
+            (iv) Patent License Agreements: Agreements granting permission to another party to use a patented invention under specific terms and conditions.
+            (v) Patent Maintenance Documents: Records related to the payment of renewal fees and other requirements to keep a patent in force.
+    
+    3.2. Trademarks: (Symbols, designs, or phrases legally registered to represent a company or product)
+        3.2.1 Trademark Legal Documents:
+            (i) Trademark Applications: Documents filed to register a trademark with a trademark office.
+            (ii) Trademark Registrations/Certificates: Official documents issued by a trademark office confirming the registration of a trademark.
+            (iii) Trademark Assignment Agreements: Agreements transferring the ownership of a trademark from one party to another.
+            (iv) Trademark License Agreements: Agreements granting permission to another party to use a trademark under specific terms and conditions.
+            (v) Trademark Renewal Documents: Records related to the renewal of a trademark registration.
+            (vi) Notice of Opposition: Documents filed to oppose the registration of a trademark.
+    
+    3.3. Copyrights: (Legal rights granted to the creator of original works of authorship)
+            3.3.1 Copyright Legal Documents:
+            (i) Copyright Registration Certificates: Official documents issued by a copyright office registering a copyright.
+            (ii) Copyright Assignment Agreements: Agreements transferring the ownership of a copyright from one party to another.
+            (iii) Copyright License Agreements: Agreements granting permission to another party to use a copyrighted work under specific terms and conditions.
+            (iv) Copyright Transfer Agreements: Similar to assignment agreements, documenting the transfer of copyright.
+            (v) Digital Millennium Copyright Act (DMCA) Notices: Legal notices issued to online service providers regarding copyright infringement.
+    
+    3.4. Trade Secrets: (Confidential information that gives a business a competitive edge)
+        3.4.1 Trade Secret Legal Documents:
+            (i) Non-Disclosure Agreements (NDAs): Agreements used to protect the confidentiality of trade secrets shared with other parties.
+            (ii) Confidentiality Clauses in Employment Agreements: Provisions in employment contracts that require employees to maintain the confidentiality of trade secrets.
+            (iii) Trade Secret Misappropriation Lawsuit Filings: Legal documents filed in court alleging the unlawful acquisition or use of trade secrets.
+    
+    3.5. Industrial Designs (or Design Patents): (Protect the ornamental or aesthetic aspects of an article)
+        3.5.1 Industrial Design Legal Documents:
+            (i) Industrial Design Applications: Documents filed to seek protection for the visual design of an article.
+            (ii) Industrial Design Registrations/Certificates: Official documents granting protection for the aesthetic appearance of a product.
+            (iii) Industrial Design Assignment Agreements: Agreements transferring the ownership of an industrial design registration.
+            (iv) Industrial Design License Agreements: Agreements granting permission to another party to use a registered industrial design.
+    
+    3.6. Geographical Indications (GIs): (Identify a product as originating from a specific geographical location and having qualities, reputation, or characteristics essentially attributable to that origin)
+        3.6.1 Geographical Indication Legal Documents:
+            (i) Applications for Registration of Geographical Indications: Documents filed to register a GI for specific products from a particular region.
+            (ii) Certificates of Registration of Geographical Indications: Official documents confirming the registration of a GI.
+            (iii) Regulations Governing the Use of Geographical Indications: Rules and guidelines specifying how a registered GI can be used.
+            (iv) Licensing Agreements for the Use of Geographical Indications: Agreements granting permission to producers within the specified region to use the GI.
+    
+    3.7. Plant Breeders' Rights (PBRs) or Plant Variety Protection (PVP): (Grant breeders exclusive rights over new varieties of plants)
+        3.7.1 Plant Breeders' Rights Legal Documents:
+            (i) Applications for Plant Breeders' Rights: Documents filed to seek protection for a new plant variety.
+            (ii) Certificates of Plant Breeders' Rights: Official documents granting exclusive rights to the breeder of a new plant variety.
+            (iii) Licensing Agreements for Plant Variety Protection: Agreements granting permission to others to produce or reproduce the protected plant variety.
+    
+    3.8. Layout-Designs (Topographies) of Integrated Circuits: (Protect the three-dimensional arrangement of elements in an integrated circuit)
+        3.8.1 Layout-Designs of Integrated Circuits Legal Documents:
+            (i) Applications for Registration of Layout-Designs: Documents filed to register the specific layout of an integrated circuit.
+            (ii) Certificates of Registration of Layout-Designs: Official documents granting protection for the topography of an integrated circuit.
+            (iii) Assignment Agreements for Layout-Designs: Agreements transferring the ownership of the registered layout-design.
+            (iv) Licensing Agreements for Layout-Designs: Agreements granting permission to another party to use the protected layout-design.
+
+4. Litigation and Dispute Categories
+    4.1. Pre-Litigation Documents: (Documents generated before a formal lawsuit is initiated)
+        4.1.1 Pre-Litigation Documents Categories:
+            (i) Demand Letters: Formal letters sent by one party to another demanding a specific action or remedy to avoid litigation.
+            (ii) Cease and Desist Letters: Formal letters demanding that a party stop a particular activity that the sender believes is unlawful or infringing on their rights.
+            (iii) Settlement Negotiation Correspondence: Letters, emails, or other written communications exchanged between parties in an attempt to resolve a dispute before filing a lawsuit.
+            (iv) Pre-Action Protocols: Documents and steps required in some jurisdictions before commencing certain types of litigation, aimed at encouraging early settlement.
+    4.2. Pleadings: (Formal documents filed with the court to initiate and define the issues in a lawsuit)
+        4.2.1 Pleadings Categories:
+            (i) Complaint/Petition: The initial document filed by the plaintiff (the party bringing the lawsuit) to start the litigation, outlining the claims and requested relief.
+            (ii) Answer/Response: The defendant's (the party being sued) formal response to the complaint, addressing the plaintiff's allegations and raising any defenses.
+            (iii) Counterclaims: Claims brought by the defendant against the plaintiff within the same lawsuit.
+            (iv) Crossclaims: Claims brought by one defendant against another defendant in the same lawsuit.
+            (v) Third-Party Complaints: Documents filed by a defendant to bring a new party into the lawsuit who may be liable for the plaintiff's damages.
+            (vi) Reply to Counterclaim: The plaintiff's response to any counterclaims asserted by the defendant.
+    4.3. Discovery Documents: (Documents and information exchanged between parties to gather evidence relevant to the lawsuit)
+        4.3.1 Discovery Documents Categories:
+            (i) Interrogatories: Written questions served by one party on another that must be answered under oath.
+            (ii) Requests for Production of Documents: Formal requests to the opposing party to provide specific documents or tangible items for inspection and copying.
+            (iii) Requests for Admission: Formal requests to the opposing party to admit or deny the truth of certain facts or the genuineness of certain documents.
+            (iv) Deposition Transcripts: Written records of oral testimony given by a witness under oath, taken outside of court.
+            (v) Subpoenas: Legal documents compelling a witness to appear for a deposition or at trial, or to produce documents.
+    4.4. Motion Practice Documents: (Documents filed with the court seeking a specific order or ruling before or during trial)
+        4.4.1 Motion Practice Documents Categories:
+            (i) Motions to Dismiss: Requests by the defendant to have the lawsuit dismissed for reasons such as lack of jurisdiction or failure to state a valid claim.
+            (ii) Motions for Summary Judgment: Requests by a party to have the court rule in their favor without a full trial because there is no genuine dispute of material fact.
+            (iii) Motions to Compel Discovery: Requests to the court to order the opposing party to comply with discovery requests.
+            (iv) Motions in Limine: Requests to the court to exclude certain evidence from being presented at trial.
+            (v) Other Procedural Motions: Various other motions related to the conduct of the litigation, such as motions for extensions of time, motions to amend pleadings, etc.
+    4.5. Trial Documents: (Documents related to the proceedings during a trial)
+        4.5.1 Trial Documents Categories:
+            (i) Witness Lists: Lists of individuals who will testify at trial, provided by each party.
+            (ii) Exhibit Lists: Lists of documents and other evidence that each party intends to present at trial.
+            (iii) Trial Briefs: Written legal arguments submitted to the court before or during trial, outlining a party's case and the relevant law.
+            (iv) Jury Instructions: Proposed instructions on the law that the parties suggest the judge should give to the jury (in jury trials).
+            (v) Verdict Forms: Forms provided to the jury to record their findings of fact and verdict.
+            (vi) Court Orders and Rulings issued during trial: Orders made by the judge on various matters that arise during the trial.
+    4.6. Post-Trial Documents: (Documents filed after a trial has concluded)
+        4.6.1 Post-Trial Documents Categories:
+            (i) Judgments/Orders: The final decision of the court resolving the lawsuit.
+            (ii) Motions for New Trial: Requests by a losing party to have the court order a new trial due to errors or irregularities in the original trial.
+            (iii) Motions for Judgment Notwithstanding the Verdict (JNOV): Requests by a losing party to have the court enter a judgment in their favor, even if the jury reached a different verdict.
+    4.7. Appellate Documents: (Documents filed in an appellate court to review the decision of a lower court)
+        4.7.1 Appellate Documents Categories:
+            (i) Notice of Appeal: The formal document filed to initiate the appeal process.
+            (ii) Appellate Briefs: Written legal arguments submitted to the appellate court by each party, arguing why the lower court's decision should be affirmed or reversed.
+            (iii) Record on Appeal: The documents and transcripts from the lower court proceedings that are submitted to the appellate court for review.
+            (iv) Appellate Court Decisions/Opinions: The written decision of the appellate court, explaining its reasoning and whether it affirms, reverses, or modifies the lower court's decision.
+    4.8. Alternative Dispute Resolution (ADR) Documents: (Documents related to resolving disputes outside of traditional court litigation)
+        4.8.1 Alternative Dispute Resolution (ADR) Documents Categories:
+            (i) Mediation Briefs: Documents submitted to the mediator outlining a party's position and the issues in dispute.
+            (ii) Mediator's Proposals: Suggestions made by the mediator to help the parties reach a settlement.
+            (iii) Arbitration Demands/Submissions: Formal documents initiating arbitration proceedings and outlining the issues to be decided by the arbitrator.
+            (iv) Responses to Arbitration Demands/Submissions: The responding party's formal answer to the arbitration claim.
+            (v) Arbitrator Selection Documents: Documents related to the process of choosing an arbitrator.
+            (vi) Witness Statements and Exhibits for Arbitration: Evidence presented by the parties in an arbitration proceeding.
+            (vii) Arbitration Awards: The final decision issued by the arbitrator resolving the dispute.
+
+5. Property and Real Estate
+    5.1. Ownership and Title Documents: (Documents that establish and evidence ownership of real property)
+        5.1.1 Ownership and Title Documents Categories:
+            (i) Title Deeds/Sale Deeds: The primary legal document that transfers ownership of property from the seller to the buyer.
+            (ii) Property Tax Records: Official records maintained by government authorities detailing the assessment and payment of taxes on a property, often used as secondary evidence of ownership.
+            (iii) Certificates of Occupancy: Documents issued by local authorities certifying that a building or property is fit for habitation or use.
+            (iv) Land Survey Documents: Official maps and reports prepared by licensed surveyors that define the boundaries and dimensions of a property.
+            (v) Mutation Records: Government records that document the transfer of title or ownership of a property from one person to another.
+    
+    5.2. Transactional Documents (Buying, Selling, Leasing): (Documents related to the transfer or use of property)
+        5.2.1 Sale and Purchase Agreement Documents:
+            (i) Agreement to Sell/Purchase: A preliminary contract outlining the terms and conditions of a property sale before the final transfer.
+            (ii) Sale Deed/Conveyance Deed: The final legal document that transfers ownership of a property from the seller to the buyer.
+        5.2.2 Lease Agreement Documents:
+            (i) Residential Lease Agreements: Contracts between a landlord and a tenant for the rental of a residential property.
+            (ii) Commercial Lease Agreements: Contracts between a landlord and a business for the rental of commercial space.
+            (iii) Sublease Agreements: Agreements where a tenant leases a property they are renting to another party.
+        5.2.3 Other Transactional Documents:
+            (i) Gift Deeds: Legal documents used to transfer ownership of property as a gift.
+            (ii) Exchange Deeds: Legal documents used to transfer ownership of property through an exchange between two parties.
+    5.3. Financing Documents: (Documents related to obtaining funds for real estate transactions)
+        5.3.1 Financing Documents Categories:
+            (i) Mortgage Deeds: Legal documents that create a lien on a property as security for a loan.
+            (ii) Loan Agreements (Real Estate Specific): Contracts outlining the terms and conditions of a loan used to purchase real estate.
+            (iii) Promissory Notes: Written promises to repay a specific sum of money with interest within a specified timeframe, often associated with mortgage loans.
+            (iv) Refinancing Agreements: Agreements to replace an existing mortgage with a new one, often with different terms.
+    5.4. Development and Land Use Documents: (Documents related to the development, planning, and use of real property)
+        5.4.1 Development and Land Use Documents Categories:
+            (i) Zoning Regulations and Maps: Local government rules that dictate how land can be used in different areas.
+            (ii) Building Permits: Authorizations granted by local authorities to commence construction or renovation work on a property.
+            (iii) Development Agreements: Contracts between a developer and a local government outlining the terms and conditions for a development project.
+            (iv) Land Use Plans: Comprehensive plans prepared by local authorities that guide future development and land use within their jurisdiction.
+            (v) Environmental Impact Assessments (EIAs) (Related to Property Development): Reports assessing the potential environmental consequences of a proposed real estate development project.
+    5.5. Property Dispute Documents: (Documents related to legal conflicts involving real property)
+        5.5.1 Property Dispute Documents Categories:
+            (i) Notices of Trespass: Formal notices informing individuals that they are prohibited from entering or remaining on a property.
+            (ii) Eviction Notices: Legal notices served by a landlord to a tenant demanding that they vacate the property by a certain date.
+            (iii) Property Line Dispute Documents: Surveys, legal filings, and correspondence related to disagreements over the boundaries of adjacent properties.
+            (iv) Easement Dispute Documents: Legal documents and correspondence related to disagreements over the right to use another person's property for a specific purpose.
+            (v) Partition Suit Documents: Legal filings in a lawsuit to divide jointly owned property among the co-owners.
+
+6. Corporate and Governance Categories
+    6.1. Formation and Registration Documents: (Documents required to establish a legal corporate entity)
+        6.1.1 Formation and Registration Documents Categories:
+            (i) Articles of Incorporation/Certificate of Incorporation: The foundational legal document filed with the government to create a corporation.
+            (ii) Bylaws: The internal rules and regulations that govern the management and operation of the corporation.
+            (iii) Organizational Minutes: The initial written record of the first meeting of the incorporators or directors, outlining the initial organizational decisions.
+            (iv) Subscription Agreements: Agreements between the corporation and initial shareholders for the purchase of shares.
+    
+    6.2. Internal Governance Documents: (Documents that define the internal rules and management structure of the corporation)
+        6.2.1 Internal Governance Documents Categories:
+            (i) Amended and Restated Bylaws: Updated versions of the corporation's internal rules.
+            (ii) Board Meeting Minutes: Official records of the discussions and decisions made during meetings of the board of directors.
+            (iii) Shareholder Meeting Minutes: Official records of the discussions and decisions made during meetings of the corporation's shareholders.
+            (iv) Board Resolutions: Formal written statements adopted by the board of directors that authorize specific actions.
+            (v) Committee Charters: Documents outlining the purpose, responsibilities, and procedures of various committees of the board (e.g., Audit Committee, Compensation Committee).
+    
+    6.3. Shareholder and Equity Documents: (Documents related to the ownership and equity structure of the corporation)
+        6.3.1 Shareholder and Equity Documents Categories:
+            (i) Stock Certificates: Documents representing ownership of shares in the corporation.
+            (ii) Shareholder Agreements: Agreements among shareholders regarding the management, voting, and transfer of shares.
+            (iii) Equity Incentive Plans: Plans that provide employees or other stakeholders with the opportunity to acquire shares or stock options in the company.
+            (iv) Stock Option Agreements: Contracts granting the right to purchase shares of the company's stock at a specified price within a certain period.
+            (v) Voting Agreements: Agreements among shareholders on how they will vote their shares on certain matters.
+            (vi) Rights Agreements (Poison Pills): Defensive measures a company can take to prevent or discourage a hostile takeover.
+    
+    6.4. Corporate Compliance Documents: (Documents related to regulatory compliance specific to corporations)
+        6.4.1 Corporate Compliance Documents Categories:
+            (i) Annual Reports: Comprehensive reports issued by the corporation to its shareholders and regulatory bodies, detailing its performance and financial status.
+            (ii) Proxy Statements: Documents sent to shareholders before a shareholder meeting, providing information on matters to be voted upon.
+            (iii) Conflict of Interest Policies: Guidelines outlining how to identify and manage potential conflicts of interest for directors, officers, and employees.
+            (iv) Insider Trading Policies: Rules prohibiting the trading of a company's stock based on non-public, material information.
+            (v) Compliance Certificates: Documents certifying the corporation's adherence to specific laws, regulations, or standards.
+    
+    6.5. Mergers, Acquisitions, and Restructuring Documents: (Documents involved in significant corporate transactions)
+        6.5.1 Mergers, Acquisitions, and Restructuring Documents Categories:
+            (i) Merger Agreements: Contracts outlining the terms and conditions of a merger between two or more companies.
+            (ii) Acquisition Agreements: Contracts for one company to acquire another company, which can take the form of a Stock Purchase Agreement or an Asset Purchase Agreement.
+            (iii) Plan of Reorganization: A document outlining the steps involved in a corporate restructuring, often used in bankruptcy proceedings.
+            (iv) Due Diligence Reports: Reports summarizing the findings of the investigation conducted before a merger or acquisition to assess the target company's assets, liabilities, and overall condition.
+    
+    6.6. Dissolution and Liquidation Documents: (Documents related to the termination of a corporation's existence)
+        6.6.1 Dissolution and Liquidation Documents Categories:
+            (i) Plan of Dissolution: A document outlining the process for winding up the corporation's affairs.
+            (ii) Articles of Dissolution: The legal document filed with the government to formally terminate the corporation's existence.
+            (iii) Liquidation Agreements: Agreements related to the sale of the corporation's assets and the distribution of proceeds to creditors and shareholders.
+            (iv) Dissolution Notices: Public announcements of the corporation's intent to dissolve.
+
+7. HR Document categories
+    7.1. Recruitment and Hiring Documents: (Documents related to the process of attracting and hiring employees)
+        7.1.1 Recruitment and Hiring Documents Categories:
+            (i) Job Descriptions: Documents outlining the responsibilities, duties, and qualifications for a specific job role.
+            (ii) Employment Applications: Forms used by candidates to provide their personal and professional information when applying for a job.
+            (iii) Offer Letters: Formal letters from an employer to a candidate offering them a position of employment, outlining key terms and conditions.
+            (iv) Background Check Authorizations: Documents signed by candidates giving permission for the employer to conduct background checks.
+            (v) Non-Discrimination Policies (related to Hiring): Company policies that prohibit discrimination in the hiring process based on protected characteristics.
+    
+    7.2. Employment Relationship Documents: (Documents that define the terms and conditions of employment)
+        7.2.1 Employment Relationship Documents Categories:
+            (i) Employment Contracts (Individual): Formal agreements between an employer and an individual employee outlining the terms and conditions of their employment.
+            (ii) Collective Bargaining Agreements: Contracts between an employer and a labor union representing a group of employees, setting forth the terms and conditions of employment for those employees.
+            (iii) Employee Handbooks: Comprehensive documents outlining company policies, procedures, and employee rights and responsibilities.
+            (iv) Confidentiality Agreements (Employment Specific): Agreements signed by employees promising to keep certain company information confidential.
+            (v) Non-Compete Agreements: Agreements that may restrict an employee's ability to work for a competitor after leaving the company (enforceability varies by jurisdiction).
+    
+    7.3. Compensation and Benefits Documents: (Documents related to employee pay and benefits)
+        7.3.1 Compensation and Benefits Documents Categories:
+            (i) Payroll Records: Documents detailing employees' wages, deductions, and net pay.
+            (ii) Salary and Wage Agreements: Specific agreements outlining an employee's rate of pay.
+            (iii) Bonus Agreements: Agreements specifying the terms and conditions under which an employee may receive a bonus.
+            (iv) Benefits Enrollment Forms: Documents used by employees to sign up for company-sponsored benefits (e.g., health insurance, retirement plans).
+            (v) Stock Option Agreements (Employment Related): Agreements granting employees the right to purchase company stock at a specified price.
+    
+    7.4. Employee Conduct and Discipline Documents: (Documents related to workplace rules and disciplinary actions)
+        7.4.1 Employee Conduct and Discipline Documents Categories:
+            (i) Code of Conduct: A set of rules outlining acceptable behavior and ethical standards for employees in the workplace.
+            (ii) Performance Evaluation Forms: Documents used to assess an employee's job performance.
+            (iii) Disciplinary Action Notices: Formal written notices issued to employees regarding warnings, suspensions, or other disciplinary measures.
+            (iv) Workplace Harassment Policies: Company policies prohibiting harassment and outlining procedures for reporting and investigating such incidents.
+            (v) Grievance Procedures: Formal processes outlined by the company for employees to raise and resolve workplace complaints.
+    
+    7.5. Termination of Employment Documents: (Documents related to the end of the employment relationship)
+        7.5.1 Termination of Employment Documents Categories:
+            (i) Resignation Letters: Formal written notices from an employee informing the employer of their decision to leave their job.
+            (ii) Termination Letters: Formal written notices from an employer informing an employee that their employment is being terminated.
+            (iii) Severance Agreements: Agreements outlining the terms and conditions of an employee's separation from the company, often including severance pay and benefits.
+            (iv) Release Agreements: Legal documents where an employee agrees to release the employer from certain potential claims in exchange for agreed-upon terms (often part of a severance agreement).
+    
+    7.6. HR Compliance and Policy Documents: (Documents related to legal compliance in HR practices)
+        7.6.1 HR Compliance and Policy Documents Categories:
+            (i) Equal Employment Opportunity (EEO) Policies: Company policies affirming its commitment to equal opportunities in employment.
+            (ii) Workplace Safety Policies (HR Related): Policies outlining safety procedures and practices in the workplace.
+            (iii) Leave Policies: Documents detailing the company's policies on various types of leave (e.g., sick leave, vacation, family leave).
+            (iv) HR Audit Reports: Internal or external reviews of HR practices to ensure compliance with laws and regulations.
+            (v) Immigration Compliance Documents (e.g., I-9 Forms): Documents used to verify the eligibility of individuals for employment in a particular country (e.g., the U.S. Form I-9).
+
+8. Finance and Banking Categories
+    8.1. Lending and Credit Documents: (Documents related to borrowing and lending money)
+        8.1.1 Lending and Credit Documents Categories:
+            (i) Loan Agreements: Formal contracts outlining the terms and conditions of a loan between a lender and a borrower (including personal loans, commercial loans, syndicated loans).
+            (ii) Mortgage Agreements: Legal documents that create a lien on real property as security for a loan.
+            (iii) Credit Card Agreements: Contracts between a financial institution and a cardholder governing the use of a credit card.
+            (iv) Promissory Notes: Written promises to repay a specific sum of money with interest within a specified timeframe.
+            (v) Guarantees: Agreements where one party promises to pay the debt of another if they default.
+            (vi) Security Agreements: Contracts that create a security interest in specific property to secure the repayment of a loan.
+    
+    8.2. Investment and Securities Documents: (Documents related to investing in financial instruments)
+        8.2.1 Investment and Securities Documents Categories:
+            (i) Subscription Agreements (Securities): Agreements to purchase shares or other securities in a company or fund.
+            (ii) Prospectuses: Documents providing detailed information about a company or investment fund offering securities to the public.
+            (iii) Investment Management Agreements: Contracts between an investor and a financial institution outlining the terms for managing the investor's assets.
+            (iv) Brokerage Agreements: Contracts between an investor and a brokerage firm allowing the firm to execute trades on the investor's behalf.
+            (v) Underwriting Agreements: Contracts between an issuer of securities and an underwriter who agrees to sell the securities to the public.
+    
+    8.3. Banking Operation Documents: (Documents related to the day-to-day operations of banks)
+        8.3.1 Banking Operation Documents Categories:
+            (i) Account Opening Forms: Applications and agreements required to open various types of bank accounts (e.g., savings, checking, current).
+            (ii) Deposit Slips: Forms used to record the details of funds deposited into a bank account.
+            (iii) Withdrawal Forms: Forms used to request the withdrawal of funds from a bank account.
+            (iv) Bank Guarantees: Promises by a bank to pay a certain sum to a beneficiary if a third party fails to fulfill their obligation.
+            (v) Letters of Credit: Financial instruments issued by a bank on behalf of a buyer, guaranteeing payment to a seller upon fulfillment of certain conditions.
+    
+    8.4. Financial Regulatory Compliance Documents: (Documents related to laws and regulations governing the finance and banking sector)
+        8.4.1 Financial Regulatory Compliance Documents Categories:
+            (i) Compliance Policies (e.g., Anti-Money Laundering (AML), Know Your Customer (KYC)): Internal policies and procedures designed to comply with financial regulations.
+            (ii) Regulatory Filings: Reports and documents submitted to financial regulatory authorities as required by law.
+            (iii) Audit Reports (Financial Regulatory Focus): Reports assessing a financial institution's compliance with relevant financial regulations.
+            (iv) Data Privacy Policies (for Financial Data): Policies outlining how a financial institution collects, uses, and protects customer financial data in compliance with privacy laws.
+    
+    8.5. Payment System Documents: (Documents related to the systems and processes for making payments)
+        8.5.1 Payment System Documents Categories:
+            (i) Payment Gateway Agreements: Contracts between a merchant and a payment gateway service provider to process online payments.
+            (ii) Merchant Agreements: Contracts between a merchant and a bank or payment processor allowing the merchant to accept credit and debit card payments.
+            (iii) Electronic Funds Transfer (EFT) Agreements: Agreements governing the electronic transfer of funds between accounts.
+            (iv) Letters of Undertaking for Payments: Formal promises to make a payment under specific conditions.
+9. Government and public laws.txt
+    9.1. Legislative Documents: (Documents created by legislative bodies such as parliaments, congresses, and state legislatures)
+        9.1.1 Legislative Documents Categories:
+            (i) Statutes/Acts of Parliament/Laws: Formal written laws enacted by a legislative body at the national, state, or local level.
+            (ii) Bills: Proposed legislation introduced in a legislative body that has not yet been enacted into law.
+            (iii) Legislative Records: Official transcripts and records of the proceedings of legislative sessions (e.g., Hansard, Congressional Record).
+            (iv) Amendments to Legislation: Formal changes or additions made to existing statutes or laws.
+            (v) Ordinances: Laws passed by local government bodies such as cities or municipalities.
+    
+    9.2. Executive Orders and Regulations: (Documents issued by the executive branch of government and its agencies)
+        9.2.1 Executive Orders and Regulations Categories:
+            (i) Executive Orders: Directives issued by the head of the executive branch (e.g., President, Governor) that have the force of law.
+            (ii) Presidential Proclamations: Formal announcements issued by the President on matters of national significance.
+            (iii) Administrative Regulations: Rules and regulations promulgated by government agencies to implement and enforce statutes.
+            (iv) Regulatory Guidance Documents: Interpretations and guidelines issued by government agencies to provide clarity on how to comply with regulations.
+            (v) Policy Directives from Government Agencies: Official instructions or guidelines issued by government agencies to their staff and the public.
+    
+    9.3. Judicial Decisions on Public Law: (Decisions made by courts interpreting and applying laws related to the government and public matters)
+        9.3.1 Judicial Decisions on Public Law Categories:
+            (i) Constitutional Court Judgments: Decisions by the highest court in a jurisdiction regarding the interpretation and application of the constitution.
+            (ii) Supreme Court Opinions (on Public Law Matters): Decisions by the highest appellate court in a jurisdiction on cases involving government, public rights, and constitutional issues.
+            (iii) High Court/Appellate Court Decisions (on Administrative Law, etc.): Decisions by appellate courts reviewing the actions of administrative agencies or interpreting public law statutes.
+            (iv) Landmark Cases in Public Law: Significant court decisions that have established important legal precedents in areas of public law.
+    
+    9.4. Administrative Law Documents: (Documents related to the powers, procedures, and actions of administrative agencies)
+        9.4.1 Administrative Law Documents Categories:
+            (i) Agency Rules and Regulations: Formal rules adopted by administrative agencies to govern their procedures and the behavior of those subject to their authority.
+            (ii) Administrative Decisions and Orders: Rulings made by administrative agencies in adjudicative proceedings.
+            (iii) Notices of Proposed Rulemaking: Public announcements by government agencies indicating their intention to issue new regulations or amend existing ones.
+            (iv) Agency Interpretations and Guidelines: Official interpretations of statutes and regulations issued by administrative agencies.
+            (v) Permits and Licenses Issued by Government Agencies: Authorizations granted by government agencies to individuals or entities to engage in specific activities.
+    
+    9.5. Specific Areas of Public Law Documents: (Documents related to particular fields of public law)
+        9.5.1 Constitutional Law Documents:
+            (i) Constitutional Amendments: Formal changes to a nation's constitution.
+            (ii) Landmark Constitutional Cases: Significant court decisions interpreting the constitution.
+        9.5.2 Criminal Law Documents:
+            (i) Criminal Statutes: Laws defining criminal offenses and their penalties.
+            (ii) Indictments: Formal accusations issued by a grand jury charging a person with a crime.
+            (iii) Arrest Warrants: Legal documents issued by a judge authorizing the arrest of an individual.
+        9.5.3 Immigration Law Documents:
+            (i) Immigration Statutes: Laws governing the entry, stay, and departure of foreign nationals.
+            (ii) Visa Applications: Forms and documents submitted by individuals seeking permission to enter a country.
+            (iii) Deportation Orders: Legal documents ordering the removal of a foreign national from a country.
+        9.5.4 Tax Law Documents:
+            (i) Tax Codes/Statutes: Laws governing the imposition and collection of taxes.
+            (ii) Tax Regulations: Rules issued by tax authorities to interpret and implement tax laws.
+            (iii) Tax Court Decisions: Rulings made by courts specializing in tax disputes.
+        9.5.5 Environmental Law Documents:**
+            (i) Environmental Protection Statutes: Laws aimed at protecting the environment.
+            (ii) Regulations on Pollution Control: Rules issued by government agencies to control pollution.
+            (iii) Permits for Environmental Activities: Authorizations required for activities that may impact the environment.
+        9.5.6 Human Rights Law Documents:
+            (i) National Human Rights Legislation: Laws enacted to protect human rights within a country.
+            (ii) International Human Rights Treaties: Agreements between nations aimed at protecting human rights (ratified by the specific nation).
+        9.5.7 International Law Documents (as it pertains to a nation's public law):
+            (i) Treaties and Conventions: Formal agreements between countries.
+            (ii) International Agreements: Less formal agreements between countries or international organizations.
+        9.5.8 Election Law Documents:
+            (i) Statutes Governing Elections: Laws outlining the rules and procedures for elections.
+            (ii) Campaign Finance Regulations: Rules governing how political campaigns are funded.
+        9.5.9 Administrative Law Documents (as a subject area):
+            (i) Statutes Governing Administrative Agencies: Laws that define the powers and procedures of government agencies.
+            (ii) Rules of Procedure for Administrative Hearings: Regulations outlining how administrative hearings are conducted.
+        9.5.10 Labor Law Documents (Public Sector):
+            (i) Statutes Governing Public Sector Employment: Laws specific to the employment of government employees.
+            (ii) Collective Bargaining Agreements (Public Sector): Contracts between government employers and public sector unions.
+        9.5.11 Education Law Documents (Public):
+            (i) Statutes Governing Public Education: Laws related to the establishment and operation of public schools and universities.
+            (ii) Regulations Issued by Education Authorities: Rules set by government education departments.
+        9.5.12 Healthcare Law Documents (Public):
+            (i) Statutes Governing Public Healthcare Systems: Laws related to government-funded healthcare.
+            (ii) Regulations Issued by Health Authorities: Rules set by government health departments.
+        9.5.13 Social Security/Welfare Law Documents:
+            (i) Statutes Governing Social Security Programs: Laws establishing and regulating social security and welfare benefits.
+            (ii) Regulations Issued by Social Security/Welfare Agencies: Rules set by government agencies administering these programs.
+
+10. Personal and Civil Legal Documents
+    10.1 Family Law Documents:
+        (i) Marriage and Relationships:
+            (a) Marriage Certificates: Official documents certifying a marriage.
+            (b) Prenuptial Agreements: Contracts entered into by prospective spouses outlining their rights regarding assets and property in the event of divorce or death.
+            (c) Cohabitation Agreements: Agreements between unmarried couples living together that outline their rights and responsibilities.
+        (ii) Divorce and Separation:
+            (a) Divorce Decrees/Judgments: Official court orders dissolving a marriage.
+            (b) Separation Agreements: Legally binding agreements between spouses who have separated but are not yet divorced, outlining terms such as property division, child custody, and support.
+        (iii) Child-Related Matters:
+            (a) Child Custody Agreements: Agreements between parents outlining the care and control of their children after separation or divorce.
+            (b) Child Support Orders: Court orders mandating the financial support of children by one or both parents.
+            (c) Adoption Papers: Legal documents finalizing the adoption of a child.
+    
+    10.2 Estate Planning Documents:
+        (i) Wills and Testaments:
+            (a) Last Will and Testament: A legal document outlining how a person's assets should be distributed after their death.
+            (b) Codicils: Legal documents that amend or add to an existing will.
+        (ii) Trusts:
+            (a) Living Trusts: Legal arrangements established during a person's lifetime to hold and manage assets for beneficiaries.
+            (b) Testamentary Trusts: Trusts created through a will that come into effect after the person's death.
+        (iii) Powers of Attorney:
+            (a) Financial Power of Attorney: A legal document authorizing another person to manage one's financial affairs.
+            (b) Healthcare Power of Attorney: A legal document authorizing another person to make healthcare decisions on one's behalf if they become incapacitated.
+        (iv) Advance Healthcare Directives:**
+            (a) Living Wills: Legal documents outlining a person's wishes regarding medical treatment in the event they are unable to communicate their decisions.
+            (b) Do-Not-Resuscitate (DNR) Orders: Legal orders instructing healthcare providers not to perform CPR if a person's heart stops or they stop breathing.
+    
+    10.3 Personal Healthcare Documents:
+        (i) Medical Records:
+            (a) Patient Medical History: Records of a person's past and present health conditions.
+            (b) Treatment Records: Documentation of medical treatments and procedures received.
+            (c) Consent Forms for Medical Procedures: Documents signed by patients giving their informed consent to medical treatments.
+        (ii) Healthcare Insurance Documents:**
+            (a) Health Insurance Policies: Contracts outlining the terms and coverage of a person's health insurance plan.
+            (b) Explanation of Benefits (EOBs): Statements from insurance companies detailing the costs of healthcare services and what was covered.
+    
+    10.4 Consumer-Related Documents:
+        (i) Purchase of Goods and Services (Personal):
+            (a) Receipts and Invoices for Personal Purchases: Documentation of personal transactions.
+            (b) Warranty Documents: Written guarantees provided by sellers or manufacturers regarding the quality or performance of goods.
+        (ii) Consumer Rights:**
+            (a) Consumer Complaint Letters: Formal letters expressing dissatisfaction with goods or services.
+            (b) Documentation related to Consumer Protection Laws: Information and records related to laws designed to protect consumers.
+    
+    10.5 Housing and Tenancy Documents (Personal):
+        (i) Residential Leases:**
+            (a) Residential Lease Agreements: Contracts between a landlord and a tenant for the rental of a residential property.
+            (b) Lease Renewal Agreements: Agreements to extend the term of an existing lease.
+        (ii) Landlord-Tenant Issues:**
+            (a) Eviction Notices: Formal notices from a landlord to a tenant to vacate a property.
+            (b) Security Deposit Agreements: Agreements outlining the terms for a tenant's security deposit.
+    
+    10.6 Personal Financial Documents:
+        (i) Banking and Accounts:
+            (a) Bank Account Statements: Records of transactions in a person's bank accounts.
+            (b) Loan Documents (Personal Loans, Auto Loans): Contracts for personal loans or loans to purchase vehicles.
+        (ii) Investments (Personal):
+            (a) Brokerage Account Statements: Records of transactions in a person's investment accounts.
+            (b) Investment Agreements (non-commercial): Agreements related to personal investments.
+    
+    10.7 Other Personal Legal Documents:
+        (i) Identification and Status:
+            (a) Birth Certificates: Official records of a person's birth.
+            (b) Passports: Official documents issued by a government that identify the holder as a citizen of that country and allow them to travel internationally.
+            (c) Driver's Licenses: Official documents authorizing a person to operate a motor vehicle.
+        (ii) Affidavits and Declarations:**
+            (a) Affidavits: Sworn written statements made under oath or affirmation.
+            (b) Statutory Declarations: Formal statements made in accordance with statutory

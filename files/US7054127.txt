@@ -1,0 +1,844 @@
+US007054127B1
+
+(12) United States Patent
+
+(10) Patent No.:
+
+Scearce et al.
+
+US 7,054,127 B1
+
+(45) Date of Patent:
+
+(54) METHODS AND APPARATUS TO PROTECT
+
+(56)
+
+May 30, 2006
+
+References Cited
+
+AGAINST VOLTAGE SURGES
+U.S. PATENT DOCUMENTS
+(75)
+
+Inventors: Stephen A. Scearce, Cary, NC (US);
+
+:
+
+Rongsak Siwudbhu, Chapel Hill,
+
+5,666.452 A * 9/1997 Deitz et al. ....
+
+CA (US)
+
+6,502,143 B1
+6,530,087 B1
+6,556.564 B1
+
+NC (US); James C. Q. Tran, San Jose,
+
+5,835,326 A * 11/1998 Callaway .......
+
+(73) Assignee: Cisco Technology, Inc., San Jose, CA
+(US)
+
+(*) Notice:
+
+Subject to any disclaimer, the term of this
+patent is extended or adjusted under 35
+U.S.C. 154(b) by 310 days.
+
+(21) Appl. No.: 10/464,686
+(22) Filed:
+
+El - - - - - - - - - - - - - - - - - -s' i.
+
+Jun. 18, 2003
+
+(51) Int. Cl.
+HOIC 7/2
+HO2H IMO
+HO2H IM04
+HO2H 3/22
+HO2H 9/06
+
+(2006.01)
+(2006.01)
+(2006.01)
+(2006.01)
+(2006.01)
+
+(52) U.S. Cl. ...................... 361/119, 361/911; 361/91.7
+(58) Field of Classification Search ................ 361/119,
+
+... 385,100
+... 361,111
+
+12/2002 Bass et al. ..................... T10/1
+3/2003 Kobayashi et al. ......... 725/125
+4/2003 Rogers ....................... 370,352
+
+6,664.771 B1
+
+12/2003 Scoggins et al. ........... 323,257
+
+6,744,883 B1
+
+6/2004 Bingel et al. .......... 379,399.01
+
+* cited by examiner
+Primary Examiner Phuong T. Vu
+Assistant Examiner—Ann Hoang
+(74) Attorney, Agent, or Firm BainwoodHuang; David E.
+Huang, Esq.
+(57)
+ABSTRACT
+A cable device includes an integrated Surge protection
+circuit. In the event that, communication signals conveyed
+by the cable include (potentially damaging) transient Volt
+ages, the Surge protection circuit integrated in the cable
+Suppresses the transient Voltages at a distance from a cor
+responding electronic circuit to which the cable is attached.
+Consequently, potentially damaging Voltage transients
+
+imparted on the communication signals are clamped before
+
+reaching potentially sensitive inputs of the electronic circuit.
+
+361/911, 91.7
+See application file for complete search history.
+
+26 Claims, 6 Drawing Sheets
+
+REMOTE
+DEVICE
+
+LOCAL
+DEVICE
+
+110
+
+199
+
+GROUND
+
+REFERENCE {" ))) )
+
+)
+
+) - YN-180
+
+U.S. Patent
+
+May 30, 2006
+
+Sheet 1 of 6
+
+|
+
+N-6 1
+
+US 7,054,127 B1
+
+U.S. Patent
+
+OINHLET
+
+LITO?-|
+
+US 7,054,127 B1
+
+U.S. Patent
+
+May 30, 2006
+
+Sheet 3 of 6
+
+US 7.054,127 B1
+
+LITONI Cl}\/Og UTZ
+
+U.S. Patent
+
+OLINEOT „LITO?H ?õ?
+
+00A
+
+May 30, 2006
+
+Sheet 4 of 6
+
+US 7,054,127 B1
+
+US 7,054,127 B1
+1.
+
+2
+Even if space is available and a (susceptible) circuit board
+can be redesigned to include appropriate Voltage Suppression
+circuits, the on-board Solution of including protection cir
+BACKGROUND OF THE INVENTION
+cuitry directly on the circuit board does not address the high
+cost of retrofitting or replacing unprotected circuits boards
+Cables have long been used to transfer signals between already in the field. Consequently, vulnerable circuit boards
+computers and other electrical systems. Depending on an Such as those Supporting potentially life-critical applications
+operating environment, a cable and/or its internal signals must be replaced with Surge-protected circuit boards.
+may be susceptible to power or Voltage Surges. For example,
+Additionally, a conventional technique of employing an
+Surges can be caused by lightning, static electricity, tempo 10 optical isolator in series with a cable has deficiencies. For
+rary ground differences, or even glitches in power Supply example, Such devices are often quite slow and therefore do
+Sources. Failing to provide adequate protection against these not provide proper communication bandwidth. According to
+transient Voltage spikes (received through cables) typically yet another conventional technique, disconnecting a cable
+results in a Substantial amount of damage to electronic from corresponding equipment during a threatening condi
+equipment every year.
+15 tion may render the equipment inoperable for extended
+Lightning strikes can cause temporary ground differences periods of time. In most situations (such as life critical
+between two or more communicating devices, disrupting applications), this is unacceptable.
+communication and causing circuit damage. For example,
+It is an advancement in the art to provide a cable including
+during normal operation, a remote device may send a an integrated Surge protection circuit in order to reduce or
+communication signal referenced to its corresponding (re eliminate damage caused by transient Voltages received over
+mote) ground. Depending on a systems configuration, a a cable or its internal signals. Accordingly, one embodiment
+local device may not be able to receive the communication of the present invention is directed towards a cable device
+signal unless its ground reference approximates that of the integrated to include a (transient voltage) Surge protection
+remote ground reference. However, during a lightning strike, circuit. In the event that, e.g., communication signals con
+the remote ground reference may substantially increase for 25 veyed by the cable include transient Voltages, the Suppres
+a brief instant of time, thereby imparting excessive Voltage sion circuit integrated in the cable Suppresses the transient
+onto a communication signal transmitted to the local device. Voltages at a distance from a corresponding electronic circuit
+If the local device is not properly protected, it may be to which the cable is attached.
+damaged as a result of the excessive Voltage imparted on the
+More specifically, the surge protection circuit in the cable
+30
+communication signal (caused by the lightning strike).
+includes
+more clamping circuits coupled to a ground
+To protect against Surges, a conventional approach reference.oneFororexample,
+a conductor such as a cylindrical
+involves dissipating power surges via suppression circuits conductive shield associated
+with the cable provides a path
+that clamp an input Voltage to a level that does not cause between
+the
+Surge
+protection
+circuit and a ground reference
+damage to a corresponding electronic circuit that receives
+the electronic circuit. When transient high voltage are
+the signal. Suppression circuits include transzorbs, Zener 35 of
+imparted on communication signals in the cable, the Surge
+diodes, arrestor devices such as metal oxide varistors, car
+protection circuit integrated in the cable clamps the Voltage
+bon blocks, thyristors, gas discharge tubes and the like. transients
+the communication signals so that they do not
+Typically, these clamping circuits are disposed directly on a otherwise of
+cause damage to inputs of the electronic circuit.
+circuit board including sensitive functional circuitry that That is, during
+the clamping process (via clamping circuits
+40
+needs protection against potentially damaging Surges.
+in
+the
+Surge
+protection
+current associated with the
+Another technique of protecting against Surges involves transient voltage travelscircuit),
+on
+the
+conductor
+of the cable to the
+the use of an optical isolator disposed in series with an ground reference associated with the electronic
+circuit. Con
+electrical cable. Such a device converts an electrical signal sequently, the high Voltage transients are clamped
+before
+potentially including transient Voltage spikes to an optical reaching inputs of the electronic circuit.
+signal. The optical signal is then converted back to an 45
+to one embodiment, the Surge protection cir
+electrical signal and transmitted to a target device. Gener cuitAccording
+is located between 2 and 30 inches from an end of the
+ally, optical devices Support protocols such as RS-232.
+A more Sophisticated method of protecting against power cable that attaches to the electronic circuit. Thus, the Surge
+circuit integrated with the cable Suppresses tran
+Surges is to employ detector circuits that detect the presence protection
+sient
+Voltages
+prior to reaching the electronic circuit.
+of a lightning storm during which a Surge is likely to occur. 50
+According to another embodiment, the clamping circuit is
+In response to detecting Such a dangerous condition, the
+detector circuits cause electronic equipment to be mechani disposed on a printed circuit board (or flex circuit) integrated
+cally disconnected (via relays) from an external cable con into a connector assembly of the cable at an end of the cable
+nection while the threat of the Surge (e.g., a lightning storm) opposite the end that couples to the electronic circuit. To
+remains present. After the threat has subsided, the cable 55 provide protection against environmental elements, the
+printed circuit board including the clamping circuits can be
+equipment is then reconnected to the cable again.
+encapsulated with moldable plastic.
+SUMMARY
+The cable and integrated Surge Suppression circuit can be
+an extension cable. For example, a communication system
+Unfortunately, there are deficiencies associated with con 60 may initially include an original cable that conveys com
+ventional methods of Suppressing transient Voltage spikes munication signals to an electronic circuit. To protect the
+imparted on cables (or corresponding internal electrical electronic circuit from potentially damaging Voltage tran
+signals) that may otherwise couple to and damage circuit sients, one end of the extension cable is plugged into the
+boards. For example, circuit board space constraints may not original cable and the other end is plugged into the electronic
+allow the inclusion of Voltage Suppression circuits directly 65 circuit to provide a path for communication signals between
+on a circuit board to protect against Voltage spikes received the original cable and the electronic circuit device. The
+transient Voltage Suppression circuit disposed in the exten
+through the cable.
+METHODS AND APPARATUS TO PROTECT
+AGAINST VOLTAGE SURGES
+
+US 7,054,127 B1
+3
+sion cable Suppresses transient voltages imparted on the
+communication signals so that they do not damage the
+
+4
+received on communication signals, the techniques are also
+well-suited for other applications employing Surge protec
+
+electronic circuit.
+
+tion.
+
+In one embodiment, the cable includes at least one inter
+
+nal conductor allocated for Supporting a reception of mode
+bit information at the electronic circuit. A state of the mode
+
+bit information identifies a protocol associated with the
+communication signals received over the cable at the input
+
+FIG. 1 is block diagram of communication system 100 for
+transmitting and receiving communication signals between
+remote device 110 and local device 120 according to an
+embodiment of the invention. As shown, communication
+
+system 100 includes remote device 110, local device 120,
+electrical cable 134 (such as a smart cable produced by
+The Surge protection device optionally includes a con 10 Cisco), and electrical cable 144.
+Based on coupling provided by electrical cables 134, 144,
+nector that removably attaches to a connector of another
+cable. The connector of the other cable may include internal a connective path extends between remote device 110 and
+terminations defining mode bit information identifying a local device 120. One end of electrical cable 134 couples
+mode in which to receive the communication signals at the directly to remote device 110 while the other end includes
+electronic circuit. A state of the internal terminations are 15 connector 136 that couples to connector 142 at end of
+conveyed to the electronic circuit via internal conductors of electrical cable 144. At an opposite end of connector 142,
+the cable. Clamping circuits can be provided to protect electrical cable 144 includes connector 146 that couples
+against Voltage transients on the internal signals of the cable electrical cable 146 to connector 148 of local device 120.
+defining mode bits.
+Thus, in one respect, cable 146 acts as an extension cable to
+couple electrical cable 134 to local device 120.
+BRIEF DESCRIPTION OF THE DRAWINGS
+Surge protection circuit 150 disposed or integrated in
+electrical cable 134 Suppresses transient Voltages imparted
+The foregoing and other objects, features and advantages on electrical cable 144 to protect local device 120 against
+of the invention will be apparent from the following more potential damage. For example, remote device 110 generates
+particular description of preferred embodiments of the 25 electrical signals (referenced with respect to remote ground
+invention, as illustrated in the accompanying drawings in 190) Such as communication signals through electrical cable
+which like reference characters refer to the same parts
+134 and electrical cable 144 to local device 120. During
+throughout the different views. The drawings are not nec normal operation, when there are no lightning 199 strikes,
+essarily drawn to Scale, emphasis instead being placed upon remote ground 190 and local ground 180 are approximately
+illustrating the principles of the present invention.
+30 equal. Thus, local device 120 can receive and decipher
+FIG. 1 is a block diagram of a communication system electrical signals because its receiver circuitry is referenced
+including a Surge protection device to prevent damage to to approximately the same ground as that of the remote
+device 110.
+inputs of an electronic circuit.
+FIG. 2 is a pictorial diagram of a Surge protection circuit
+However, during a lightning storm, lightning 199 causes
+35 remote ground reference 190 to increase (or decrease)
+integrated into a cable.
+FIG. 3A is a pictorial diagram of one end of a cable dramatically compared to local ground reference 180. Simi
+integrated to include a Surge protection circuit.
+larly, lightning 199 may strike in a region causing local
+FIG. 3B is a pictorial diagram of another end of a cable ground reference 180 to change with respect to remote
+integrated to include a Surge protection circuit.
+ground reference 190. This is largely due to voltage differ
+FIG. 4 is a circuit diagram of a Voltage clamping circuit. 40 ential 195 (gradient) produced by lightning 199. For
+FIG. 5 is a circuit diagram of a Voltage clamping circuit. example, charged particles at the remote ground reference
+FIG. 6 is a flowchart illustrating a method of fabricating 190 cause it to increase or decrease. As a result of a large
+a cable to include a Surge protection circuit.
+difference between remote ground reference 190 and local
+ground reference 180 during lightning 199, electrical signals
+DETAILED DESCRIPTION
+45 generated by remote device 110 through electrical cable 134
+include potentially damaging transient Voltages because
+An embodiment of the present invention is directed remote device 110 generates electrical signals with respect
+towards a cable device integrated to include a (transient to its own remote ground reference 190.
+Voltage) Surge protection circuit. In the event that, commu
+Surge protection circuit 150 integrated into electrical
+nication signals conveyed by the cable include (damaging) 50 cable 144 protects local device 120 from potentially dam
+transient Voltages, the Surge protection circuit integrated in aging transient Voltages caused by environmental conditions
+the cable Suppresses the transient voltages at a distance from such as lightning 199 (static electricity discharge, etc.). For
+a corresponding electronic circuit to which the cable is example, Surge protection circuit 150 Suppresses high tran
+attached. For example, a conductor Such as a cylindrical sient voltages imparted through electrical cable 134 before
+conductive shield associated with the cable provides a path 55 they would otherwise reach and damage potentially sensitive
+between the Surge protection circuit and a ground reference electrical inputs of local device 120. This is discussed more
+of the electronic circuit. When transient voltages are particularly in connection with the following figures.
+imparted on communication signals in the cable, the Surge
+FIG. 2 is a pictorial diagram illustrating a technique of
+protection circuit clamps the Voltage transients and current Suppressing transient voltages according to an embodiment
+associated with the transient Voltage travels on the conductor 60 of the invention. As shown, electrical cable 144 between
+of the cable to the ground reference of the electronic circuit. respective connectors 142, 146 measures length, L. Accord
+Consequently, high Voltage (and potentially damaging) tran ing to one embodiment, L is between two and thirty inches
+sients imparted on the communication signals are clamped in length. In a typical application, electrical cable 144
+before reaching an input of the electronic circuit.
+including connectors 142, 146 is eight inches in length.
+Although the techniques described herein are suitable for 65 Consequently, transient Voltages imparted on signals in
+use in communication systems, and particularly to applica electrical cable 134 (conveyed through connectors 136, 142
+tions employing protection against transient Voltage Surges bound for electronic circuit 205) are suppressed by surge
+of the electronic circuit.
+
+US 7,054,127 B1
+6
+nector 148 couple shield 295 to ground path 296 (such as
+ground plane of electronic circuit 205), which in turn is
+electrically connected through contact 297 to ground refer
+ence 180. Consequently, during a lightning 199 strike,
+a hundred or more feet long.
+5 clamping circuit 220 of surge protection circuit 150 clamps
+FIGS. 3A and 3B are pictorial diagrams illustrating surge transient voltages (such as 100 volt spikes) prior to other
+protection circuit 150 in relation to electrical cables 134,144 wise reaching sensitive inputs of signal interface 242 of
+and electronic circuit 205. As shown (in FIG. 3A), electrical electronic circuit 205. Thus, the addition of electrical cable
+cable 134 includes one or multiple twisted pair of wires 250
+144 (extension cable) in series with electrical cable 134
+that couple to connector 136. Connector 136 includes ter 10 (original cable) not only enables one to position remote
+mination points 271, 281, shunt(s) 290, contacts 270, 280, device 110 and local device 120 farther apart from each
+and ground path 291. Connector 142 includes ground path other, it also provides a level of protection against Voltage
+291, signal paths 251, 261, and ground reference contacts surges without having to replace electronic circuit 205 with
+272, 282. Surge protection circuit 150 includes circuit board Surge protection circuitry on its front end prior to inputs of
+210, ground paths 291, vias (such as electrical nodes of a 15 signal interfaces 240, 242.
+layered circuit board) 273, 274, 283, 284, clamping circuits
+To provide protection against environmental elements,
+220, 230, circuit traces 252, 262, and barrels (such as printed circuit board 210 and corresponding electronic com
+electrical nodes of a layered circuit board) 275, 276, 277, ponents such as clamping circuits 220, 230 are encapsulated
+285, 286, 287. In FIG. 3B, electrical cable 144 includes
+moldable (non-conductive) plastic. Electrical cable 144
+twisted pairs of wire 253,263, shield(s) 295, and connector with
+also includes a plastic nonconductive coating (insulation).
+146. Electronic circuit 205 includes connector 148, ground Consequently, circuit board 210 appears as a portion of
+path 296, resistors R207, R208, and signal interfaces 240, electrical cable 144 between connector 142 and 146.
+5
+protection circuit 150 between two and thirty inches from
+electronic circuit 205. Length, L, however may be more than
+thirty inches or less than two inches depending on the
+application. Typically electrical cable 134 is between 3 and
+
+242.
+
+one embodiment, connector 136 associated with cable
+As discussed and in connection with components in both 134Inincludes
+one or multiple shunts 290 (e.g., jumpers, Zero
+FIGS. 3A and 3B, electrical cable 134 and electrical cable 25 ohm
+resistors, low impedance conductors, etc.) to identify
+
+144 convey electrical signals from remote device 110 to
+local device 120 (including circuit board 205). Initially, one of potentially different types of setups associated with
+remote device 210 transmits signals onto twisted pair of electrical cable 134. In one application, connector 136
+wires 250 to connector 136. Signal path 251 conveys elec includes up to four shunts 290. An example of shunts 290
+how they may be used in connector 136 is more
+trical signals through connectors 136, 142 to traces 252 and 30 and
+particularly shown in U.S. Pat. No. 6,004,150 issued on Dec.
+barrels 275, 276 of circuit board 210. In addition to traces
+1999 to Chapman, et al. Based on the configuration of
+252, barrels 275,276 of circuit board 110 couple to receive 21,
+Supporting
+4 mode bits in connector 136 (two are shown in
+ends of twisted pair of wires 253 of cable 144. In turn,
+3A, namely, signal path 261-1 and 261-2), a corre
+twisted pair of wires 253 couple to connector 146 at the FIG.
+sponding cable 134 can be configured as one of up to sixteen
+other end of electrical cable 144 and signal interface 242 of 35 different
+types of cables. Thus, a cable itself and presence of
+electronic circuit 205. In this way, electrical signals from
+cable 134 and, more specifically remote device 110, extend shunts 290 indicates information about the cable type.
+Electronic circuit 205 reads a status of whether shunts 290
+through cable 144 to electronic circuit 205.
+are present in connector 136 for each corresponding dedi
+In one embodiment, remote device 110 drives one or
+multiple serial differential communication signals such as 40 cated signal to, in turn, configure itself to communicate
+those based on RS-232, RS-449, etc. through electrical (transmit and receive) information according to one for
+cables 134, 144 to signal interface 242 of electronic circuit multiple protocols. For example, different pairs of wire in
+205. In the event that lightning 199 strikes in a vicinity of cable 134 will be dedicated (by electronic circuit 205) to
+remote device 110, electrical signals conveyed on twisted transmitting and/or receiving data information according to
+pair of wires 250 potentially include transient high voltages. 45 one or more selected protocols based on a setting of mode
+Such transient high voltages from twisted pair of wires 250 bits. As shown, connector 136 supports two mode bits, one
+travel along signal path 251 (along with communication of which is set to a logic low state (path associated with
+signal path 261-1 including shunt 290) and the other of
+signal itself) to circuit board traces 252 of circuit board 210.
+Generally, clamping circuits 220 clamps transient Voltages which is set to a logic high state (path associated with signal
+to a non-harmful threshold voltage level such as +/-16 volts. 50 path 261-2 not including shunt 290).
+Electronic circuit 205 senses a corresponding type of
+The associated ground reference of clamping circuits 220
+extends from circuit board 210 to ground reference 180 of cable 134 by detecting a presence of shunts 290 at signal
+electronic circuit 205.
+interface 240. For example, pull up resistors R207 and R208
+For example, one end of clamping circuits 220 connects (such as 1000 ohm resistors) pull-up respective voltages
+directly to vias 273, 274 to ground path 291. Cable 144 55 imparted at circuit traces 324 on electronic circuit 205. In the
+includes a conductor such as shield 295 (such as braided event that a corresponding shunt 290 is present in connector
+wire and/or metal foil) to couple ground path 291 (of circuit 136, a corresponding trace is pulled to ground or logic low.
+board 210) to ground path 296 of electronic circuit 205.
+For example, a trace of electronic circuit 205 (such as trace
+More specifically, ground path 291 (Such as a planar ground 324-1 coupled to wire 263-1 connected to trace 262-1 of
+reference) disposed in a layer of circuit board 210 (such as 60 circuit board 210) is pulled down to ground via a path
+a perforated circuit board, flexible circuit board, etc) elec including shunt 290 ground path 291 (through connectors
+trically connects an end of clamping circuits 220 and Vias
+136, 142) to contact 282. Ground path 291 is coupled to
+273, 274 to barrel 277 (such as a through-hold trace contact contact 282 which is coupled to local ground reference 180
+for soldering a conductor 294). Conductor 294 electrically of electronic circuit 205 through a circuit path including
+connects barrels 277,287 to shield 295. In turn, shield 295 65 conductor 294, shield 295, contacts 202, signal path 296,
+electrically couples through connectors 146, 148 to contacts and via 297 similar to the path as previously discussed for
+202 associated with connector 148. Contacts 202 of con
+use in clamping circuits 220. Thus, as shown, circuit trace
+
+US 7,054,127 B1
+7
+8
+324-1 is pulled to ground through shunt 290 across termi communication signals to electronic circuit 205 disposed in
+communication system 100 susceptible to potentially dam
+nation point 281 and contact 280 of connector 136.
+Notably, there is no shunt 290 present across termination aging transient Voltages.
+In step 620, the assembler produces one end of cable 144
+point 271 and contact 270 of connector 136. Thus, a circuit
+to
+include
+connector 146 for coupling cable 144 to electronic
+path including circuit trace 324-2, wire 263-2, trace 262-2 to
+205.
+termination point 271 is not pulled-down to ground refer circuit
+In step 630, the assembler integrates Surge protection
+ence 180 and a corresponding Voltage sensed on circuit trace circuit
+150 into cable 144 for suppressing transient voltages
+324-2 at signal interface 240 is a logic high Voltage.
+associated
+with communication system 100 at a distance
+Similar to traces 252 and a corresponding circuit path to 10 from electronic
+circuit 205.
+electronic circuit 205, traces 324 of circuit board 205 and,
+In
+step
+640,
+the
+allocates a conductor in the
+more specifically, inputs of signal interface 240 are also cable (such as shieldassembler
+to extend a ground reference of
+protected from transient voltages. For example, traces 324 electronic circuit 205 to295)
+board 210 of surge protection
+electrically couple through connectors 146, 148 to corre circuit 150. As previouslycircuit
+discussed, surge protection circuit
+sponding wires 263 of electrical cable 144. Wires 263 of 15 150 suppresses transient high voltages on traces 252, 262 to
+electrical cable 144 in turn couple to circuit traces 262 and prevent damage to inputs (or outputs) of electronic circuit
+corresponding clamping circuits 230. In the event of a 205.
+transient voltage on circuit traces 262, clamping circuits 230
+While this invention has been particularly shown and
+clamp the transient Voltage via a circuit path including described
+with references to preferred embodiments thereof,
+ground path 291, conductor 294, shield 295, connectors 146, it will be understood
+those skilled in the art that various
+148 ground path 296, via 297 to local ground reference 180 changes in form and by
+details
+be made therein without
+similar to that as previously discussed for clamping circuit departing from the spirit andmayscope
+of the invention as
+220. Consequently, inputs of signal interface 240 are also defined by the appended claims.
+protected from potentially damaging transient Voltages.
+What is claimed is:
+FIG. 4 is a diagram of clamping circuit 230 according to 25 1. A Surge protection device comprising:
+an embodiment of the invention. As shown, clamping circuit
+a cable that Supports conveying communication signals to
+230 includes diodes D310, D312, and D314.
+an input of an electronic circuit, the cable including:
+a Surge protection circuit integrated to Suppress tran
+In operation, contact 283 electrically connects to ground
+sient voltages imparted on the communication sig
+path 291. Thus, during the occurrence of positive transient
+voltages (potentially caused by lightning 199) imparted on 30
+nals; and
+a conductor that extends a ground reference associated
+contact 285, diode D312 turns on (forward biased) and diode
+D314 such as a fast-acting Zener diode with low-capacitance
+with the electronic circuit through the cable to the
+Surge protection circuit, the Surge protection circuit
+clamps Voltage based on its characteristic reverse break
+including clamping circuits to Suppress the transient
+down voltage Such as +6 volts. During the occurrence of
+negative transient Voltage (potentially caused by lightning 35
+Voltages of the communication signals onto the con
+ductor associated with the cable to prevent damaging
+199) imparted at contact 285, diode D310 turns on (forward
+biased) to clamp the voltage at contact 283 so that it does not
+the input of the electronic circuit; and
+go below -1 volts. Consequently, wires 263 and correspond
+a connector that removably attaches to a connector of
+ing inputs of signal interface 240 are protected against
+another cable, the connector of the other cable includ
+40
+Voltage transients.
+ing internal terminations that identify a mode in which
+to receive the communication signals at the electronic
+Depending on the embodiment, clamping circuit 230 may
+circuit, a state of the internal terminations conveyed to
+include components such as transZorbs, fast-acting TVS
+Zener diodes, arrestor devices such as metal oxide varistors,
+
+the electronic circuit via internal conductors of the
+
+cable.
+carbon blocks, thyristors, gas discharge tubes and the like.
+2. A Surge protection device as in claim 1, wherein the
+FIG. 5 is a diagram of clamping circuit 220 according to 45 cable
+includes at least one internal conductor allocated for
+one embodiment of the invention. As shown, clamping Supporting
+reception of mode bit information at the elec
+circuit 220 includes diodes D410, D412, D420, and D422.
+tronic
+circuit
+whose state identifies a protocol associated
+Generally, node 275 of circuit board 210 is protected against
+the communication signals received at the input of the
+transient Voltages. For example, during a negative transient 50 with
+circuit.
+voltage at node 275, diode D412 turns on (forward break electronic
+3. A Surge protection device as in claim 1, wherein the
+down voltage=1.0 V) as well as D410 (e.g., reverse break cable
+is an extension cable for linking an original cable to
+down voltage=-15 V). Clamping circuit 220 thus clamps a
+electronic circuit and communication signals conveyed
+voltage at node 275 so that it does not go below -16 volts. the
+Diodes D420 and D422 are symmetrically disposed as D410 by the original cable are susceptible to high Voltage tran
+and D412 but in a reverse direction between node 275 and 55 sients.
+
+4. A Surge protection device as in claim 1, wherein the
+ground path 273. Thus, node 275 is protected against posi
+conductor is a cylindrical conductive shield Surrounding
+tive transient voltages (e.g., +16 Volts).
+twisted pairs of wires in the cable that carry the
+Depending on the embodiment, clamping circuit 220 may internal
+communication
+signals to the electronic circuit.
+include components such as transZorbs, fast acting diodes, 60 5. A surge protection
+device as in claim 1, wherein the
+fast-acting TVS Zener diodes, arrestor devices such as metal surge protection circuit is located between 2 and 30 inches
+oxide varistors, carbon blocks, thyristors, gas discharge from the electronic circuit when the cable is attached to
+tubes and the like.
+convey the communication signals to the electronic circuit.
+FIG. 6 is a flow chart for fabricating cable 144 according
+6. A Surge protection device as in claim 1 further com
+to an embodiment of the invention.
+65 prising:
+moldable plastic that encapsulates the Surge protection
+In step 610, an assembler provides a cable 144 including
+circuit.
+internal conductors (such as wires 253, 263) for conveying
+
+US 7,054,127 B1
+9
+7. A Surge protection device as in claim 1, wherein the
+cable includes multiple conductors to Support communica
+tion signals according to multiple serial communication
+protocols.
+8. A Surge protection device as in claim 1, wherein the 5
+Surge protection device is disposed in a connector assembly
+at an end of the cable opposite the end of the cable that
+couples to the electronic circuit.
+9. A Surge protection device as in claim 1, wherein a
+Voltage transient present on the other cable and directed to 10
+the electronic circuit on one of the communication signals is
+clamped by the Surge protection circuit prior to being
+received by the input of the electronic circuit, the conductor
+of the cable that extends the ground reference from the
+electronic circuit including a path from the Surge protection 15
+circuit through a wire of the cable to the ground reference
+associated with the electronic circuit.
+wherein the connector of the other cable is a second con
+
+nector, the ground reference associated with the electronic
+circuit extending from the conductor coupled to the Surge
+protection circuit through the first connector to the second
+connector, the first and second connector being coupled to
+each other, the second connector including a mechanism to 25
+receive the internal terminations that, if a respective one is
+present in the second connector, connects a respective one of
+the internal conductors of the cable to the ground reference
+of the electronic circuit such that the electronic circuit can
+
+identify a logic state associated with the respective one of 30
+the internal conductors.
+
+reference a with the electronic circuit; and
+
+wherein the cable includes twisted pairs of wires for
+conveying the communication signals from the first
+connector to the electronic circuit and the conductor is
+
+a shield wrapped around the twisted pairs of wires. 50
+13. A Surge protection device comprising:
+a cable means that Supports conveying communication
+signals to an input of an electronic circuit, the cable
+means including:
+a Surge protection circuit means integrated to Suppress 55
+transient Voltages imparted on the communication
+signals; and
+a conductor means that extends a ground reference
+associated with the electronic circuit through the
+cable to the Surge protection circuit means, the Surge 60
+protection circuit means including clamping circuits
+to suppress the transient Voltages of the communi
+cation signals onto the conductor means associated
+with the cable means to prevent damaging the input
+of another cable, the connector of the other cable
+
+tors of the cable.
+
+14. A method comprising:
+providing a cable including internal conductors for con
+veying communication signals to an input of an elec
+tronic circuit in a communication system Susceptible to
+potentially damaging transient Voltages;
+fabricating one end of the cable to couple the internal
+conductors to the electronic circuit;
+
+integrating a Surge protection circuit into the cable for
+Suppressing transient Voltages associated with the com
+munication signals on the internal conductors; and
+allocating a conductor in the cable to extend a ground
+Surge protection circuit integrated with the cable, the
+Surge protection circuit Suppressing high Voltage tran
+sients of the communication signals through a clamp
+ing circuit onto the conductor to prevent damaging the
+input of the electronic circuit.
+15. A method as in claim 14 further comprising:
+surrounding the internal conductors of the cable with a
+cylindrical shield that extends to a ground reference
+associated with the electronic circuit to provide a path
+for dissipating Voltage transients from the Surge pro
+tection circuit.
+
+16. A method as in claim 14 further comprising:
+disposing the Surge protection circuit to be a distance
+between 2 and 30 inches from the electronic circuit.
+
+11. A surge protection device as in claim 10, wherein the
+internal terminations present in the mechanism of the second
+connector indicate a respective configuration of the other
+cable and, in response to identifying a configuration of the 35
+other cable, the electronic circuit configuring the input to
+receive the communication signals according to the respec
+tive configuration as indicated by the internal terminations
+present in the mechanism of the second connector.
+12. A Surge protection device as in claim 11, wherein the 40
+electronic circuit includes pull-up resistors that pull-up a
+respective one of the internal conductors to a given non-Zero
+Voltage value unless a respective internal termination is
+present in the mechanism of the second connector coupling
+the respective one of the internal conductors to the ground 45
+
+of the electronic circuit; and
+
+electronic circuit, a state of the internal terminations
+
+conveyed to the electronic circuit via internal conduc
+
+reference associated with the electronic circuit to the
+
+10. A surge protection device as in claim 9, wherein the
+connector that removably attaches is a first connector and
+
+a connector means that removably attaches to a connector
+
+10
+including internal terminations that identify a mode in
+which to receive the communication signals at the
+
+65
+
+17. A method as in claim 14 further comprising:
+disposing the Surge protection circuit including a printed
+circuit board and corresponding Voltage clamping cir
+cuits into a connector assembly at an end of the cable
+to clamp high Voltage transients associated with the
+communication signals to a ground reference prior to
+otherwise reaching the electronic circuit.
+18. A method as in claim 14 further comprising:
+encapsulating at least a portion of the Surge protection
+circuit with moldable plastic.
+19. A method as in claim 14 further comprising:
+utilizing the cable to Support communication signals
+according to multiple serial communication protocols.
+20. A method as in claim 14 further comprising:
+disposing the Surge protection circuit in a connector
+assembly at an end of the cable opposite the end of the
+cable that couples to the electronic circuit.
+21. A method as in claim 14 further comprising:
+fabricating the cable to be an extension cable that pro
+vides a connection between an original cable that,
+without the extension cable, would connect a remote
+
+device transmitting the communication signals to the
+electronic circuit;
+
+the original cable including a shunt circuit that is selec
+tively populated with at least one respective shunt
+component to set mode bits of the original cable, the
+mode bits being read by the electronic circuit through
+the extension cable and indicating a configuration of
+the original cable; and
+fabricating the extension cable to include internal con
+ductors that convey the respective mode bits of the
+original cable to the electronic circuit.
+22. A method as in claim 21 further comprising:
+surrounding the internal conductors of the cable with a
+shield that extends to a ground reference associated
+with the electronic circuit to provide a path for dissi
+
+US 7,054,127 B1
+11
+12
+pating Voltage transients from the Surge protection
+pression circuit of the extension cable and a ground
+reference associated with the electronic circuit device.
+circuit, the internal conductors being twisted pairs of
+wires for conveying the communication signals
+24. A method as in claim 23 further comprising:
+utilizing the extension cable to Support communication
+between original cable and the electronic circuit, the
+signals according to multiple serial communication
+ground reference being extended to the shunt circuit of 5
+protocols.
+the original cable Such that the ground reference from
+25. A method as in claim 23, wherein coupling the
+the electronic circuit is utilized by both the shunt circuit
+and the Surge protection circuit.
+extension cable to the original cable establishes a connection
+23. In a system susceptible to potentially damaging Volt of a shunt circuit of the original cable to the conductive path
+10 of the extension cable such that the shunt circuit in the
+age transients, a method comprising:
+uncoupling an original cable Supporting conveyance of original cable has a corresponding connection through the
+communication signals to an electronic circuit device; extension cable to the ground reference of the electronic
+providing an extension cable including a transient voltage circuit, the shunt circuit including at least one internal
+Suppression circuit disposed thereon;
+termination that pulls a respective signal from the electronic
+coupling one end of the extension cable to the original 15 circuit to ground.
+cable and another end of the extension cable to the
+26. A method as in claim 25 further comprising:
+electronic circuit device to provide a path for commu
+populating the shunt circuit with the at least one internal
+termination to indicate the configuration of the original
+nication signals between the original cable and the
+cable Such that the electronic circuit can read a status of
+electronic circuit device, the transient Voltage Suppres
+sion circuit disposed in the extension cable Suppressing 20
+mode bits associated with the shunt circuit and identify
+transient Voltages imparted on the communication sig
+how to configure itself to receive the communication
+nals; and
+signals transmitted from a remote device to the elec
+wherein coupling the extension cable to the electronic
+tronic circuit over the original cable and the extension
+cable.
+circuit device includes plugging one end of the exten
+sion cable into the electronic circuit device to provide 25
+a conductive path between the transient Voltage Sup
+
+

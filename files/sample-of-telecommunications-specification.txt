@@ -1,0 +1,1216 @@
+e
+ian
+
+PATENT SPECIFICATION
+
+(21) Application No. $2000/0432
+
+(22) Date of Filing of Application: 01/06/2000
+
+(30) Priority Data:
+(31) 990453 (32) 01/06/1999 (33) Ireland (IB)
+
+(45) Specification Published: 21 March 2001
+
+(11) $81622
+
+(51) Int.CL.7 H04L29/06
+
+H04Q7/22
+(54) Title: Adaptation of WAP to SMS in PDC networks
+(72) Inventor: CORRIGAN, LOUIS
+
+SULLIVAN, OWEN
+
+(73) Patent Granted to: MARKPORT LIMITED, an Irish company, Custom House Plaza 5,
+
+Harbourmaster Place, Dublin 1, Ireland.
+
+© Copyright 2000, Government of Ireland
+
+10
+
+15
+
+20
+
+25
+
+-1-
+
+“Adaptation of WAP to SMS in PDC Networks”
+
+INTRODUCTION
+
+Field of the Invention
+
+The invention relates to provision of WAP functionality in PDC networks.
+
+Prior Art Discussion
+
+It is recognised that Short Message Service Centres (SMSCs) are suitable bearers for
+WAP content between WAP gateways and mobile handsets where the applications
+require low bandwidth or where interactive responses are not required. Short
+
+messaging is particularly attractive for “push” WAP applications because it offers an
+intuitive and inexpensive bearer for WAP data. Other advantages of using short
+
+messaging for WAP delivery are:
+the existing infrastructure for legacy handsets is used,
+it is a reliable high-performance bearer when radio conditions are poor,
+it allows effective user authentication,
+it is easily scaleable, and
+it represents efficient use of network resources.
+
+It is therefore an object of the invention to provide a system and method for effective
+use of SMS in PDC for WAP communication.
+10
+
+15
+
+20
+
+25
+
+30
+
+GF
+Ca
+—
+oN
+
+SUMMARY OF THE INVEN TION
+
+According to the invention, there is provided a method for communication of WAP
+
+content in a PDC mobile network, the method comprising the steps of -
+
+a WAP server using a short message entity interface to communicate WAP
+
+content in short messages to an SMSC, and
+
+the SMSC communicating with a mobile handset over the PDC mobile
+
+network to transfer WAP content in short messages.
+
+In one embodiment, signalling between the SMSC and the mobile handsets uses
+
+source port, destination port, and segmentation and reassembly fields.
+
+Tn one embodiment, a teleservice identifier data element is used for submission and
+
+delivery of short messages, whereby different handset formats are catered for.
+
+In one embodiment, concatenated messaging teleservice identifiers are used to
+provide concatenated messages which are fragments of WDP packet requiring
+
+reassembly,
+
+In another embodiment, a message number is used to uniquely reference all the
+
+fragments in one larger segmented packet.
+In a further embodiment, the message number parameter is a two-octet integer,
+In a further embodiment, sequence number and maximum sequence number fields
+
+are used to indicate the sequential order of each fragments and the maximum
+
+number of fragments.
+
+KD
+
+ho
+10
+
+15
+
+20
+
+25
+
+30
+
+-3-
+
+Preferably, originating and destination sub-addresses are present in submit and
+
+delivery Protocol Data Units (PDUs) to allow port level addressing.
+
+In one embodiment, communication between the WAP server and the SMSC uses a
+
+tunnelling protocol based on the standard SMPP protocol.
+
+In one embodiment, a multi-part message parameter in the format of a Tag-Length-
+Value parameter is used to specify a message number, a sequence number , and
+maximum sequence number for mapping to signalling between the SMSC and the
+
+mobile handsets.
+
+Tn another embodiment, the tunnelling protocol between the WAP server and the
+SMSC maps sub-addresses of the handset-side communication for port level
+
+addressing on the server side.
+
+In one embodiment, the SMSC incorporates a delay to reduce total latency when
+
+delivering multiple messages to a handset.
+
+In a further embodiment, the SMSC uses express messaging functionality for transfer
+
+of WAP content to a mobile handset.
+
+In one embodiment, the SMSC uses simple segmentation to deliver a plurality of
+
+messages in a single call attempt.
+
+In one embodiment, the SMSC transmits overlength messages with a forward call
+indicator or a backward call indicator and the receiving entity sets a timer to receive
+
+the full set of messages.
+
+Preferably, the SMSC processes mobile-originating express messages on a per-ATM
+
+(application interface module) basis.
+10
+
+15
+
+20
+
+25
+
+30
+
+In one embodiment, the SMSC recognizes sub-unit sub-addresses,
+
+In a further embodiment, the SMSC uses a sub-address field passed as a key by a
+mobile handset for a destination WAP server IP address to avoid the need for
+
+encryption.
+
+DETAILED DESCRIPTION OF THE INVENTION
+
+Brief Description of the Drawings
+
+The invention will be more easily understood from the following description of some
+embodiments thereof given by way of example only with reference to the
+
+accompanying drawings in which:
+
+Fig. 1 is a schematic representation of the architecture for use of SMS for
+WAP ina PDC network; and
+
+Figs. 2 to 4 are sample signalling sequences.
+
+Description of the Embodiments
+
+Referring to Fig. 1, there is illustrated an architecture for WAP communication
+between mobile handsets 1 and a WAP proxy server 20 via a Short Message Service
+Centre (SMSC) 10. The layered structure of the handset 1 comprises:
+
+WAE (Wireless Application Entity),
+WSP (Wireless Session Protocol),
+WTP (Wireless Transaction Protocol),
+
+WDP (Wireless Datagram Protocol) and Adaptation,
+10
+
+15
+
+20
+
+25
+
+30
+
+5.
+
+6: A Short Message Transfer Protocol (SMTP) interface developed for the
+
+system,
+
+The SMSC 10 comprises a kernel 1 providing the core SMSC functionality. A MN-
+AIM (mobile network application interface module) 12 interfaces with the SMTP
+
+interface 6 of the mobile handsets 1,
+
+An SMPP-AIM (Short Message Peer-to-Peer application interface module) 12
+interfaces with the server 20 via a sub-network layer 14 which in this embodiment is
+
+TCP/IP, but could alternatively be a different protocol such as X.25.
+
+On the server 20 the layers are:
+
+an application layer 21,
+
+a WSP layer 22,
+
+a WTP layer 23,
+
+a WDP & adaptation layer 24
+
+a WAP IGW (inter-working gateway) 25, and
+
+a physical sub-network 26, in this embodiment TCP/IP.
+
+The IGW 25 communicates with the SMPP-AIM 13 via the sub-network using
+SMPP over TCP.
+
+The SMSC 10 communicates with the mobile handsets 1 using SMTP, supporting
+128 octets of user data for short messages. The SMTP signalling uses Source Port,
+
+Destination Port, and Segmentation and Reassembly fields, as described below.
+
+The Short Message Transfer Protocol defines a ‘Telematic Identifier’ data element to
+submit to and deliver short messages from the SMSC 10. This mechanism allows the
+
+format of handsets to differ through the addition or deletion of data elements.
+10
+
+15
+
+20
+
+25
+
+30
+
+-6-
+
+Concatenated Messaging Telematic Identifiers are used to provide concatenated
+messages which are fragments of a larger WDP packets that requires reassembly.
+The Telematic Identifier is specified in a teleservice field. A Message Number
+parameter is used to uniquely reference all the fragments in one larger segmented
+packet. It is equivalent to a concatenated short message. The Message Number
+parameter in the SMTP is a two octet integer and all fragments use a two octet
+Message Number. Sequence Number and Maximum Sequence Number fields are
+used to indicate the sequence number of the fragment and the total number of
+
+fragments in the message respectively.
+
+In this embodiment, there is a maximum of 255 fragments which can be reassembled
+together on the handset. As the userData field allows a maximum of 128 octets per
+short message, the maximum data payload when reassembled is 32,640 octets. The
+Short Message Transfer Protocol defines one octet for the Maximum Sequence
+
+Number field, so there are a maximum of 255 fragments allowed.
+
+Regarding Port Level Addressing, origSubAddr and destSubAddr Short Message
+Transfer Protocol fields specify the originating sub-address and destination sub-
+address values for message delivery respectively. Both fields are present in both the
+MT-SUBMIT and MT-DELIVER PDUs (Protocol Data Units), allowing port level
+addressing to be specified for both Mobile Originated and Mobile Terminated
+messages. Both fields are two octets in length, for both MT_SUBMIT and MT-
+DELIVER PDUs.
+
+“Short Message Entity-Interface (SME-IF)” protocol is a term used to describe the
+protocol between the SMSC 10 and an external entity submitting and receiving
+messages, in this embodiment the server 20. The SME-IF tunnelling protocol is
+based on the Short Message Peer to Peer protocol [SMPP™], available from Logica
+Aldiscon.
+10
+
+15
+
+20
+
+25
+
+30
+
+-7-
+
+Segmentation and Reassembly in SMPP tunnelling protocol for PDC SMS
+
+When sending segmented messages from the WAP Proxy/Server 20 across the
+SMSC 10, the segmentation and reassembly parameters are specified in the SMPP
+tunnelling protocol used between the WAP Proxy/Server and the SMSC. For
+Mobile Terminated messages, they are then mapped by the SMSC 10 from the
+SMPP tunnelling protocol to the Short Message Transfer Protocol, and then
+reassembled on the handset 1. For Mobile Originated messages, the WAP
+Proxy/Server 20 must reassemble the fragments before passing the WDP packet up
+the WAP stack. A PDC_MultiPartMessage optional parameter is defined to allow
+segmented messages to be specified. A PDC_MultiPartMessage parameter is in the
+format of a Tag-Length-Value parameter. The Value field in the
+PDC_MultiPartMessage parameter contains Message Number, Sequence Number
+and Maximum Sequence Number fields, which map to Short Message Transfer
+Protocol fields of the same name. The SMPP protocol will automatically map the
+SMPP PDC_MultiPartMessage parameters to and from the appropriate Short
+
+Message Transfer Protocol parameters.
+
+Port level addressing in SMPP tunnelling protocol
+
+The optional SMPP Subaddress Extended Facility defines Originator_SubAddr and
+Destination_SubAddr optional parameters. These parameters allow specification of
+port level addressing for PDC short messages. These parameters are available in
+both the submit_sm and deliver_sm PDUs, allowing specification of port level
+addressing for both Mobile Originated and Mobile Terminated messages across
+SMPP. The Originator_SubAddr and Destination_SubAddr parameters are in the
+format of Tag-Length-Value parameters. The first octet of the Value field specifies
+the SubAddress Type, which should be set to PDC Subaddress (0x01). There are
+then two following octets used to specify the port:
+10
+
+15
+
+20
+
+25
+
+30
+
+-R.
+the WDP Source Port in the Originator_SubAddr, and
+
+the WDP Destination Port in the Destination_SubAddr parameter.
+
+The SMPP protocol automatically maps the SMPP Originator_SubAddr and
+Destination_SubAddr parameters to and from the Short Message Transfer Protocol
+
+parameters origSubAddr and destSubAddr respectively.
+
+WAP applications make use of the concatenation feature of the Short Message
+Transfer Protocol, to allow amounts of data greater than 128 octets to be delivered to
+users. The SMSC 10 incorporates a delay feature in the Mobile Network AIM. The
+object of this delay is to avoid the scenario whereby when delivering more than one
+short message to a handset, the handset is busy when an attempt is made to deliver
+the second message. This feature reduces the total latency in delivering multiple
+messages to a handset, which is very important for interactive WAP applications,
+
+and avoids superfluous delivery attempts by the SMSC.
+
+The SMSC Express Messaging functionality is suitable for interactive WAP
+applications. Express Messaging provides higher throughput of messages through an
+SMSC because it avoids the overhead of writing to a database and dealing with retry
+schemes. A single attempt is made to deliver the message. The WTP layer in a
+WAP stack is expected to provide the reliability required when running WAP
+
+applications over Express Messaging.
+
+The Simple Segmentation procedure allows more than a single short message to be
+delivered in a single call attempt. This reduces the time taken to deliver multiple
+messages, as well as allowing operators to increase the maximum number of
+segments allowed in a concatenated message, thereby helping to address both latency
+
+and bandwidth concerns.
+10
+
+15
+
+20
+
+25
+
+.Q.
+
+An JAM message is used to transport the SMTP mobile terminated and mobile
+originated messages between the SMSC and an MSC. A segmentation message
+(SGM) is used to convey an additional segment of an overlength IAM message as
+those which are longer than 272 octets but less than 544 octets. The 272 octet
+restriction is due to the MTP layer restrictions. The procedure can be summarised as
+
+follows:
+
+If an IAM message length is greater than 272 octets and less than 544 octets then a
+segmentation message SGM will be sent. However the overlength message must
+
+contain either one of the following parameters:
+
+e Optional Forward Call Indicators
+
+e Optional Backward Call Indicators
+
+The sending entity will set the Simple Segmentation Indicator in either the Optional
+Forward Call Indicators or Optional Backward Call Indicators parameter. The
+receiving entity upon receipt of an IAM message with the Simple Segmentation
+Indicator set to indicate additional information will set a timer T34 and wait to
+receive the SGM message. It may be possible to use a combination of [AM and
+
+SGM messages to allow for longer user data lengths.
+
+The SMTP protocol allows for longer messages. The SMSC 10 supports longer
+message lengths in the SMPP AIM, in the kernel, and in the Mobile Network AIM.
+The SMSC Mobile Network AIM supports receiving of SGM messages. It also
+supports sending of SGM messages for overlength IAM messages. To allow
+segmentation the optional Forward Call Indicators or the optional Backward Call
+Indicators are included in the [AM message. The current ISUP specification for SMS
+between the MSC and SMSC defines these optional parameters for an outbound
+IAM.
+10
+
+15
+
+20
+
+25
+
+30
+
+-10-
+
+The MSCs must support sending and receiving SGM messages as appropriated. For
+an Outbound IAM from the MSC to the SMSC the Optional Forward Call
+Indicators parameter is currently present. An ISUP IAM and SGM message
+combination will map to a single RCR air interface SETUP message. The MSC
+must support the optional Forward or Backward Call Indicators. The mobile
+
+handsets must support handling of extended user data message lengths.
+
+Referring to Figs. 2 to 5 example signalling sequences are illustrated. The signals are
+
+as follows.
+
+TAM: Initial Access Message with phone numbers and SM data.
+
+EACM: Early Address Complete Message, in response to JAM.
+
+REL: Release, sent by handset for termination of call used to send the SM.
+RLC: Release confirm.
+
+On the handset side:
+
+Setup is the equivalent of an [AM message in the radio domain.
+
+DISC: Disconnect, is the equivalent of Release.
+
+Fig. 2 shows mobile-terminated calls. Fig. 3 shows a mobile-terminated call using an
+SGM message for messages longer than 270 bytes and requiring segmentation. Figs.
+
+4 and 5 are equivalent to Figs. 2 and 3, for mobile-originated sessions.
+
+The following is sample WAP content. Estimations of sizes of the content source,
+which is shown below, and compiled versions, which would be sent over the air, are
+included. They assume 8 bit characters are being used, using UTF-8 encoding. The
+
+size estimations do not take into account the overhead that would be added by the
+
+WAP stack.
+10
+
+15
+
+20
+
+25
+
+-ll-
+
+The size of the WML source shown below is approximately 600 bytes. The estimated
+
+size of the binary version that would get sent over the air is approximately 318 bytes.
+
+<?XML VERSION="1.0"2>
+
+<!DOCTYPE WML PUBLIC "-//WAPFORUM//DTD WML 1.0//EN">
+<WML>
+
+<CARD NAME="TdpHomePage" TITLE="TDP Home Page">
+Tokyo Digital Phone provides mobile phone services to over 1 million
+people in Tokyo. Services includes Skyweb & Skywalker.
+
+<DO TYPE="ACCEPT" LABEL="Contact Us">
+
+<GO URL="#ContactTdp">
+
+</GO>
+
+</DO>
+
+</CARD>
+
+<CARD NAME="ContactTdp" TITLE="Contacting TDP">
+
+To contact TDP please:<BR/>
+
+Call +81-3-5360-2000<BR/>
+
+Or Email marketing@skyproject.com
+
+</CARD>
+
+</WML>
+
+The following is a sample email notification application. The size of the WML
+source shown below is approximately 340 bytes. The estimated size of the binary
+version that would get sent over the air is approximately 150 bytes. The source below
+
+assumes the following:
+
+e AWTA server is available in the network.
+10
+
+15
+
+20
+
+25
+
+30
+
+-12-
+
+e The WTA server incorporates a table mapping the source email address to
+telephone numbers, where possible, to allow the browser to prompt the user to
+
+call the originator of the email message.
+
+<?XML VERSION="1.0"?>
+
+<!IDOCTYPE WML PUBLIC "-//WAPFORUM//DTD WML 1.0//EN">
+<WML>
+
+<CARD NAME="EmailHeaders" TITLE="New Email">
+
+FR: Gerard Keena<BR/>
+
+SU: Meeting rescheduled<BR/>
+
+MSG: Robert, the meeting has been moved to 9am on Wed&lt;more..&gt;
+
+<DO TYPE="ACCEPT" LABEL="Get more">
+
+<GO URL="WTANetText.send("5555" ,"Get_Mail_1_for_user_81353602999">
+
+</GO>
+
+</DO>
+
+<DO TYPE="ACCEPT" LABEL="Call sender">
+<GO URL="wtai://wp/mce;81353602111">
+</GO>
+
+</DO>
+
+</CARD>
+
+</WML>
+
+The following describes aspects of the use of the invention in more detail.
+Datagram/Express Messaging
+The SMSC 10 provides one-shot message delivery. When the transraitter AIM 6 or
+
+12 receives the message it is forwarded to the kernel 11, which makes an immediate
+
+delivery attempt. The message will not be stored in the database or a file and the
+10
+
+15
+
+20
+
+25
+
+30
+
+-13-
+
+kernel 11 will not check the SME state before making a delivery attempt. Only one
+delivery attempt is made — a forward only functionality. Express messaging is ideally
+suited for some WAP applications which require a faster response to the user than
+
+can be offered using a “store and forward” mechanism.
+
+Express messaging mode also supports a transaction capability which enables a
+delivery receipt to be returned, thus confirming that the message was received at the
+destination mobile handset. The SMSC 10 also supports "store and forward" message
+mode (premium messaging) for use in WAP applications which require secure
+
+delivery.
+
+The PDC MN-AIM 12 supports MO express messaging on a per-AIM basis, set ina
+configurable entities file. A command > force_sub_express_swt::Y: will force
+
+messaging mode to "Express" for MO submission.
+
+A per-SMSC system-wide default messaging mode may be specified by setting the
+
+value of the configurable parameter:
+
+> smsc_messaging_mode_str = express[classic], which means that the default
+messaging mode is "express," while the "classic" mode (in brackets) is also
+
+allowed.
+
+For interworking on the server 20 side the deliver_sm and submit_sm PDUs, set the
+
+parameter:
+> messaging mode = | (express messaging/datagram).
+There is a transaction type operation that every PDU is acknowledged with a
+
+response PDU. Because WDP does not require reliable transport, responses to
+
+deliver/submit PDUs may be optionally omitted to save bandwidth. The optional
+10
+
+15
+
+20
+
+25
+
+30
+
+-14-
+
+acknowledgement should be able to be specified at the bind/session level and at per
+
+deliver/submit message level.
+WDP/UDP Application Port Addressing
+
+Regarding WDP/UDP Application Port Addressing, WDP port is similar to that of
+
+UDP which is used to specify higher layer protocols, services, and applications.
+
+The SMTP/ISUP link supports 2 octet origSubAddr and destSubAddr mandatory
+
+parameters which can be used for application port addressing:
+
+> origSubAddr, M, 2 octet integer, 0..65535, end-to-end
+> destSubAddr, M, 2 octet integer, 0..65535, end-to-end
+
+These two parameters are mapped to the access transport field in the SUP IAM
+
+message.
+
+The kernel 11 supports explicit originating and destination port number parameters.
+The interworking data field for passing through optional network specific parameters
+
+can also be used to communicate port addresses.
+Sub-unit Addressing
+
+Subunit addressing is used to indicate where a message originated or is destined in
+
+the mobiel entity (ME), for example a smart card or an external device (ED)
+
+connected to the handset.
+
+For the SMTP/ISUP and MN-AIM link,in the MT-DELIVER and MT-SUBMIT
+PDUs, the destAddr and origAddr of the MTAddress format may be used:
+10
+
+15
+
+20
+
+25
+
+30
+
+-15-
+
+> MTAddress, mandatory, fixed 12 octet
+
+> octet 0, length
+
+> octet 1, bits 0-3 TON = 9 (extended MSN)
+
+> octet 1, bits 4-7 NPI = 0 (unknown)
+
+> octets 2-11, extended MSN with the last nibble =
+> 0: MS
+
+> 1.8: ED
+
+>9:RDD
+
+The kernel 11 can handle the source and destination subaddress parameters. Fir the
+SMPPvé4 and IW-AIM link in the deliver_sm and submit_sm PDUs, the source and
+
+destination addresses can take the extended MSN format:
+
+(TON/NPI = 9/0, default in PDC networks).
+
+> addr_ton = 9 (extended MSN)
+
+> addr_npi = 0 (unknown)
+
+> src/dst addr, mandatory, 0-64 octets, extended MSN with the last nibble =
+>0: MS
+
+> 1..8: ED
+
+> 9: RDD
+
+SMPP and TW-AIM
+
+In the deliver_sm, submit_sm, submit_multi and data_sm PDUs, the following
+
+conditional parameters may be used:
+
+> dest_addr_subunit, optional TLV, 1 octet integer, 0..255
+
+> source_addr_subunit, optional TLV, 1 octet integer, 0..255
+> 0: unknown (default)
+
+> 1: MS display
+10
+
+15
+
+20
+
+25
+
+-16-
+
+> 2: mobile equipment
+> 3: smart card 1 (expected to be SIM if a SIM exists in the MS)
+> 4: external unit 1
+
+>» 5to 255 = reserved
+
+WAP end-to-end security
+
+The SMSC 10 includes functionality for WAP end-to-end security requirements,
+through use of a subaddress field which is passed as a key by the handset for the
+destination WAP proxy server IP address. This eliminates the need for encryption of
+addresses end-to-end which would probably not be possible with intermediate
+
+bearers which require the addresses for routing.
+
+SMTP/ISUP and MN-AIM Link
+
+In the MT-DELIVER and MT-SUBMIT PDUs the following conditional parameter
+
+may be used:
+
+> MTPrivacy, conditional, 3 octets in 4-4-16 bit format, end-to-end
+
+> octet 0, bits 7-4 security code = 1000: private security scheme (TBD)
+
+> octet 0, bits 3-0 privacy level = 1..4 (do not use)
+
+> octets 1-2, 2 octets of transparent authentication data
+
+Although the 2 octet data in the MTPrivacy parameter may be used for end for end-
+to-end security sub-addressing, there is a problem to convert up to 22 octet sub-
+addresses. The range of sub-addresses that can be used by WAP applications is
+restricted by the SMTP/ISUP interface.
+
+Kernel 11
+10
+
+15
+
+20
+
+25
+
+30
+
+-17-
+
+The kernel 11 can handle the source and destination sub-address parameters. In the
+deliver_sm, submit_sm, submit_multi and data_sm PDUs, the following parameters
+
+are used:
+
+> source_subaddress, optional TLV, V22COS
+> dest_subaddress, optional TLV, V22COS
+The format of sub-addresses is X.213/NSAP or user specified, contains
+
+authority and format identifier.
+
+Segmentation and Reassembly (SAR)
+
+The WAP framework allows segmentation and. reassembly of packets to be done in
+the WAP infrastructure, in an SMSC or both. The SMSC 10 supports SAR in ESME
+(External Short Message Entities) and supports SAR in either SMSC or ESME (but
+not both).
+
+SMTP/ISUP and MN-AIM
+
+In the MT-DELIVER and MT-SUBMIT PDUs the following parameters are used:
+
+> MTTeleServID, mandatory, 1 octet integer, 4 = concatenated messaging
+> message number, conditional, 2 octet integer
+> sequence number, conditional, 1 octet integer, 1..255
+
+> max sequence number, conditional, 1 octet integer, 2..255
+This will allow at most 255 * 128 = 32640 octets of concatenated user data. Long
+
+messages may be segmented up to 12 (1500/128) SMS. In PDC networks, an SMSC
+
+delay (about 3 seconds) is required between concatenated messages.
+
+Kernel 11
+
+10
+
+15
+
+20
+
+25
+
+30
+
+-18-
+
+The kernel 11 passes through the SAR information in the inter-working data field for
+PDC networks and supports explicit SAR parameters in general.
+
+SMPP and IW-AIM
+
+The SMPP deliver_sm and submit_sm PDUs theoretically allow up to 4096 octets of
+short_message data. The maximum user data length is limited by the SMTP
+protocol (128 octets). In the deliver.sm and submit_sm PDUs, the following
+
+optional parameter (PDC network facilities) is used:
+
+> PDC _MultiPartMessage, optional TLV (tag = 0x1105)
+> with 4 octets of data:
+
+> message number, 2 octet integer
+
+> sequence number, | octet integer, 1..255
+
+» max sequence number, 1 octet integer, 2..255
+
+This is the same as described above for SMTP/ISUP. To use this optional
+parameter, an ESME should negotiate for the PDC network facilities in the bind
+
+PDU using the following parameter:
+
+> facilities_mask = NF_PDC (0x00010000)
+
+End-to-End Message ID by WAP Proxy
+
+SMTP/ISUP and MN-AIM
+
+In the MT-DELIVER and MT-SUBMIT PDUs, the following parameter is used:
+
+> MTMsgRef, mandatory, 2 octet integer, end-to-end.
+
+10
+
+15
+
+20
+
+25
+
+-19-
+
+Kernel 11
+
+The kernel 11 can handle the end-to-end message ID.
+
+SMPP and IW-AIM
+
+In the deliver_sm and submit_sm PDUs, the following parameter is used:
+
+> message_reference, mandatory, variable 1..9 COS
+
+Message-Type (WDP/WCMP), Support WCMP Generated by MS
+
+The kernel 11 can handle the message-type parameter.
+
+SMPP and [W-AIM
+
+In the deliver_sm, submit_sm, submit_multi and data_sm PDUs, the following
+
+parameter is used:
+
+>» payload_type, optional, 1 octet integer, 0: default/ WDP, 1: WCMP
+
+SMSC Generated WCMP Messages
+
+The SMSC 10 does not return WCMP error messages. The ESME analyses SMPP
+error messages and sends WCMP messages to the WAP proxy gateway.
+
+Data Coding <need further investigation
+
+10
+
+15
+
+20
+
+25
+
+30
+
+-20-
+
+The SMSC 10 and SMPP data coding scheme (DCS) parameter defines encoding
+
+scheme of the short message user data.
+
+(
+SMPP and IW-AIM
+
+In the deliver_sm and submit_sm PDUs, the following parameter is used:
+
+> data_coding, mandatory, 1 octet integer
+
+Generic_nack (SMPP)
+
+The WAP proxy/server should be informed if it has submitted a message that is too
+big. In this case (ESME_RINVMSGLEN), the generic_nack PDU needs an optional
+parameter to indicate maximum allowed message user data length. The ESME or
+
+WAP proxy can do SAR properly according to this information.
+
+MS Not Reachable to WAP Proxy (set_dpf)
+
+In the data_sm PDU, an optional parameter may be used to request the setting of a
+delivery pending flag (DPF) for certain delivery failure scenarios, such as MS
+unavailable (as indicated by HLR).
+
+> se_dpf, optional TLV, | octet integer,
+
+> 0: setting of DPF for delivery failure to MS not requested
+
+> 1: setting of DPF for delivery failure requested (default)
+
+If the DPF is set, the SMSC will send an alert_notification PDU when it detects that
+
+the destination MS has become available.
+
+Alert_notification to WAP proxy
+
+10
+
+15
+
+20
+
+-21-
+
+The alert_notification PDU defined in SMPP is used by SMSC to
+inform ESME when it detects that the destination MS has become available.
+
+The following are some of the advantages of the invention
+
+1. Applications can take advantage of the store and forward capabilities of an
+
+SMSC. This feature is not available in other WAP bearers.
+
+2. The invention provides a relatively inexpensive bearer to use for small amounts
+
+of data, in comparison to circuit switched data calls.
+
+3. SMS based applications are already widely available, and it should be feasible to
+port these to a WAP framework.
+
+4. MS in general is evolving to be more suitable for interactive applications.
+Examples of this are the implementation of the More-Messages-to-Send feature in
+
+GSM and the Express Messaging feature in the SMSC 10.
+
+The invention is not limited to the embodiments described, but may be varied in
+
+construction and detail within the scope of the claims.
+10
+
+15
+
+20
+
+25
+
+30
+
+-22-
+
+Claims
+
+A method for communication of WAP content in a PDC mobile network, the
+
+method comprising the steps of:-
+
+a WAP server using a short message entity interface to communicate WAP
+
+content in short messages to an SMSC, and
+
+the SMSC communicating with a mobile handset over the PDC mobile
+
+network to transfer WAP content in short messages.
+
+A method as claimed in claim 1, wherein signalling between the SMSC and
+the mobile handsets uses source port, destination port, and segmentation and
+reassembly fields, and wherein a teleservice identifier data element is used for
+submission and delivery of short messages, whereby different handset formats
+are catered for, and wherein concatenated messaging teleservice identifiers are
+used to provide concatenated messages which are fragments of WDP packet
+requiring reassembly, and wherein a message number is used to uniquely
+reference all the fragments in one larger segmented packet, and wherein the
+
+message number parameter is a two-octet integer.
+
+A method as claimed in any preceding claim, wherein communication
+between the WAP server and the SMSC uses a tunnelling protocol based on
+the standard SMPP protocol, and wherein a multi-part message parameter in
+the format of a Tag-Length-Value parameter is used to specify a message
+number, a sequence number, and maximum sequence number for mapping to
+signalling between the SMSC and the mobile handsets, and wherein the
+tunnelling protocol between the WAP server and the SMSC maps sub-
+addresses of the handset-side communication for port level addressing on the
+
+server side, and wherein the SMSC incorporates a delay to reduce total
+
+10
+
+15
+
+-23-
+
+latency when delivering multiple messages to a handset, and wherein the
+SMSC uses express messaging functionality for transfer of WAP content to a
+mobile handset, and wherein the SMSC uses simple segmentation to deliver a
+
+plurality of messages in a single call attempt.
+
+A method as claimed in any preceding claim, wherein the SMSC transmits
+overlength messages with a forward call indicator or a backward call indicator
+
+and the receiving entity sets a timer to receive the full set of messages.
+
+A short message service centre comprising a kernel, a PDC mobile network
+application interface module, and a WAP server application interface
+module, and wherein the kernel comprises means for using source port,
+destination port, and segmentation and reassembly fields for communication
+of WAP content using short messages between a WAP server and a mobile
+
+handset.
+Mobile Handset
+
+“ll
+
+WAE
+
+ml
+
+WwsP
+
+4
+WTP
+
+is)
+
+WDP & adaptation
+
+ol
+
+SMTP
+
+10
+
+SMSC Kernel
+
+ISUP
+
+12
+
+MN-AIM
+
+SMPP-AIM
+
+Subnetwork 14
+(e.g. TCP/IP x .25)
+
+SMPP
+
+WAP Proxy Server
+
+Apps.
+
+WSP
+
+23 24
+WTP
+
+WDP & adaptation
+
+WAP IGW
+
+TCP
+
+Fig. 1
+
+Subnetwork =
+
+(e.g. TCP/IP x 25)
+a
+
+1/3
+
+cf
+
+816
+2/3
+SMSC MSC MS
+DART
+—_
+Sen
+eakwp -
+eAcM
+ee 1
+-— OSC
+REL
+RE;
+Ei.
+RUC.
+> ALC
+_-
+Fig. 2
+SMSC MSC. MS
+Al
+~~
+SGM »
+Setup including (AM and Son
+eACH
+' cise
+—_
+REL
+_— REL.
+———
+PLC — RLG
+~~
+
+Fig. 3
+
+CO
+
+oN
+
+a)
+
+3/3
+SMSC MSC. MS
+Setup
+iAM
+—
+eA
+—
+REL 1
+—e- OIC
+RLG REL
+a _
+RL
+S ——
+Fig. 4
+SMSC MSC IS
+un Satup inc, full cverlength date
+—
+‘ SGM
+eA
+—»
+DISC
+REL al
+—jie-
+REL
+REC <
+=_—
+ALC
+——»-
+
+Fig. 5
+
+CO
+
+ON
+
+fh
+

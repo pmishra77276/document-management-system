@@ -1,0 +1,426 @@
+﻿Payment/ Acceptance against Import Bill for Collection 
+
+ 
+
+SL No Particular of Documents Mandatory(M)/ Page No 
+
+Optional(O) 
+
+ Request letter with Debit Authority (received from    
+
+ branch along with Bill presentation Memo)   
+
+   
+
+1. Request Letter for Acceptance of BOE (received M      2-5 
+
+ from branch along with Bill Presentation Memo) 
+
+3. Accepted BOE in case of Usance Bill (Available with M        6 
+
+Bill, to obtained from Branch at the time of 
+
+transaction) 
+
+ 
+
+Pre Checks 
+
+1. Bill of Exchange to be stamped as per Indian Stamp Act if usance period is 90 days 
+
+or more. 
+
+ 
+
+2.  Bill drawn involving any counterparties/countries /shipping lines /ship flags /ports 
+
+/shore listed under OFAC/UN sanctions would not be handled by us. 
+
+ 
+
+3. RBI/FEMA guideline will be applicable from time to time  
+
+ 
+
+4. Depending on the nature of transaction ICICI Bank may ask for additional 
+
+documents as and when required. 
+
+ 
+
+ 
+
+Post Transaction – Compliance 
+
+1. Bill of Entry should be submitted within 90 days from the date of payment. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+1 | P a g e  
+ 
+
+
+
+ 
+
+ 
+
+ 
+
+For Office Use 
+
+Date & Time of Receipt Tracking ref.no. Bill Ref. No 
+
+   
+
+  (To be filled in by Branch)           (To be filled in by Branch)             (To be filled in by Branch)                                                
+
+ 
+
+(This letter needs to be  taken from  customer  on their letter head, if  taken  on plain  paper  
+
+then For  seal  of the  customer  needs  to be  affixed  at all the places  it is signed) 
+
+ 
+
+ Customer’s Request letter for payment/Acceptance of Import Bill received under 
+
+Collection  
+
+ 
+
+The Branch Manager, 
+
+ICICI Bank Limited, 
+
+ 
+
+------------------------------ Branch      Date 
+
+ 
+
+Dear Sir / Madam, 
+
+Account number: 
+
+ 
+
+We wish to make payment (in case of at sight bill)/ accept (in case of usance bill)   the above 
+
+mentioned import bill received under collection by you (B2B): 
+
+  
+
+1 Import bill reference number  
+ 
+
+2   Import bill value  
+
+3   Remittance amount  
+
+4   PAN No             
+
+5   IE Code             
+
+6   H S Code No  
+
+   
+
+2 | P a g e  
+ 
+
+
+
+ 
+
+ 
+
+7   Commodity description  
+
+8 Dealing as a:  (Tick    √ as  {  } Trader     {  } Manufacturer 
+ 
+
+applicable) 
+ 
+
+9 Type of goods  (Tick    √ as  {  } Capital     {  } Non Capital 
+ 
+
+applicable) 
+ 
+
+10 Current Account / Cash credit             
+
+account NO. (For collecting the 
+
+charges) 
+ 
+
+11  EEFC Account number (if             
+
+applicable) 
+ 
+
+ 
+
+ 
+
+Debit Authorisation: 
+
+ 
+
+We request you to debit our EEFC account (as mentioned above), to the extent of---------- 
+
+______________ and collect balance amount including the charges from the Current account / 
+
+cash credit account number as mentioned above.  
+
+
+
+The details of forward contract(s), if any, booked against this payment is/are as follows: 
+
+ 
+
+Forward contract no. Forward contract Amount to be Due date of the 
+
+& date amount utilised for this contract 
+remittance 
+
+    
+
+ 
+
+         
+
+Reasons of delayed payment:  
+
+(Applicable if payment is being made after stipulated time as per FEMA guidelines; i.e. after 
+
+90 days/ six months from the date of shipment) 
+
+ 
+
+-------------------------------------------------------------------------------------------------------------------------- 
+
+                             
+
+ 
+
+3 | P a g e  
+ 
+
+
+
+ 
+
+ 
+
+DECLARATION-CUM-UNDERTAKING 
+
+ 
+
+Section- A  ( Import Evidence Declaration) 
+
+ 
+
+We hereby undertake that we shall submit the documentary evidence of import (i.e. Bill of 
+
+Entry for home consumption/ courier wrapper/ Postal appraisal Form/ Customs Assessment 
+
+Certificate, as applicable) within three months from the date of payment/acceptance of 
+
+documents. 
+
+ 
+
+Section - B (FEMA DECLARATION)- 
+
+ 
+
+(Under Section10 (5), Chapter III of The Foreign Exchange Management Act, 1999) 
+
+ 
+
+I / We hereby declare that the transaction the details of which are specifically mentioned in 
+
+the schedule hereunder, does not involve, and is not designed for the purpose of any 
+
+contravention or evasion of the provisions of the aforesaid act of any rule, regulation, 
+
+notification, direction or order made thereunder. 
+
+ 
+
+ I/ We also hereby agree and undertake to give such information/ documents as will 
+
+reasonably satisfy you about this transaction in terms of the above declaration. 
+
+ 
+
+I/ We also understand that if I/ We refuse to comply with any such requirements or make only 
+
+unsatisfactory compliance therewith, the bank shall refuse in writing to undertake the 
+
+transaction and shall, if it has reason to believe that any contravention /evasion is 
+
+contemplated by me/us, report the matter to Reserve Bank Of India. 
+
+ 
+
+SCHEDULE: Details of the foreign exchange transaction are given herein this request letter 
+
+ 
+
+ 
+
+ 
+
+ 
+
+4 | P a g e  
+ 
+
+
+
+ 
+
+Section - B (NNL-Non Negative List declaration)  
+
+We hereby affirm, declare and undertake that:  Tick √   as applicable out of below. 
+
+{  } The goods imported/ being imported by us are not covered under Negative list, 
+
+Restricted category and the items reserved for State Trading Enterprises (STEs)/ 
+
+Nominated Agencies as per the latest Foreign Trade Policy ( as amended till date)  
+
+notified by Government of India, Ministry of Commerce & Industry, Department of 
+
+Commerce, Directorate General of Foreign Trade , New Delhi. Accordingly we are 
+
+eligible to import the above mentioned goods under the said Foreign Trade Policy 
+
+(FTP).We shall comply with the provisions contained in the said policy. Or 
+
+{  } The goods imported/ being imported by us are  covered under  Restricted category 
+
+as per the latest Foreign Trade Policy ( as amended till date)  notified by Government 
+
+of India, Ministry of Commerce & Industry, Department of Commerce, Directorate 
+
+General of Foreign Trade , New Delhi and the Import License/Authorization under 
+
+which the goods imported/being imported, is enclosed. We shall comply with the 
+
+conditions and provisions of said license and also the said policy. 
+
+                        Or 
+
+{  } The goods imported/ being imported by us are covered under  the category of 
+
+items reserved for State Trading Enterprises (STEs)/ Nominated Agencies as per the 
+
+latest Foreign Trade Policy ( as amended till date)  notified by Government of India, 
+
+Ministry of Commerce & Industry, Department of Commerce, Directorate General of 
+
+Foreign Trade , New Delhi and  accordingly we are eligible to import the above 
+
+mentioned goods under the current Foreign Trade Policy in place and we shall comply 
+
+with the provisions of the said policy. 
+
+I/We also hereby agree and undertake to give such information/documents as will reasonably 
+
+satisfy you about this transaction in terms of the above declaration.  I/We also understand that 
+
+if I/We refuse to comply with any such requirement or make only unsatisfactory compliance 
+
+therewith, the bank shall refuse in writing to undertake the transaction and shall if it has reason 
+
+to believe that any contravention/evasion is contemplated by me/us report the matter to 
+
+Reserve Bank of India.  
+
+*I/We further declare that the undersigned has/have the authority to give this declaration and 
+
+undertaking on behalf of the company. 
+
+*Applicable when the declaration /undertaking is signed on behalf of the firm / company  
+
+* The necessary documents for processing the transaction to be shared along with this 
+
+customer request letter 
+
+Yours faithfully, 
+
+ 
+
+---------------------------------------------------------------- 
+
+AUTHORISED SIGNATORY 
+
+(For seal of the company / firm to be affixed at the place) 
+
+5 | P a g e  
+ 
+
+
+
+ 
+
+Bill of Exchange- 1st 
+ 
+
+Draft No:                                                                                                                                                                      
+Dated: 
+
+For Amount of: USD 50,000.00 
+
+ 
+
+On Demand/ At 90 days sight (Specific date as per LC term) of this first Bill of Exchange (Seconded date 
+and tenor remain same being unpaid). 
+
+Pay to the order of ICICI Bank Ltd / Name of Importer (As per the LC status) the sum of US Dollar 50, 
+00.00 . 
+
+Drawn under: Invoice No______________________________________ 
+
+LC No: ______________________________ 
+
+LC Issued By:__________________________ 
+
+ 
+
+ 
+
+ 
+
+To. 
+
+Name of Importer 
+
+Address of Importer 
+
+ 
+
+ 
+
+Exporter name 
+
+Signature 
+
+6 | P a g e
