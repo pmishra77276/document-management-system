@@ -11,7 +11,8 @@ from pdf2image import convert_from_path
 import fitz  # PyMuPDF
 import json
 from langchain.text_splitter import RecursiveCharacterTextSplitter
-from langchain.embeddings import HuggingFaceEmbeddings
+from langchain_community.embeddings import HuggingFaceEmbeddings
+
 from sklearn.metrics.pairwise import cosine_similarity
 from transformers import TrOCRProcessor, VisionEncoderDecoderModel
 from doctr.io import DocumentFile
@@ -24,35 +25,29 @@ device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 print(f"Using device: {device}")
 
 # Initialize models
-@app.before_first_request
+
+print("Loading TrOCR models...")
+trocr_processor = TrOCRProcessor.from_pretrained("microsoft/trocr-large-handwritten")
+trocr_model = VisionEncoderDecoderModel.from_pretrained("microsoft/trocr-large-handwritten").to(device)
+
+# Initialize DocTR
+print("Loading DocTR models...")
+detector = ocr_predictor(pretrained=True)
+
+text_splitter = RecursiveCharacterTextSplitter(
+chunk_size=1500,
+chunk_overlap=0
+)
+
+# Initialize embeddings model
+print("Loading embedding model...")
+model = HuggingFaceEmbeddings(
+model_name="intfloat/e5-large-v2",
+)
 def initialize_models():
     global trocr_processor, trocr_model, detector, text_splitter, model, emb_dict
-    
-    # Initialize TrOCR
-    print("Loading TrOCR models...")
-    trocr_processor = TrOCRProcessor.from_pretrained("microsoft/trocr-large-handwritten")
-    trocr_model = VisionEncoderDecoderModel.from_pretrained("microsoft/trocr-large-handwritten").to(device)
-    
-    # Initialize DocTR
-    print("Loading DocTR models...")
-    detector = ocr_predictor(pretrained=True)
-    
-    # Initialize text splitter
-    text_splitter = RecursiveCharacterTextSplitter(
-        chunk_size=1500,
-        chunk_overlap=0
-    )
-    
-    # Initialize embeddings model
-    print("Loading embedding model...")
-    model = HuggingFaceEmbeddings(
-        model_name="intfloat/e5-large-v2",
-    )
-    
-    # Load embeddings from Solr
-    print("Loading embeddings from Solr...")
-    emb_dict = load_embeddings_from_solr()
-    print(f"Loaded {len(emb_dict)} embeddings from Solr")
+    return
+
 
 def load_embeddings_from_solr():
     CORE = "emb_core"
@@ -84,7 +79,9 @@ def load_embeddings_from_solr():
     except Exception as e:
         print(f"Error loading embeddings from Solr: {str(e)}")
         return {}
-
+print("Loading embeddings from Solr...")
+emb_dict = load_embeddings_from_solr()
+print(f"Loaded {len(emb_dict)} embeddings from Solr")
 def classify_and_extract_pdf(pdf_path, text_threshold=20):
     doc = fitz.open(pdf_path)
     image_pages = 0
@@ -421,4 +418,5 @@ if __name__ == '__main__':
     os.makedirs("extracted_data", exist_ok=True)
     
     print("Starting Flask server...")
-    app.run(host='0.0.0.0', port=5000, debug=True)
+    app.run(host='0.0.0.0', port=5000, debug=False, use_reloader=False)
+
