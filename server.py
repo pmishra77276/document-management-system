@@ -6,10 +6,7 @@ import time
 import argparse
 
 def install_dependencies():
-    """Install required dependencies for both server and client."""
     print("Installing dependencies...")
-    
-    # List of packages to install for both the server and client
     server_packages = [
         "flask",
         "PyMuPDF",
